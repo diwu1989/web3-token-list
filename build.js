@@ -54,6 +54,7 @@ async function generate(chainId) {
         for (const token of rawTokens) {
             seen[token.address.toLowerCase()] = token
         }
+        console.info(`chain ${chainId} fetched ${rawTokens.length} tokens from ${tokenListUrl}`)
     }
 
     for (const token of additions) {
@@ -78,7 +79,7 @@ async function run() {
         const tokens = await generate(chainId)
         const outputFile = `./build/${chainId}-tokens.json`
         fs.writeFileSync(outputFile, JSON.stringify(tokens, null, 2))
-        console.info(`network chain ${chainId}, ${tokens.length} tokens, output ${outputFile}`)
+        console.info(`chain ${chainId}, ${tokens.length} tokens, output ${outputFile}`)
     }
 }
 run()
