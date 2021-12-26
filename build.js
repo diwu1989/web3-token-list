@@ -4,11 +4,20 @@ const axios = require('axios').default
 
 const TOKEN_LIST = {
     // avalanche
-    43114: 'https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/joe.tokenlist.json',
+    43114: [
+        'https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/joe.tokenlist.json',
+        'https://raw.githubusercontent.com/sushiswap/default-token-list/master/tokens/avalanche.json'
+    ],
     // celo
-    42220: 'https://raw.githubusercontent.com/Ubeswap/default-token-list/master/ubeswap.token-list.json',
+    42220: [
+        'https://raw.githubusercontent.com/Ubeswap/default-token-list/master/ubeswap.token-list.json',
+        'https://raw.githubusercontent.com/sushiswap/default-token-list/master/tokens/celo.json'
+    ],
     // polygon
-    137: 'https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/src/tokens/mainnet.json'
+    137: [
+        'https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/src/tokens/mainnet.json',
+        'https://raw.githubusercontent.com/BlockTimeWorld/SwapMatic/master/alpha.tokenlist.json'
+    ]
 }
 
 function validateToken(chainId, token) {
@@ -19,8 +28,8 @@ function validateToken(chainId, token) {
 }
 
 async function generate(chainId) {
-    const tokenListUrl = TOKEN_LIST[chainId]
-    if (!tokenListUrl) {
+    const tokenListUrls = TOKEN_LIST[chainId]
+    if (!tokenListUrls) {
         return
     }
     let additions = []
@@ -30,18 +39,21 @@ async function generate(chainId) {
         // ignore missing additions
     }
 
-    const response = await axios.get(tokenListUrl)
-    let rawTokens = response.data
-    if (Array.isArray(rawTokens)) {
-        // token is already array, just append new ones in
-    } else {
-        rawTokens = rawTokens.tokens
-    }
-
     // remove duplicate tokens
     let seen = {}
-    for (const token of rawTokens) {
-        seen[token.address.toLowerCase()] = token
+
+    for (tokenListUrl of tokenListUrls) {
+        const response = await axios.get(tokenListUrl)
+        let rawTokens = response.data
+        if (Array.isArray(rawTokens)) {
+            // token is already array, just append new ones in
+        } else {
+            rawTokens = rawTokens.tokens
+        }
+
+        for (const token of rawTokens) {
+            seen[token.address.toLowerCase()] = token
+        }
     }
 
     for (const token of additions) {
