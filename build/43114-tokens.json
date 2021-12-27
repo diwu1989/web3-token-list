@@ -449,6 +449,14 @@
   },
   {
     "chainId": 43114,
+    "address": "0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf",
+    "decimals": 18,
+    "name": "Pollen",
+    "symbol": "PLN",
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf/logo.png"
+  },
+  {
+    "chainId": 43114,
     "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
     "decimals": 18,
     "name": "Old Wrapped Ether",

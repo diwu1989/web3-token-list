@@ -1,0 +1,10 @@
+[
+    {
+        "address": "0x22401536505dd5d85F7d57f8B37172feDa8f499d",
+        "name": "CeloShiba",
+        "symbol": "cSHIBA",
+        "decimals": 9,
+        "chainId": 42220,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cshiba.jpg"
+    }
+]

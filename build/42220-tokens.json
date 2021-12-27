@@ -109,7 +109,7 @@
     "symbol": "SUSHI",
     "decimals": 18,
     "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets//logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x29dFce9c22003A4999930382Fd00f9Fd6133Acd1/logo.png"
   },
   {
     "name": "wrapped.com Ethereum",
@@ -406,14 +406,6 @@
     "decimals": 6,
     "chainId": 42220,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0xef4229c8c3250C675F21BCefa42f58EfbfF6002a/logo.png"
-  },
-  {
-    "address": "0x22401536505dd5d85F7d57f8B37172feDa8f499d",
-    "name": "CeloShiba",
-    "symbol": "cSHIBA",
-    "decimals": 9,
-    "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cshiba.jpg"
   },
   {
     "address": "0xD90BBdf5904cb7d275c41f897495109B9A5adA58",

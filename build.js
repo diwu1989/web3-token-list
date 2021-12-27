@@ -39,6 +39,13 @@ async function generate(chainId) {
         // ignore missing additions
     }
 
+    let removals = []
+    try {
+        removals = require(`./removals/${chainId}`)
+    } catch (err) {
+        // ignore missing removals
+    }
+
     // remove duplicate tokens
     let seen = {}
 
@@ -62,6 +69,11 @@ async function generate(chainId) {
         if (!seen[address]) {
             seen[address] = token
         }
+    }
+
+    for (const token of removals) {
+        let address = token.address.toLowerCase()
+        delete seen[address]
     }
 
     const combined = []
