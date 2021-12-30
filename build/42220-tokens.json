@@ -408,14 +408,6 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0xef4229c8c3250C675F21BCefa42f58EfbfF6002a/logo.png"
   },
   {
-    "address": "0xD90BBdf5904cb7d275c41f897495109B9A5adA58",
-    "name": "CeloDoge",
-    "symbol": "cDOGE",
-    "decimals": 9,
-    "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cdoge.jpg"
-  },
-  {
     "address": "0xD15EC721C2A896512Ad29C671997DD68f9593226",
     "name": "Optics SushiToken v1",
     "symbol": "SUSHIv1",
