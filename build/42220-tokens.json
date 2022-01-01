@@ -542,13 +542,5 @@
     "chainId": 42220,
     "decimals": 9,
     "logoURI": ""
-  },
-  {
-    "address": "0xF71c475F566273CC549f597872c6432642D96deF",
-    "name": "Staked Immortal",
-    "symbol": "sIMMO",
-    "chainId": 42220,
-    "decimals": 9,
-    "logoURI": ""
   }
 ]
