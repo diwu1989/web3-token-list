@@ -2,14 +2,16 @@
   "name": "web3-token-list",
   "version": "1.0.0",
   "description": "",
-  "main": "generate.js",
+  "main": "./dist/src/index.js",
+  "types": "./dist/src/index.d.ts",
   "dependencies": {},
   "devDependencies": {
-    "axios": "^0.24.0"
+    "axios": "^0.24.0",
+    "typescript": "^4.5.4"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "./build.js"
+    "build": "./build.js && npx tsc"
   },
   "repository": {
     "type": "git",
