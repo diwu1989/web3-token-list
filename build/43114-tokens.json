@@ -457,6 +457,30 @@
   },
   {
     "chainId": 43114,
+    "address": "0x7761E2338B35bCEB6BdA6ce477EF012bde7aE611",
+    "decimals": 18,
+    "name": "Chikn Egg",
+    "symbol": "EGG",
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x7761E2338B35bCEB6BdA6ce477EF012bde7aE611/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xab592d197ACc575D16C3346f4EB70C703F308D1E",
+    "decimals": 18,
+    "name": "Chikn Feed",
+    "symbol": "FEED",
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xab592d197ACc575D16C3346f4EB70C703F308D1E/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x1d60109178C48E4A937D8AB71699D8eBb6F7c5dE",
+    "decimals": 9,
+    "name": "Magnet",
+    "symbol": "MAG",
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1d60109178C48E4A937D8AB71699D8eBb6F7c5dE/logo.png"
+  },
+  {
+    "chainId": 43114,
     "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
     "decimals": 18,
     "name": "Old Wrapped Ether",
