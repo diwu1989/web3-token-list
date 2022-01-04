@@ -13,6 +13,9 @@ const TOKEN_LIST = {
         'https://raw.githubusercontent.com/Ubeswap/default-token-list/master/ubeswap.token-list.json',
         'https://raw.githubusercontent.com/sushiswap/default-token-list/master/tokens/celo.json'
     ],
+    44787: [
+        'https://raw.githubusercontent.com/Ubeswap/default-token-list/master/ubeswap-experimental.token-list.json',
+    ],
     // polygon
     137: [
         'https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/src/tokens/mainnet.json',

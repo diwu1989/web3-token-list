@@ -376,6 +376,14 @@
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcEUR.png"
   },
   {
+    "address": "0xE685d21b7B0FC7A248a6A8E03b8Db22d013Aa2eE",
+    "name": "Immortal",
+    "symbol": "IMMO",
+    "decimals": 9,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_IMMO.png"
+  },
+  {
     "address": "0xE74AbF23E1Fdf7ACbec2F3a30a772eF77f1601E1",
     "name": "Poof v1 CELO",
     "symbol": "pCELOxV1",
@@ -533,14 +541,6 @@
     "symbol": "asUSDC",
     "chainId": 42220,
     "decimals": 18,
-    "logoURI": ""
-  },
-  {
-    "address": "0xE685d21b7B0FC7A248a6A8E03b8Db22d013Aa2eE",
-    "name": "Immortal",
-    "symbol": "IMMO",
-    "chainId": 42220,
-    "decimals": 9,
     "logoURI": ""
   }
 ]
