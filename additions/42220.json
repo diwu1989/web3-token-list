@@ -1,24 +1,8 @@
 [
    {
-      "address":"0xD15EC721C2A896512Ad29C671997DD68f9593226",
-      "name":"SushiToken",
-      "symbol":"SUSHI",
-      "chainId":42220,
-      "decimals":18,
-      "logoURI":""
-   },
-   {
       "address":"0xC7144Fa865c9f3a6836167A51531A2CC8b0ab5fD",
       "name":"CeloDex.org",
       "symbol":"CLX",
-      "chainId":42220,
-      "decimals":18,
-      "logoURI":""
-   },
-   {
-      "address":"0xE919F65739c26a42616b7b8eedC6b5524d1e3aC4",
-      "name":"Wrapped Ether",
-      "symbol":"WETH",
       "chainId":42220,
       "decimals":18,
       "logoURI":""
