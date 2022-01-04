@@ -126,13 +126,5 @@
       "chainId":42220,
       "decimals":18,
       "logoURI":""
-   },
-   {
-      "address":"0xE685d21b7B0FC7A248a6A8E03b8Db22d013Aa2eE",
-      "name":"Immortal",
-      "symbol":"IMMO",
-      "chainId":42220,
-      "decimals":9,
-      "logoURI":""
    }
 ]
