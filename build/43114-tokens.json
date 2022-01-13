@@ -152,14 +152,6 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
   },
   {
-    "chainId": 43114,
-    "address": "0xd039C9079ca7F2a87D632A9C0d7cEa0137bAcFB5",
-    "decimals": 9,
-    "name": "Ape-X",
-    "symbol": "APE-X",
-    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd039C9079ca7F2a87D632A9C0d7cEa0137bAcFB5/logo.png"
-  },
-  {
     "address": "0x130966628846BFd36ff31a822705796e8cb8C18D",
     "chainId": 43114,
     "name": "Magic Internet Money",
@@ -353,14 +345,6 @@
   },
   {
     "chainId": 43114,
-    "address": "0x5eDE350E84223fb50775fD91a723F2ca71034cf7",
-    "decimals": 9,
-    "name": "AWOOL",
-    "symbol": "aWOOL",
-    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5eDE350E84223fb50775fD91a723F2ca71034cf7/logo.png"
-  },
-  {
-    "chainId": 43114,
     "address": "0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6",
     "decimals": 18,
     "name": "Colony Token",
@@ -513,6 +497,14 @@
   },
   {
     "chainId": 43114,
+    "address": "0x637afeff75ca669fF92e4570B14D6399A658902f",
+    "decimals": 18,
+    "name": "Poly-Peg Cook",
+    "symbol": "COOK",
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x637afeff75ca669fF92e4570B14D6399A658902f/logo.png"
+  },
+  {
+    "chainId": 43114,
     "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
     "decimals": 18,
     "name": "Old Wrapped Ether",
@@ -606,5 +598,13 @@
     "symbol": "BSGG",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x69570f3E84f51Ea70b7B68055c8d667e77735a25.jpg"
+  },
+  {
+    "address": "0xdef1fac7Bf08f173D286BbBDcBeeADe695129840",
+    "chainId": 43114,
+    "name": "Cerby Token",
+    "symbol": "CERBY",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png"
   }
 ]
