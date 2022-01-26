@@ -225,14 +225,6 @@
     },
     {
         "chainId": 43114,
-        "address": "0xb2a85C5ECea99187A977aC34303b80AcbDdFa208",
-        "decimals": 18,
-        "name": "ROCO",
-        "symbol": "ROCO",
-        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208/logo.png"
-    },
-    {
-        "chainId": 43114,
         "address": "0x027dbcA046ca156De9622cD1e2D907d375e53aa7",
         "decimals": 9,
         "name": "Ampleforth",
@@ -502,6 +494,62 @@
         "name": "Poly-Peg Cook",
         "symbol": "COOK",
         "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x637afeff75ca669fF92e4570B14D6399A658902f/logo.png"
+    },
+    {
+        "chainId": 43114,
+        "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+        "decimals": 6,
+        "name": "Tether Token",
+        "symbol": "USDT",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png"
+    },
+    {
+        "chainId": 43114,
+        "address": "0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c",
+        "decimals": 18,
+        "name": "HeroesChained",
+        "symbol": "HeC",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c/logo.png"
+    },
+    {
+        "chainId": 43114,
+        "address": "0x62edc0692BD897D2295872a9FFCac5425011c661",
+        "decimals": 18,
+        "name": "GMX",
+        "symbol": "GMX",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x62edc0692BD897D2295872a9FFCac5425011c661/logo.png"
+    },
+    {
+        "chainId": 43114,
+        "address": "0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30",
+        "decimals": 18,
+        "name": "Dragon Crypto Aurum",
+        "symbol": "DCAU",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30/logo.png"
+    },
+    {
+        "chainId": 43114,
+        "address": "0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C",
+        "decimals": 18,
+        "name": "Ferrum Network Token",
+        "symbol": "FRM",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C/logo.png"
+    },
+    {
+        "chainId": 43114,
+        "address": "0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79",
+        "decimals": 18,
+        "name": "THOR v2",
+        "symbol": "THOR",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79/logo.png"
+    },
+    {
+        "chainId": 43114,
+        "address": "0xd9D90f882CDdD6063959A9d837B05Cb748718A05",
+        "decimals": 18,
+        "name": "More Token",
+        "symbol": "MORE",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xd9D90f882CDdD6063959A9d837B05Cb748718A05/logo.png"
     },
     {
         "chainId": 43114,
