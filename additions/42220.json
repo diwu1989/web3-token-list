@@ -118,5 +118,13 @@
       "chainId":42220,
       "decimals":18,
       "logoURI":"https://raw.githubusercontent.com/kyscott18/default-token-list/master/assets/asset_UST.png"
-   }
+   },
+   {
+      "address": "0x8427bD503dd3169cCC9aFF7326c15258Bc305478",
+      "name": "Symmetric V2",
+      "symbol": "SYMMv2",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SYMM.png"
+    }
 ]
