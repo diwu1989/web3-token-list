@@ -10,8 +10,9 @@ const TOKEN_LIST = {
     ],
     // celo
     42220: [
+        'https://raw.githubusercontent.com/sushiswap/default-token-list/master/tokens/celo.json',
         'https://raw.githubusercontent.com/Ubeswap/default-token-list/master/ubeswap.token-list.json',
-        'https://raw.githubusercontent.com/sushiswap/default-token-list/master/tokens/celo.json'
+        'https://raw.githubusercontent.com/Ubeswap/default-token-list/master/ubeswap-experimental.token-list.json'
     ],
     44787: [
         'https://raw.githubusercontent.com/Ubeswap/default-token-list/master/ubeswap-experimental.token-list.json',
