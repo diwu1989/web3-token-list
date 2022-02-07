@@ -8,54 +8,6 @@
       "logoURI":""
    },
    {
-      "address":"0xBe50a3013A1c94768A1ABb78c3cB79AB28fc1aCE",
-      "name":"Wrapped BTC",
-      "symbol":"WBTC",
-      "chainId":42220,
-      "decimals":8,
-      "logoURI":""
-   },
-   {
-      "address":"0x3aF556B48469D2398AB7BE1563a0cfd80ea4aC84",
-      "name":"Wrapped Matic",
-      "symbol":"WMATIC",
-      "chainId":42220,
-      "decimals":18,
-      "logoURI":""
-   },
-   {
-      "address":"0xE4fE50cdD716522A56204352f00AA110F731932d",
-      "name":"Dai Stablecoin",
-      "symbol":"DAI",
-      "chainId":42220,
-      "decimals":18,
-      "logoURI":""
-   },
-   {
-      "address":"0xd954C4c006189d967507b8ba758605364eB660D2",
-      "name":"Sky Portal Token (LAPIS)",
-      "symbol":"LAPIS",
-      "chainId":42220,
-      "decimals":18,
-      "logoURI":""
-   },
-   {
-      "address":"0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
-      "name":"beefy.finance",
-      "symbol":"BIFI",
-      "chainId":42220,
-      "decimals":18,
-      "logoURI":""
-   },
-   {
-      "address":"0x2A3684e9Dc20B857375EA04235F2F7edBe818FA7",
-      "name":"USD Coin",
-      "symbol":"USDC",
-      "chainId":42220,
-      "decimals":6,
-      "logoURI":""
-   },
-   {
       "address":"0x6e512BFC33be36F2666754E996ff103AD1680Cc9",
       "name":"Allbridge",
       "symbol":"ABR",
@@ -83,22 +35,6 @@
       "address":"0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
       "name":"Binance-Peg BUSD Token",
       "symbol":"BUSD",
-      "chainId":42220,
-      "decimals":18,
-      "logoURI":""
-   },
-   {
-      "address":"0xb020D981420744F6b0FedD22bB67cd37Ce18a1d5",
-      "name":"Tether USD",
-      "symbol":"USDT",
-      "chainId":42220,
-      "decimals":6,
-      "logoURI":""
-   },
-   {
-      "address":"0xcFFfE0c89a779c09Df3DF5624f54cDf7EF5fDd5D",
-      "name":"cUSDT",
-      "symbol":"cUSDT",
       "chainId":42220,
       "decimals":18,
       "logoURI":""
