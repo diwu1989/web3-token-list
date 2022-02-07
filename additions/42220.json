@@ -62,5 +62,12 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SYMM.png"
+   },
+   {
+      "address": "0x9802d866fdE4563d088a6619F7CeF82C0B991A55",
+      "name": "Moola cREAL",
+      "symbol": "mcREAL",
+      "chainId": 42220,
+      "decimals": 18
    }
 ]
