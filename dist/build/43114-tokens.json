@@ -569,7 +569,7 @@
     },
     {
         "chainId": 43114,
-        "address": "0xed2b42d3c9c6e97e11755bb37df29b6375ede3eb",
+        "address": "0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB",
         "decimals": 18,
         "name": "Hon Token",
         "symbol": "HON",
@@ -601,7 +601,7 @@
     },
     {
         "chainId": 43114,
-        "address": "0xfcc6ce74f4cd7edef0c5429bb99d38a3608043a5",
+        "address": "0xfcc6CE74f4cd7eDEF0C5429bB99d38A3608043a5",
         "decimals": 18,
         "name": "FIRE",
         "symbol": "FIRE",

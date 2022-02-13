@@ -9,7 +9,7 @@
   },
   {
     "name": "0xMonero from Ethereum",
-    "address": "0x8c88ea1fd60462ef7004b9e288afcb4680a3c50c",
+    "address": "0x8c88eA1fD60462Ef7004B9e288afCB4680a3c50c",
     "symbol": "0xMR",
     "decimals": 18,
     "chainId": 100,
@@ -33,7 +33,7 @@
   },
   {
     "name": "Adept Coin Governance from Ethereum",
-    "address": "0x5f1f81de1d21b97a5d0d5d62d89bde9ddec27325",
+    "address": "0x5f1F81de1D21b97a5d0D5d62d89BDE9DdEc27325",
     "symbol": "AC",
     "decimals": 18,
     "chainId": 100,
@@ -57,7 +57,7 @@
   },
   {
     "name": "Agave",
-    "address": "0x3a97704a1b25f08aa230ae53b352e2e72ef52843",
+    "address": "0x3a97704a1b25F08aa230ae53B352e2e72ef52843",
     "symbol": "AGVE",
     "decimals": 18,
     "chainId": 100,
@@ -89,7 +89,7 @@
   },
   {
     "name": "aleph.im v2 on xDai",
-    "address": "0x4bc97997883c0397f556bd0f9da6fb71da22f9a2",
+    "address": "0x4BC97997883C0397F556bd0F9Da6Fb71da22F9a2",
     "symbol": "ALEPH",
     "decimals": 18,
     "chainId": 100,
@@ -113,7 +113,7 @@
   },
   {
     "name": "Aragon Network Token on xDai",
-    "address": "0x437a044fb4693890e61d2c1c88e3718e928b8e90",
+    "address": "0x437a044fb4693890E61D2C1c88E3718E928B8E90",
     "symbol": "ANTv1",
     "decimals": 18,
     "chainId": 100,
@@ -249,7 +249,7 @@
   },
   {
     "name": "Bidao on xDai",
-    "address": "0x2977893f4c04bfbd6efc68d0e46598d27810d3db",
+    "address": "0x2977893F4C04bfbd6EFc68d0e46598d27810d3dB",
     "symbol": "BID",
     "decimals": 18,
     "chainId": 100,
@@ -345,7 +345,7 @@
   },
   {
     "name": "CFX Quantum from Ethereum",
-    "address": "0x64b17a95e6c45306fb23bc526eb2dc9e1331a1b1",
+    "address": "0x64b17a95e6C45306FB23Bc526eB2dc9E1331a1b1",
     "symbol": "CFXQ",
     "decimals": 6,
     "chainId": 100,
@@ -401,7 +401,7 @@
   },
   {
     "name": "Curve DAO Token on xDai",
-    "address": "0x712b3d230f3c1c19db860d80619288b1f0bdd0bd",
+    "address": "0x712b3d230F3C1c19db860d80619288b1F0BDd0Bd",
     "symbol": "CRV",
     "decimals": 18,
     "chainId": 100,
@@ -409,7 +409,7 @@
   },
   {
     "name": "Concentrated Voting Power on xDai",
-    "address": "0x7da0bfe9d26c5b64c7580c04bb1425364273e4b0",
+    "address": "0x7Da0bFE9D26C5b64c7580c04Bb1425364273E4b0",
     "symbol": "CVP",
     "decimals": 18,
     "chainId": 100,
@@ -425,7 +425,7 @@
   },
   {
     "name": "Daibase xDAI v0.1.61",
-    "address": "0x4ef1d9a329a0cb0658156aff55c406cc4393a987",
+    "address": "0x4Ef1d9A329a0CB0658156aFF55c406cC4393A987",
     "symbol": "DAIX",
     "decimals": 18,
     "chainId": 100,
@@ -505,7 +505,7 @@
   },
   {
     "name": "Enigma on xDai",
-    "address": "0x7a7d81657a1a66b38a6ca2565433a9873c6913b2",
+    "address": "0x7a7d81657A1A66b38a6cA2565433A9873C6913B2",
     "symbol": "ENG",
     "decimals": 8,
     "chainId": 100,
@@ -569,7 +569,7 @@
   },
   {
     "name": "FalconSwap Token on xDai",
-    "address": "0xde1e70ed71936e4c249a7d43e550f0b99fccddfc",
+    "address": "0xde1E70ed71936E4C249a7d43E550f0b99FCCDDfC",
     "symbol": "FSW",
     "decimals": 18,
     "chainId": 100,
@@ -585,7 +585,7 @@
   },
   {
     "name": "Bitgear on xDai",
-    "address": "0x6f09cf96558d44584db07f8477dd3490599aa63e",
+    "address": "0x6f09CF96558d44584dB07f8477Dd3490599aA63E",
     "symbol": "GEAR",
     "decimals": 18,
     "chainId": 100,
@@ -601,7 +601,7 @@
   },
   {
     "name": "Golden Bull Token on xDAI",
-    "address": "0x30610f98b61593de963b2303aeeaee69823f561f",
+    "address": "0x30610f98b61593DE963b2303AeeaeE69823f561f",
     "symbol": "GLDB",
     "decimals": 18,
     "chainId": 100,
@@ -633,7 +633,7 @@
   },
   {
     "name": "HEX on xDai",
-    "address": "0xd9fa47e33d4ff7a1aca489de1865ac36c042b07a",
+    "address": "0xd9Fa47e33d4Ff7a1ACA489DE1865ac36c042B07a",
     "symbol": "HEX",
     "decimals": 8,
     "chainId": 100,
@@ -649,7 +649,7 @@
   },
   {
     "name": "Honey",
-    "address": "0x71850b7e9ee3f13ab46d67167341e4bdc905eef9",
+    "address": "0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9",
     "symbol": "HNY",
     "decimals": 18,
     "chainId": 100,
@@ -721,7 +721,7 @@
   },
   {
     "name": "Meridian Network on xDai",
-    "address": "0xf99efeb34aff6d3099c41605e9ee778caec39317",
+    "address": "0xF99efEB34aff6D3099C41605e9Ee778cAEC39317",
     "symbol": "LOCK",
     "decimals": 18,
     "chainId": 100,
@@ -961,7 +961,7 @@
   },
   {
     "name": "DeFiPIE Token on xDai",
-    "address": "0x317eab07380d670ea814025cba40f5624354a32f",
+    "address": "0x317eab07380d670Ea814025CbA40f5624354a32f",
     "symbol": "PIE",
     "decimals": 18,
     "chainId": 100,
@@ -993,7 +993,7 @@
   },
   {
     "name": "prophet.finance on xDai",
-    "address": "0xa9e5cd4efc86c01fae9a9fcd6e8669b97c92a937",
+    "address": "0xa9e5cd4Efc86c01FaE9a9Fcd6E8669B97c92a937",
     "symbol": "PROPHET",
     "decimals": 9,
     "chainId": 100,
@@ -1001,7 +1001,7 @@
   },
   {
     "name": "Particle",
-    "address": "0xb5d592f85ab2d955c25720ebe6ff8d4d1e1be300",
+    "address": "0xB5d592f85ab2D955c25720EbE6FF8D4d1E1Be300",
     "symbol": "PRTCLE",
     "decimals": 18,
     "chainId": 100,
@@ -1033,7 +1033,7 @@
   },
   {
     "name": "Republic Token on xDai",
-    "address": "0x0da1a02cdf84c44021671d183d616925164e08aa",
+    "address": "0x0da1a02CDF84C44021671d183d616925164E08Aa",
     "symbol": "REN",
     "decimals": 18,
     "chainId": 100,
@@ -1097,7 +1097,7 @@
   },
   {
     "name": "rSURF",
-    "address": "0x5c8c83e5d5f7be815863b810d45d7bc706d7b15b",
+    "address": "0x5C8C83e5D5F7BE815863B810D45D7Bc706D7b15b",
     "symbol": "rSURF",
     "decimals": 9,
     "chainId": 100,
@@ -1105,7 +1105,7 @@
   },
   {
     "name": "xdai dao",
-    "address": "0x6b0f8a3fb7cb257ad7c72ada469ba1d3c19c5094",
+    "address": "0x6B0f8A3Fb7cb257AD7c72ADa469Ba1D3C19C5094",
     "symbol": "RXDAI",
     "decimals": 18,
     "chainId": 100,
@@ -1217,7 +1217,7 @@
   },
   {
     "name": "Symmetric",
-    "address": "0xc45b3c1c24d5f54e7a2cf288ac668c74dd507a84",
+    "address": "0xC45b3C1c24d5F54E7a2cF288ac668c74Dd507a84",
     "symbol": "SYMM",
     "decimals": 18,
     "chainId": 100,
@@ -1257,7 +1257,7 @@
   },
   {
     "name": "UniTrade on xDai",
-    "address": "0x860182180e146300df38aab8d328c6e80bec9547",
+    "address": "0x860182180e146300dF38aab8d328C6E80BEC9547",
     "symbol": "TRADE",
     "decimals": 18,
     "chainId": 100,
@@ -1297,7 +1297,7 @@
   },
   {
     "name": "UniBright on xDai",
-    "address": "0xd3b93ff74e43ba9568e5019b38addb804fef719b",
+    "address": "0xd3b93fF74E43Ba9568e5019b38AdDB804feF719B",
     "symbol": "UBT",
     "decimals": 8,
     "chainId": 100,
@@ -1321,7 +1321,7 @@
   },
   {
     "name": "Uniswap on xDai",
-    "address": "0x4537e328bf7e4efa29d05caea260d7fe26af9d74",
+    "address": "0x4537e328Bf7e4eFA29D05CAeA260D7fE26af9D74",
     "symbol": "UNI",
     "decimals": 18,
     "chainId": 100,
@@ -1393,7 +1393,7 @@
   },
   {
     "name": "Wrapped XDAI",
-    "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
+    "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
     "symbol": "WXDAI",
     "decimals": 18,
     "chainId": 100,
@@ -1425,7 +1425,7 @@
   },
   {
     "name": "Xion Global Token",
-    "address": "0xc25af3123d2420054c8fcd144c21113aa2853f39",
+    "address": "0xC25AF3123d2420054c8fcd144c21113aa2853F39",
     "symbol": "XGTv2",
     "decimals": 18,
     "chainId": 100,
@@ -1441,7 +1441,7 @@
   },
   {
     "name": "xMOON on xDai",
-    "address": "0x1e16aa4df73d29c029d94ceda3e3114ec191e25a",
+    "address": "0x1e16aa4Df73d29C029d94CeDa3e3114EC191E25A",
     "symbol": "XMOON",
     "decimals": 18,
     "chainId": 100,
@@ -1449,7 +1449,7 @@
   },
   {
     "name": "xREAP",
-    "address": "0x42c6b3ac30ae82d754498f56d9372f0070349409",
+    "address": "0x42c6b3aC30Ae82D754498f56D9372F0070349409",
     "symbol": "xREAP",
     "decimals": 18,
     "chainId": 100,
@@ -1473,7 +1473,7 @@
   },
   {
     "name": "XY Oracle on xDai",
-    "address": "0xfd4e5f45ea24ec50c4db4367380b014875caf219",
+    "address": "0xfd4e5f45eA24eC50C4Db4367380b014875caF219",
     "symbol": "XYO",
     "decimals": 18,
     "chainId": 100,
@@ -1577,7 +1577,7 @@
   },
   {
     "name": "SHE Sweatpants",
-    "address": "0x0dae13fae64180d3cadcad22329a4abcaef15ca6",
+    "address": "0x0DAe13FAe64180D3CadCAD22329a4abcaEF15cA6",
     "symbol": "PANTS",
     "decimals": 18,
     "chainId": 100,
@@ -1593,7 +1593,7 @@
   },
   {
     "name": "Raid Guild Token from Ethereum",
-    "address": "0x18e9262e68cc6c6004db93105cc7c001bb103e49",
+    "address": "0x18E9262e68Cc6c6004dB93105cc7c001BB103e49",
     "symbol": "RAID",
     "decimals": 18,
     "chainId": 100,
@@ -1609,7 +1609,7 @@
   },
   {
     "name": "Token Engineering Commons",
-    "address": "0x5df8339c5e282ee48c0c7ce8a7d01a73d38b3b27",
+    "address": "0x5dF8339c5E282ee48c0c7cE8A7d01a73D38B3B27",
     "symbol": "TEC",
     "decimals": 18,
     "chainId": 100,

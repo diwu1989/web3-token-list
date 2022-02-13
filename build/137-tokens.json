@@ -1657,7 +1657,7 @@
   },
   {
     "name": "OroPocket Gold",
-    "address": "0x2eea1d77238501dcd2c5fdb072b4569a30a520b8",
+    "address": "0x2EEA1d77238501dCD2c5FDb072b4569A30A520b8",
     "symbol": "GOLD",
     "decimals": 18,
     "chainId": 137,
@@ -1673,7 +1673,7 @@
   },
   {
     "name": "Yearn Finance World",
-    "address": "0x9cbc5d2a2690e3035948ae677f4462d1bdbd4024",
+    "address": "0x9CBc5D2a2690E3035948AE677F4462d1BdBd4024",
     "symbol": "YFW",
     "decimals": 18,
     "chainId": 137,
@@ -1705,7 +1705,7 @@
   },
   {
     "name": "PolyGas",
-    "address": "0x840b5fc8c6dee2b1140174a3abdc215190426ccf",
+    "address": "0x840B5FC8C6deE2b1140174a3ABdC215190426CCf",
     "symbol": "polyGAS",
     "decimals": 18,
     "chainId": 137,
@@ -1713,7 +1713,7 @@
   },
   {
     "name": "TMPO Token",
-    "address": "0x3d426638a42e0449022583d718944b95f92b593b",
+    "address": "0x3D426638a42E0449022583d718944B95F92B593B",
     "symbol": "TMPO",
     "decimals": 18,
     "chainId": 137,
@@ -1721,7 +1721,7 @@
   },
   {
     "name": "Pup Token",
-    "address": "0xcfe2cf35d2bdde84967e67d00ad74237e234ce59",
+    "address": "0xcFe2cF35D2bDDE84967e67d00aD74237e234CE59",
     "symbol": "PUP",
     "decimals": 18,
     "chainId": 137,
@@ -1729,7 +1729,7 @@
   },
   {
     "name": "South African Tether",
-    "address": "0x30de46509dbc3a491128f97be0aaf70dc7ff33cb",
+    "address": "0x30DE46509Dbc3a491128F97be0aAf70dc7Ff33cB",
     "symbol": "XZAR",
     "decimals": 8,
     "chainId": 137,
@@ -1745,7 +1745,7 @@
   },
   {
     "name": "Validator",
-    "address": "0x9d47b3faa5ff227d2bd404f572ef0ab0c8409161",
+    "address": "0x9d47b3FAA5fF227D2BD404F572eF0ab0C8409161",
     "symbol": "VALX",
     "decimals": 18,
     "chainId": 137,
@@ -1881,7 +1881,7 @@
   },
   {
     "chainId": 137,
-    "address": "0x4fdce518fe527439fe76883e6b51a1c522b61b7c",
+    "address": "0x4fdCE518fE527439Fe76883e6b51A1c522B61b7C",
     "name": "Coreto",
     "symbol": "COR",
     "decimals": 18,
@@ -2289,7 +2289,7 @@
   },
   {
     "name": "Razor",
-    "address": "0xc91c06db0f7bffba61e2a5645cc15686f0a8c828",
+    "address": "0xC91c06DB0f7bFFba61e2A5645CC15686F0a8c828",
     "symbol": "RAZOR",
     "decimals": 18,
     "chainId": 137,
@@ -2345,7 +2345,7 @@
   },
   {
     "chainId": 137,
-    "address": "0xa79e0bfc579c709819f4a0e95d4597f03093b011",
+    "address": "0xA79E0Bfc579c709819f4A0E95d4597f03093B011",
     "name": "Stater",
     "symbol": "STR",
     "decimals": 18,
@@ -2377,7 +2377,7 @@
   },
   {
     "chainId": 137,
-    "address": "0x67480287cb3715d1d9429b38772c71d6e94c16da",
+    "address": "0x67480287CB3715D1d9429B38772c71d6E94C16da",
     "name": "Union",
     "symbol": "UNN",
     "decimals": 18,

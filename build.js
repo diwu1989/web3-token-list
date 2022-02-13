@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 const fs = require("fs")
 const axios = require('axios').default
+const utils = require("web3-utils")
 
 const TOKEN_LIST = {
     // avalanche
@@ -69,21 +70,21 @@ async function generate(chainId) {
         }
 
         for (const token of rawTokens) {
-            seen[token.address.toLowerCase()] = token
+            token.address = utils.toChecksumAddress(token.address)
+            seen[token.address] = token
         }
         console.info(`chain ${chainId} fetched ${rawTokens.length} tokens from ${tokenListUrl}`)
     }
 
     for (const token of additions) {
-        let address = token.address.toLowerCase()
-        if (!seen[address]) {
-            seen[address] = token
+        token.address = utils.toChecksumAddress(token.address)
+        if (!seen[token.address]) {
+            seen[token.address] = token
         }
     }
 
     for (const token of removals) {
-        let address = token.address.toLowerCase()
-        delete seen[address]
+        delete seen[utils.toChecksumAddress(token.address)]
     }
 
     const combined = []
