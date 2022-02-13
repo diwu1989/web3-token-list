@@ -21,6 +21,11 @@ const TOKEN_LIST = {
     137: [
         'https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/src/tokens/mainnet.json',
         'https://raw.githubusercontent.com/BlockTimeWorld/SwapMatic/master/alpha.tokenlist.json'
+    ],
+    // gnosis
+    100: [
+        'https://raw.githubusercontent.com/sushiswap/default-token-list/master/tokens/xdai.json',
+        'https://unpkg.com/@1hive/default-token-list@5.23.0/build/honeyswap-default.tokenlist.json'
     ]
 }
 
