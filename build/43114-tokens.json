@@ -649,6 +649,22 @@
   },
   {
     "chainId": 43114,
+    "address": "0xeA068Fba19CE95f12d252aD8Cb2939225C4Ea02D",
+    "decimals": 18,
+    "name": "Fief",
+    "symbol": "FIEF",
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xeA068Fba19CE95f12d252aD8Cb2939225C4Ea02D/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+    "decimals": 18,
+    "name": "Staked AVAX",
+    "symbol": "sAVAX",
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE/logo.png"
+  },
+  {
+    "chainId": 43114,
     "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
     "decimals": 18,
     "name": "Old Wrapped Ether",

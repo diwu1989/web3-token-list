@@ -1552,6 +1552,14 @@
     "symbol": "QiDAO"
   },
   {
+    "address": "0xD3226B12e6188133b19Ac0419f34B0ed5B10f069",
+    "chainId": 100,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xD3226B12e6188133b19Ac0419f34B0ed5B10f069/logo.png",
+    "name": "EsportsRef",
+    "symbol": "ESR"
+  },
+  {
     "name": "Colony Network Token from Ethereum",
     "address": "0xc9B6218AffE8Aba68a13899Cbf7cF7f14DDd304C",
     "symbol": "CLNY",

@@ -424,6 +424,14 @@
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_PREMIO.png"
     },
     {
+        "address": "0x9802d866fdE4563d088a6619F7CeF82C0B991A55",
+        "name": "Moola cREAL",
+        "symbol": "mcREAL",
+        "chainId": 42220,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcREAL.png"
+    },
+    {
         "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
         "name": "Anyswap BNB",
         "symbol": "BNB",
@@ -590,12 +598,5 @@
         "chainId": 42220,
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SYMM.png"
-    },
-    {
-        "address": "0x9802d866fdE4563d088a6619F7CeF82C0B991A55",
-        "name": "Moola cREAL",
-        "symbol": "mcREAL",
-        "chainId": 42220,
-        "decimals": 18
     }
 ]
