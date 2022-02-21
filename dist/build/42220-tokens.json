@@ -598,5 +598,13 @@
         "chainId": 42220,
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SYMM.png"
+    },
+    {
+        "address": "0x37191488FbEe23652eC7794Cfb81020528968C7d",
+        "name": "cTOKEN",
+        "symbol": "cTOKEN",
+        "chainId": 42220,
+        "decimals": 18,
+        "logoURI": ""
     }
 ]
