@@ -232,6 +232,22 @@
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_MOBI.png"
   },
   {
+    "address": "0x46c9757C5497c5B1f2eb73aE79b6B67D119B0B58",
+    "name": "impactMarket",
+    "symbol": "PACT",
+    "chainId": 42220,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_PACT.png"
+  },
+  {
+    "address": "0x74c0C58B99b68cF16A717279AC2d056A34ba2bFe",
+    "name": "Source",
+    "symbol": "SOURCE",
+    "chainId": 42220,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SOURCE.png"
+  },
+  {
     "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
     "name": "Poof",
     "symbol": "POOF",
@@ -328,14 +344,6 @@
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cStar.png"
   },
   {
-    "address": "0x46c9757C5497c5B1f2eb73aE79b6B67D119B0B58",
-    "name": "impactMarket",
-    "symbol": "PACT",
-    "chainId": 42220,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_PACT.png"
-  },
-  {
     "address": "0x47264aE1Fc0c8e6418ebe78630718E11a07346A8",
     "name": "Allbridge SBR",
     "symbol": "SBR",
@@ -366,14 +374,6 @@
     "chainId": 42220,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_ABR.png"
-  },
-  {
-    "address": "0x74c0C58B99b68cF16A717279AC2d056A34ba2bFe",
-    "name": "Source",
-    "symbol": "SOURCE",
-    "chainId": 42220,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SOURCE.png"
   },
   {
     "address": "0x788BA01f8E2b87c08B142DB46F82094e0bdCad4F",

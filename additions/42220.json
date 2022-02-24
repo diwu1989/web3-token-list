@@ -70,5 +70,13 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": ""
+   },
+   {
+      "address": "0x503681c68f03bbbCe48005DCD7b83ae8D4fD745C",
+      "name": "Aave Token",
+      "symbol": "AAVE",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": ""
    }
 ]
