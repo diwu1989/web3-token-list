@@ -4,7 +4,7 @@ import PolygonTokens from "./build/137-tokens.json";
 import AlfajoresTokens from "./build/44787-tokens.json";
 import GnosisTokens from "./build/100-tokens.json";
 
-type Token = {
+export type Token = {
     chainId: number;
     address: string;
     decimals: number;
