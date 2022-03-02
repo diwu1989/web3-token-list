@@ -456,20 +456,20 @@
     "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0/logo.png"
   },
   {
-    "chainId": 43114,
     "address": "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
-    "decimals": 18,
-    "name": "FRAX",
+    "chainId": 43114,
+    "name": "Frax",
     "symbol": "FRAX",
-    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64/logo.png"
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/frax.jpg"
   },
   {
-    "chainId": 43114,
     "address": "0x214DB107654fF987AD859F34125307783fC8e387",
-    "decimals": 18,
+    "chainId": 43114,
     "name": "Frax Share",
     "symbol": "FXS",
-    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x214DB107654fF987AD859F34125307783fC8e387/logo.png"
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg"
   },
   {
     "chainId": 43114,
@@ -662,6 +662,38 @@
     "name": "Staked AVAX",
     "symbol": "sAVAX",
     "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xe6E7e03b60c0F8DaAE5Db98B03831610A60FfE1B",
+    "decimals": 18,
+    "name": "Vector",
+    "symbol": "VTX",
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe6E7e03b60c0F8DaAE5Db98B03831610A60FfE1B/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x060556209E507d30f2167a101bFC6D256Ed2f3e1",
+    "decimals": 18,
+    "name": "xPlatypus",
+    "symbol": "xPTP",
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x060556209E507d30f2167a101bFC6D256Ed2f3e1/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xeb8343D5284CaEc921F035207ca94DB6BAaaCBcd",
+    "decimals": 18,
+    "name": "Echidna",
+    "symbol": "ECD",
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xeb8343d5284caec921f035207ca94db6baaacbcd/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xb2C5172E5C15aF6aDD1ec92e518A5Ea1c7DeD2ad",
+    "decimals": 18,
+    "name": "Echidna PTP",
+    "symbol": "ecdPTP",
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb2C5172E5C15aF6aDD1ec92e518A5Ea1c7DeD2ad/logo.png"
   },
   {
     "chainId": 43114,
