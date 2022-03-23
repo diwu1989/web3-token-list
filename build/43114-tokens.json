@@ -700,7 +700,7 @@
     "address": "0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948",
     "decimals": 18,
     "name": "Moremoney USD",
-    "symbol": "MONEy",
+    "symbol": "MONEY",
     "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948/logo.png"
   },
   {
@@ -718,6 +718,38 @@
     "name": "FLY",
     "symbol": "FLY",
     "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x78Ea3fef1c1f07348199Bf44f45b803b9B0Dbe28/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x9f285507Ea5B4F33822CA7aBb5EC8953ce37A645",
+    "decimals": 18,
+    "name": "DegisToken",
+    "symbol": "DEG",
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9f285507Ea5B4F33822CA7aBb5EC8953ce37A645/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xA886C732703700efCbd8438768822c8e716cB0EC",
+    "decimals": 18,
+    "name": "Fief Wood",
+    "symbol": "WOOD",
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA886C732703700efCbd8438768822c8e716cB0EC/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x0802d66f029c46E042b74d543fC43B6705ccb4ba",
+    "decimals": 18,
+    "name": "ApeCoin",
+    "symbol": "APE",
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0802d66f029c46E042b74d543fC43B6705ccb4ba/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x4Bfc90322dD638F81F034517359BD447f8E0235a",
+    "decimals": 18,
+    "name": "New Order",
+    "symbol": "NEWO",
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4Bfc90322dD638F81F034517359BD447f8E0235a/logo.png"
   },
   {
     "chainId": 43114,
@@ -830,5 +862,29 @@
     "symbol": "CERBY",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png"
+  },
+  {
+    "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+    "chainId": 43114,
+    "name": "StargateToken",
+    "symbol": "STG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590.jpg"
+  },
+  {
+    "address": "0x5541D83EFaD1f281571B343977648B75d95cdAC2",
+    "chainId": 43114,
+    "name": "Grape Finance",
+    "symbol": "GRAPE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x5541D83EFaD1f281571B343977648B75d95cdAC2/logo.png"
+  },
+  {
+    "address": "0xC55036B5348CfB45a932481744645985010d3A44",
+    "chainId": 43114,
+    "name": "Wine Shares",
+    "symbol": "WINE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xC55036B5348CfB45a932481744645985010d3A44/logo.png"
   }
 ]

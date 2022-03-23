@@ -78,5 +78,21 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": ""
+   },
+   {
+      "address": "0x266C13DeD5A1d636E502fd56B3F76d38c3107EC2",
+      "name": "kUSD",
+      "symbol": "kUSD",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": ""
+   },
+   {
+      "address": "0x091733f0245A4395d8BfE42C74A619328269F12F",
+      "name": "KnoxDAO",
+      "symbol": "KNOX",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": ""
    }
 ]
