@@ -516,7 +516,7 @@
         "address": "0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11",
         "decimals": 6,
         "name": "Axelar Wrapped UST",
-        "symbol": "UST",
+        "symbol": "UST.axl",
         "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11/logo.png"
     },
     {
@@ -753,6 +753,22 @@
     },
     {
         "chainId": 43114,
+        "address": "0xb599c3590F42f8F995ECfa0f85D2980B76862fc1",
+        "decimals": 6,
+        "name": "Wormhole UST",
+        "symbol": "UST",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb599c3590F42f8F995ECfa0f85D2980B76862fc1/logo.png"
+    },
+    {
+        "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+        "chainId": 43114,
+        "name": "StargateToken",
+        "symbol": "STG",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590.jpg"
+    },
+    {
+        "chainId": 43114,
         "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
         "decimals": 18,
         "name": "Old Wrapped Ether",
@@ -862,14 +878,6 @@
         "symbol": "CERBY",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png"
-    },
-    {
-        "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
-        "chainId": 43114,
-        "name": "StargateToken",
-        "symbol": "STG",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590.jpg"
     },
     {
         "address": "0x5541D83EFaD1f281571B343977648B75d95cdAC2",
