@@ -1560,6 +1560,14 @@
     "symbol": "ESR"
   },
   {
+    "name": "Giveth from Mainnet",
+    "address": "0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75",
+    "symbol": "GIV",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/Giveth/giveth-design-assets/master/02-logos/GIV%20Token/GIVToken_200x200.png"
+  },
+  {
     "name": "Colony Network Token from Ethereum",
     "address": "0xc9B6218AffE8Aba68a13899Cbf7cF7f14DDd304C",
     "symbol": "CLNY",
@@ -1574,14 +1582,6 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://streamr-public.s3.amazonaws.com/streamr-new-token-mark-256px.png"
-  },
-  {
-    "name": "Giveth from Mainnet",
-    "address": "0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75",
-    "symbol": "GIV",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/Giveth/giveth-design-assets/master/02-logos/GIV%20Token/GIVToken_200x200.png"
   },
   {
     "name": "SHE Sweatpants",
