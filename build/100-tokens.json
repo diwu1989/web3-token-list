@@ -1,13 +1,5 @@
 [
   {
-    "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
-    "chainId": 100,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
-    "name": "Elk",
-    "symbol": "ELK"
-  },
-  {
     "address": "0x8c88eA1fD60462Ef7004B9e288afCB4680a3c50c",
     "chainId": 100,
     "decimals": 18,
@@ -240,14 +232,6 @@
     "logoURI": "https://etherscan.io/token/images/blackdragon_32.png"
   },
   {
-    "address": "0xf2197c8B553e37E949815360D5ca5E745E925511",
-    "chainId": 100,
-    "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xf2197c8B553e37E949815360D5ca5E745E925511/logo.png",
-    "name": "Fedoragold Coin from Ethereum",
-    "symbol": "BFED"
-  },
-  {
     "name": "Bidao on xDai",
     "address": "0x2977893F4C04bfbd6EFc68d0e46598d27810d3dB",
     "symbol": "BID",
@@ -286,6 +270,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://assets.coingecko.com/coins/images/12811/small/barnbridge.jpg"
+  },
+  {
+    "address": "0x83FF60E2f93F8eDD0637Ef669C69D5Fb4f64cA8E",
+    "chainId": 100,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x83FF60E2f93F8eDD0637Ef669C69D5Fb4f64cA8E/logo.png",
+    "name": "Bright",
+    "symbol": "BRIGHT"
   },
   {
     "name": "BTCCB",
@@ -368,6 +360,14 @@
     "logoURI": "https://etherscan.io/token/images/swissborg_28_3.png"
   },
   {
+    "name": "Colony Network Token from Ethereum",
+    "address": "0xc9B6218AffE8Aba68a13899Cbf7cF7f14DDd304C",
+    "symbol": "CLNY",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/JoinColony/brand/main/clny_200x200.png"
+  },
+  {
     "name": "coin_artist on xDai",
     "address": "0x14411aecA652F5131834Bf0c8fF581B5dDf3bc03",
     "symbol": "COIN",
@@ -390,6 +390,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://assets.coingecko.com/coins/images/10775/small/COMP.png"
+  },
+  {
+    "name": "CoW Protocol Token from Mainnet",
+    "address": "0x177127622c4A00F3d409B75571e12cB3c8973d3c",
+    "symbol": "COW",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/24384/small/COW-token-1024x1024.png"
   },
   {
     "name": "Cream on xDai",
@@ -433,11 +441,11 @@
   },
   {
     "name": "Streamr DATA on xDai",
-    "address": "0xE4a2620edE1058D61BEe5F45F6414314fdf10548",
+    "address": "0x256eb8a51f382650B2A1e946b8811953640ee47D",
     "symbol": "DATA",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/streamr2_28.png"
+    "logoURI": "https://streamr-public.s3.amazonaws.com/streamr-new-token-mark-256px.png"
   },
   {
     "name": "DeFireX DAI on xDai",
@@ -544,6 +552,14 @@
     "logoURI": "https://etherscan.io/token/images/energywebtokenbridged_32.png"
   },
   {
+    "address": "0x21a42669643f45Bc0e086b8Fc2ed70c23D67509d",
+    "chainId": 100,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x21a42669643f45Bc0e086b8Fc2ed70c23D67509d/logo.png",
+    "name": "FOX",
+    "symbol": "FOX"
+  },
+  {
     "name": "Freedom Reserve on xDai",
     "address": "0x270DE58F54649608D316fAa795a9941b355A2Bd0",
     "symbol": "FR",
@@ -597,6 +613,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/daostack1_28.png"
+  },
+  {
+    "address": "0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75",
+    "chainId": 100,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75/logo.png",
+    "name": "Giveth from Mainnet",
+    "symbol": "GIV"
   },
   {
     "name": "Golden Bull Token on xDAI",
@@ -933,6 +957,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/9543/small/pan-logo.png"
   },
   {
+    "name": "SHE Sweatpants",
+    "address": "0x0DAe13FAe64180D3CadCAD22329a4abcaEF15cA6",
+    "symbol": "PANTS",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/unisocks/master/src/components/Gallery/pantsToken.png"
+  },
+  {
     "name": "Perpetual Finance",
     "address": "0x7ecF26cd9A36990b8ea477853663092333f59979",
     "symbol": "PERP",
@@ -963,6 +995,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x607C794cDa77efB21F8848B7910ecf27451Ae842/logo.png"
+  },
+  {
+    "name": "PILLAR from Ethereum",
+    "address": "0x10bEEa85519a704A63765d396415f9eA5aa30A17",
+    "symbol": "PLR",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/pillar_32.png"
   },
   {
     "name": "Pinakion on xDai",
@@ -1013,6 +1053,22 @@
     "logoURI": "https://etherscan.io/token/images/powertrade_32.png"
   },
   {
+    "address": "0x988d1Be68F2C5cDE2516a2287c59Bd6302b7D20D",
+    "chainId": 100,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x988d1Be68F2C5cDE2516a2287c59Bd6302b7D20D/logo.png",
+    "name": "xDai Punks",
+    "symbol": "PUNK"
+  },
+  {
+    "name": "Raid Guild Token from Ethereum",
+    "address": "0x18E9262e68Cc6c6004dB93105cc7c001BB103e49",
+    "symbol": "RAID",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x18e9262e68cc6c6004db93105cc7c001bb103e49/logo.png"
+  },
+  {
     "name": "Rare Coin v2",
     "address": "0x57e93BB58268dE818B42E3795c97BAD58aFCD3Fe",
     "symbol": "RAREv2",
@@ -1051,6 +1107,22 @@
     "decimals": 8,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1C5db575E2Ff833E46a2E9864C22F4B22E0B37C2/logo.png"
+  },
+  {
+    "name": "StakeWise Reward GNO",
+    "address": "0x6aC78efae880282396a335CA2F79863A1e6831D4",
+    "symbol": "rGNO",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://app.stakewise.io/static/images/currencies/rgno.png"
+  },
+  {
+    "name": "DAOSquare Governance Token from Ethereum",
+    "address": "0x97Edc0e345FbBBd8460847Fcfa3bc2a13bF8641F",
+    "symbol": "RICE",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://daodkp.oss-ap-southeast-1.aliyuncs.com/assets/logo-sm.png"
   },
   {
     "name": "Darwinia Network Native Token on xDai",
@@ -1123,6 +1195,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/SynthetixsETH_32.png"
+  },
+  {
+    "name": "StakeWise Staked GNO",
+    "address": "0xA4eF9Da5BA71Cc0D2e5E877a910A37eC43420445",
+    "symbol": "sGNO",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://app.stakewise.io/static/images/currencies/sgno.png"
   },
   {
     "address": "0x27B9C2Bd4BaEa18ABdF49169054c1C1c12af9862",
@@ -1229,12 +1309,12 @@
     "logoURI": "https://etherscan.io/token/images/tbtc_32.png"
   },
   {
-    "address": "0xB7D918D7631fCDD0954205e3A6B205a10a31A085",
-    "chainId": 100,
+    "name": "Token Engineering Commons",
+    "address": "0x5dF8339c5E282ee48c0c7cE8A7d01a73D38B3B27",
+    "symbol": "TEC",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xB7D918D7631fCDD0954205e3A6B205a10a31A085/logo.png",
-    "name": "0xF3.tech",
-    "symbol": "TECH"
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/CommonsBuild/tec-branding-assets/main/Logo/Icon/TEC%20Icon%20Color.png"
   },
   {
     "name": "Testa on xDai",
@@ -1339,6 +1419,14 @@
     "decimals": 6,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  },
+  {
+    "name": "VitaDAO from Mainnet",
+    "address": "0x0939a7c3f8D37C1ce67fAda4963aE7E0bd112ff3",
+    "symbol": "VITA",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/VitaDAO/assets/master/vitadao-icon.png"
   },
   {
     "name": "VectorspaceAI on xDai",
@@ -1509,28 +1597,36 @@
     "logoURI": "https://etherscan.io/token/images/zrx_28.png?v=3"
   },
   {
-    "address": "0x21a42669643f45Bc0e086b8Fc2ed70c23D67509d",
+    "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
     "chainId": 100,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x21a42669643f45Bc0e086b8Fc2ed70c23D67509d/logo.png",
-    "name": "FOX",
-    "symbol": "FOX"
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
+    "name": "Elk",
+    "symbol": "ELK"
   },
   {
-    "address": "0x83FF60E2f93F8eDD0637Ef669C69D5Fb4f64cA8E",
+    "address": "0xf2197c8B553e37E949815360D5ca5E745E925511",
     "chainId": 100,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x83FF60E2f93F8eDD0637Ef669C69D5Fb4f64cA8E/logo.png",
-    "name": "Bright",
-    "symbol": "BRIGHT"
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xf2197c8B553e37E949815360D5ca5E745E925511/logo.png",
+    "name": "Fedoragold Coin from Ethereum",
+    "symbol": "BFED"
   },
   {
-    "address": "0x988d1Be68F2C5cDE2516a2287c59Bd6302b7D20D",
+    "name": "Streamr DATA on xDai",
+    "address": "0xE4a2620edE1058D61BEe5F45F6414314fdf10548",
+    "symbol": "DATA",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/streamr2_28.png"
+  },
+  {
+    "address": "0xB7D918D7631fCDD0954205e3A6B205a10a31A085",
     "chainId": 100,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x988d1Be68F2C5cDE2516a2287c59Bd6302b7D20D/logo.png",
-    "name": "xDai Punks",
-    "symbol": "PUNK"
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xB7D918D7631fCDD0954205e3A6B205a10a31A085/logo.png",
+    "name": "0xF3.tech",
+    "symbol": "TECH"
   },
   {
     "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
@@ -1555,14 +1651,6 @@
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xD3226B12e6188133b19Ac0419f34B0ed5B10f069/logo.png",
     "name": "EsportsRef",
     "symbol": "ESR"
-  },
-  {
-    "address": "0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75",
-    "chainId": 100,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75/logo.png",
-    "name": "Giveth from Mainnet",
-    "symbol": "GIV"
   },
   {
     "name": "AAH on xDai",
