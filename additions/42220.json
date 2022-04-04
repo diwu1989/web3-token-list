@@ -1,59 +1,59 @@
 [
    {
-      "address":"0xC7144Fa865c9f3a6836167A51531A2CC8b0ab5fD",
-      "name":"CeloDex.org",
-      "symbol":"CLX",
-      "chainId":42220,
-      "decimals":18,
-      "logoURI":""
+      "address": "0xC7144Fa865c9f3a6836167A51531A2CC8b0ab5fD",
+      "name": "CeloDex.org",
+      "symbol": "CLX",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": ""
    },
    {
-      "address":"0x6e512BFC33be36F2666754E996ff103AD1680Cc9",
-      "name":"Allbridge",
-      "symbol":"ABR",
-      "chainId":42220,
-      "decimals":18,
-      "logoURI":""
+      "address": "0x6e512BFC33be36F2666754E996ff103AD1680Cc9",
+      "name": "Allbridge",
+      "symbol": "ABR",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": ""
    },
    {
-      "address":"0xb70e0a782b058BFdb0d109a3599BEc1f19328E36",
-      "name":"Avalanche USDC.e via Allbridge",
-      "symbol":"aaUSDC",
-      "chainId":42220,
-      "decimals":18,
-      "logoURI":""
+      "address": "0xb70e0a782b058BFdb0d109a3599BEc1f19328E36",
+      "name": "Avalanche USDC.e via Allbridge",
+      "symbol": "aaUSDC",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": ""
    },
    {
-      "address":"0xFbdd194376de19a88118e84E279b977f165d01b8",
-      "name":"Avalanche",
-      "symbol":"AVAX",
-      "chainId":42220,
-      "decimals":18,
-      "logoURI":""
+      "address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": ""
    },
    {
-      "address":"0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
-      "name":"Binance-Peg BUSD Token",
-      "symbol":"BUSD",
-      "chainId":42220,
-      "decimals":18,
-      "logoURI":""
+      "address": "0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
+      "name": "Binance-Peg BUSD Token",
+      "symbol": "BUSD",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": ""
    },
    {
-      "address":"0xCD7D7Ff64746C1909E44Db8e95331F9316478817",
-      "name":"asUSDC",
-      "symbol":"asUSDC",
-      "chainId":42220,
-      "decimals":18,
-      "logoURI":""
+      "address": "0xCD7D7Ff64746C1909E44Db8e95331F9316478817",
+      "name": "asUSDC",
+      "symbol": "asUSDC",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": ""
    },
    {
-      "address":"0xEd193C4E69F591E42398eF54DEa65aa1bb02835c",
-      "name":"UST Terra",
-      "symbol":"atUST",
-      "chainId":42220,
-      "decimals":18,
-      "logoURI":"https://raw.githubusercontent.com/kyscott18/default-token-list/master/assets/asset_UST.png"
+      "address": "0xEd193C4E69F591E42398eF54DEa65aa1bb02835c",
+      "name": "UST Terra",
+      "symbol": "atUST",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/kyscott18/default-token-list/master/assets/asset_UST.png"
    },
    {
       "address": "0x8427bD503dd3169cCC9aFF7326c15258Bc305478",

@@ -576,14 +576,6 @@
         "logoURI": ""
     },
     {
-        "address": "0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
-        "name": "Binance-Peg BUSD Token",
-        "symbol": "BUSD",
-        "chainId": 42220,
-        "decimals": 18,
-        "logoURI": ""
-    },
-    {
         "address": "0xCD7D7Ff64746C1909E44Db8e95331F9316478817",
         "name": "asUSDC",
         "symbol": "asUSDC",

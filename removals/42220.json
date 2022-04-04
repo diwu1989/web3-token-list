@@ -1,34 +1,42 @@
 [
-    {
-      "address":"0x22401536505dd5d85F7d57f8B37172feDa8f499d",
-      "name":"CeloShiba",
-      "symbol":"cSHIBA",
-      "decimals":9,
-      "chainId":42220,
-      "logoURI":"https://raw.githubusercontent.com/sushiswap/icons/master/token/cshiba.jpg"
-    },
-    {
-      "address":"0x5927fd244E11dB1c7b1215619144d2aAbAc80a4F",
-      "name":"celoLaunch",
-      "symbol":"cLA",
-      "chainId":42220,
-      "decimals":18,
-      "logoURI":""
-    },
-    {
-      "address":"0xD90BBdf5904cb7d275c41f897495109B9A5adA58",
-      "name":"CeloDoge",
-      "symbol":"cDOGE",
-      "decimals":9,
-      "chainId":42220,
-      "logoURI":"https://raw.githubusercontent.com/sushiswap/icons/master/token/cdoge.jpg"
-    },
-    {
-      "name":"MetaCelo",
-      "address":"0xF3608F846cA73147F08FdE8D57f45E27CeEA4d61",
-      "symbol":"cMeta",
-      "decimals":18,
-      "chainId":42220,
-      "logoURI":"https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0xF3608F846cA73147F08FdE8D57f45E27CeEA4d61/logo.png"
-    }
-  ]
+  {
+    "address": "0x22401536505dd5d85F7d57f8B37172feDa8f499d",
+    "name": "CeloShiba",
+    "symbol": "cSHIBA",
+    "decimals": 9,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cshiba.jpg"
+  },
+  {
+    "address": "0x5927fd244E11dB1c7b1215619144d2aAbAc80a4F",
+    "name": "celoLaunch",
+    "symbol": "cLA",
+    "chainId": 42220,
+    "decimals": 18,
+    "logoURI": ""
+  },
+  {
+    "address": "0xD90BBdf5904cb7d275c41f897495109B9A5adA58",
+    "name": "CeloDoge",
+    "symbol": "cDOGE",
+    "decimals": 9,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cdoge.jpg"
+  },
+  {
+    "name": "MetaCelo",
+    "address": "0xF3608F846cA73147F08FdE8D57f45E27CeEA4d61",
+    "symbol": "cMeta",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0xF3608F846cA73147F08FdE8D57f45E27CeEA4d61/logo.png"
+  },
+  {
+    "address": "0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
+    "name": "Binance-Peg BUSD Token",
+    "symbol": "BUSD",
+    "chainId": 42220,
+    "decimals": 18,
+    "logoURI": ""
+  }
+]
