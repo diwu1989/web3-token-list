@@ -630,5 +630,13 @@
     "chainId": 42220,
     "decimals": 18,
     "logoURI": ""
+  },
+  {
+    "address": "0x65eb36F7D78EE2D435689287FA962151ba5Cd123",
+    "name": "BUSD.bsc",
+    "symbol": "BUSD",
+    "chainId": 42220,
+    "decimals": 18,
+    "logoURI": ""
   }
 ]
