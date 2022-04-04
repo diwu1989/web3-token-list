@@ -1,0 +1,10 @@
+[
+    {
+        "address": "0x1698cD22278ef6E7c0DF45a8dEA72EDbeA9E42aa",
+        "name": "LevinToken",
+        "symbol": "LEVIN",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": ""
+    }
+]
