@@ -630,5 +630,13 @@
     "chainId": 42220,
     "decimals": 18,
     "logoURI": ""
+  },
+  {
+    "address": "0x0631DD22cd83508f50ea11e1CAE82801Bb9904aC",
+    "name": "Cellular Finance Token",
+    "symbol": "CELL",
+    "chainId": 42220,
+    "decimals": 18,
+    "logoURI": ""
   }
 ]
