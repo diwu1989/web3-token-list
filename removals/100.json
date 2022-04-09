@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Freedom Reserve on xDai",
+        "address": "0x270DE58F54649608D316fAa795a9941b355A2Bd0",
+        "symbol": "FR",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://freedomreserv.eth.link/img/freedomcoin400x400.png"
+    },
+    {
+        "address": "0xA106739De31FA7a9DF4a93c9bea3E1bAdE0924e2",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xA106739De31FA7a9DF4a93c9bea3E1bAdE0924e2/logo.png",
+        "name": "FreeToken",
+        "symbol": "FREE"
+    }
+]
