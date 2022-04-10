@@ -25,10 +25,8 @@ const TOKEN_LIST = {
     ],
     // gnosis
     100: [
-        'https://tokens.honeyswap.org/',
         'https://raw.githubusercontent.com/elkfinance/tokens/main/xdai.tokenlist.json',
         'https://raw.githubusercontent.com/sushiswap/default-token-list/master/tokens/xdai.json',
-        'https://unpkg.com/honeyswap-default-token-list@3.1.1/build/honeyswap-default.tokenlist.json',
         'https://raw.githubusercontent.com/baofinance/tokenlists/main/xdai.json'
     ]
 }

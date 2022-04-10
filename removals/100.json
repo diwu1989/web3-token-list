@@ -334,5 +334,292 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1b980e05943dE3dB3a459C72325338d327B6F5a9/logo.png"
+    },
+    {
+        "name": "StorjToken on xDai",
+        "address": "0xBc650b9cC12dB4da14b2417c60CCd6F4d77c3998",
+        "symbol": "STORJ",
+        "decimals": 8,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/storj_32.png"
+    },
+    {
+        "name": "UniBright on xDai",
+        "address": "0xd3b93fF74E43Ba9568e5019b38AdDB804feF719B",
+        "symbol": "UBT",
+        "decimals": 8,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e/logo.png"
+    },
+    {
+        "name": "xREAP",
+        "address": "0x42c6b3aC30Ae82D754498f56D9372F0070349409",
+        "symbol": "xREAP",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://reap.vercel.app/reaptoken1.jpg"
+    },
+    {
+        "name": "Robonomics on xDai",
+        "address": "0xf54b47B00B6916974c73B81B7d9929a4f443DB49",
+        "symbol": "XRT",
+        "decimals": 9,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/robonomics_28.png"
+    },
+    {
+        "address": "0xf2197c8B553e37E949815360D5ca5E745E925511",
+        "chainId": 100,
+        "decimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xf2197c8B553e37E949815360D5ca5E745E925511/logo.png",
+        "name": "Fedoragold Coin from Ethereum",
+        "symbol": "BFED"
+    },
+    {
+        "name": "Streamr DATA on xDai",
+        "address": "0xE4a2620edE1058D61BEe5F45F6414314fdf10548",
+        "symbol": "DATA",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/streamr2_28.png"
+    },
+    {
+        "address": "0xB7D918D7631fCDD0954205e3A6B205a10a31A085",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xB7D918D7631fCDD0954205e3A6B205a10a31A085/logo.png",
+        "name": "0xF3.tech",
+        "symbol": "TECH"
+    },
+    {
+        "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x3F56e0c36d275367b8C502090EDF38289b3dEa0d/logo.png",
+        "name": "miMatic",
+        "symbol": "MAI"
+    },
+    {
+        "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xdFA46478F9e5EA86d57387849598dbFB2e964b02/logo.png",
+        "name": "QiDAO",
+        "symbol": "QiDAO"
+    },
+    {
+        "name": "Rare Coin",
+        "address": "0xCF740AC463098E442B31A5E88F4b359B30255616",
+        "symbol": "RARE",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://affinityharmonics.s3.ca-central-1.amazonaws.com/Cloud/rare-logo-multi.png"
+    },
+    {
+        "name": "Shenanigan SHWEATPANTS v3",
+        "address": "0x11C9F4c3E960CCe4464E25a9fA5414Ab72fc45EA",
+        "symbol": "SHWEATPANTS",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/DrippStaking/master/tokens/SHWEATPANTS.png"
+    },
+    {
+        "name": "xDankBillz",
+        "address": "0xDaADd8D96D01e47ee5E4eAFEcF14cbe46909f335",
+        "symbol": "xdbx",
+        "decimals": 18,
+        "chainId": 100
+    },
+    {
+        "name": "FRAX Stablecoin",
+        "address": "0xca5d82E40081F220d59f7ED9e2e1428DEAf55355",
+        "symbol": "FRAX",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/13422/small/frax_logo.png"
+    },
+    {
+        "name": "Lien",
+        "address": "0x6062eC2A1ecfCD0026d9BD67aa5ad743Adc03995",
+        "symbol": "Lien",
+        "decimals": 8,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/12224/small/Lien.png"
+    },
+    {
+        "name": "Numeraire",
+        "address": "0x0b7A1c1A3D314DCC271EA576dA400B24e9ad3094",
+        "symbol": "NMR",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/752/small/numeraire.png"
+    },
+    {
+        "name": "OKB",
+        "address": "0x4eFDfbb7Cca540a79A7e4dCaD1cb6ED14f21c43e",
+        "symbol": "OKB",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/4463/small/okb_token.png"
+    },
+    {
+        "name": "StakeWise Staked GNO",
+        "address": "0xA4eF9Da5BA71Cc0D2e5E877a910A37eC43420445",
+        "symbol": "sGNO",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://app.stakewise.io/static/images/currencies/sgno.png"
+    },
+    {
+        "name": "Pinakion on xDai",
+        "address": "0x37b60f4E9A31A64cCc0024dce7D0fD07eAA0F7B3",
+        "symbol": "PNK",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/kelros_28.png"
+    },
+    {
+        "name": "Statis Euro",
+        "address": "0x9EE40742182707467f78344F6b287bE8704F27E2",
+        "symbol": "EURS",
+        "decimals": 2,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/5164/small/EURS_300x300.png"
+    },
+    {
+        "name": "Terra Virtua Kolect",
+        "address": "0xeB2BCaBb0cDC099978A74cFE4Ab4d45E7e677a45",
+        "symbol": "TVK",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/13330/small/CoinGLogo.png"
+    },
+    {
+        "name": "Unit Protocol",
+        "address": "0x8E7aB03cA7D17996b097D5866bFAA1e251c35c6a",
+        "symbol": "DUCK",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/13359/small/unit_telegram.png"
+    },
+    {
+        "name": "Meta Finance",
+        "address": "0x5B9EED77d9500aDF7200fEeB395647be1950F7d2",
+        "symbol": "MTA",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/11846/small/mStable.png"
+    },
+    {
+        "name": "HEGIC",
+        "address": "0xc44048a4d13548E30DBF01555e6A3C3EEe08D258",
+        "symbol": "HEGIC",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/12454/small/Hegic.png?1599938210"
+    },
+    {
+        "name": "NFTopia",
+        "address": "0x586f8a53C24d8D35A9F49e94D09058560791803E",
+        "symbol": "NTP",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/baofinance/assets/master/blockchains/xdai/assets/0x586f8a53C24d8D35A9F49e94D09058560791803E/logo.png"
+    },
+    {
+        "name": "TruFi",
+        "address": "0x4384a7C9498f905e433Ee06B6552a18e1D7cD3a4",
+        "symbol": "TRU",
+        "decimals": 8,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/13180/small/trust-token.png"
+    },
+    {
+        "name": "Trace Token on xDai",
+        "address": "0xEddd81E0792E764501AaE206EB432399a0268DB5",
+        "symbol": "TRAC",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/origintrail_28.png"
+    },
+    {
+        "name": "prophet.finance on xDai",
+        "address": "0xa9e5cd4Efc86c01FaE9a9Fcd6E8669B97c92a937",
+        "symbol": "PROPHET",
+        "decimals": 9,
+        "chainId": 100,
+        "logoURI": "https://pbs.twimg.com/profile_images/1329880689135718401/24hXwpqd_400x400.jpg"
+    },
+    {
+        "name": "PolkastarterToken on xDai",
+        "address": "0x75481A953a4bBa6B3C445907dB403E4b5D222174",
+        "symbol": "POLS",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/polkastarter_32.png"
+    },
+    {
+        "name": "Davincij15 Token on xDai",
+        "address": "0x7C16c63684D86BaCC52e8793B08a5a1A3cB1BA1e",
+        "symbol": "DJ15",
+        "decimals": 9,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/davincicode_32.png"
+    },
+    {
+        "name": "Autopia Token on xDai",
+        "address": "0xcaE40062a887581A3d1661d0AC2b481c32e3E938",
+        "symbol": "AUT",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://autopia.co/images/autopia-200-200.jpg"
+    },
+    {
+        "name": "Yield on xDai",
+        "address": "0xA2FEc95B3d3feCb39098E81f108533E1abF22CcF",
+        "symbol": "YLD",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/yieldapp_32.png"
+    },
+    {
+        "name": "Meridian Network on xDai",
+        "address": "0xF99efEB34aff6D3099C41605e9Ee778cAEC39317",
+        "symbol": "LOCK",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x95172ccBe8344fecD73D0a30F54123652981BD6F/logo.png"
+    },
+    {
+        "name": "AirSwap Token on xDai",
+        "address": "0x743a991365ba94BFC90Ad0002CAD433c7a33cb4a",
+        "symbol": "AST",
+        "decimals": 4,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/1019/small/AST.png"
+    },
+    {
+        "name": "OM Token on xDai",
+        "address": "0x309Bc6DbcbFB9c84D26FDF65E8924367efCCBdb9",
+        "symbol": "OM",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/12151/small/OM_3D_whtbg.png"
+    },
+    {
+        "name": "Enigma on xDai",
+        "address": "0x7a7d81657A1A66b38a6cA2565433A9873C6913B2",
+        "symbol": "ENG",
+        "decimals": 8,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4/logo.png"
+    },
+    {
+        "name": "Unilayer on xDai",
+        "address": "0x8fBEDD16904B561e30ea402F459900E9D90614af",
+        "symbol": "LAYER",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/unilayer_32.png"
     }
 ]
