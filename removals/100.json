@@ -621,5 +621,13 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://etherscan.io/token/images/unilayer_32.png"
+    },
+    {
+        "name": "NFTX",
+        "address": "0x8e1A12dA00BBF9DB10d48bd66Ff818bE933964d5",
+        "symbol": "NFTX",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/13574/small/NFTX_%28Real%29.jpg"
     }
 ]
