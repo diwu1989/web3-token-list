@@ -14,5 +14,325 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xA106739De31FA7a9DF4a93c9bea3E1bAdE0924e2/logo.png",
         "name": "FreeToken",
         "symbol": "FREE"
+    },
+    {
+        "name": "Nexo on xDai",
+        "address": "0x26DC03E492763068CCfE7C39B93A22442807C360",
+        "symbol": "NEXO",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/nexo_32.png"
+    },
+    {
+        "name": "Mask Network",
+        "address": "0x4e1a2bFfe81000F7be4807FAF0315173c817d6F4",
+        "symbol": "MASK",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/14051/small/Mask_Network.jpg"
+    },
+    {
+        "name": "API3",
+        "address": "0x44b6bBA599F100006143E82A60462D71Ac1331Da",
+        "symbol": "API3",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/13256/small/api3.jpg"
+    },
+    {
+        "name": "Idle Finance",
+        "address": "0x534179b3d7292d8a82A2985ee80a6D2027ee8378",
+        "symbol": "IDLE",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/13286/small/token-logo.png"
+    },
+    {
+        "name": "Rari Governance Token",
+        "address": "0x417Ae38B3053A736B4274aed8DBD1a8A6FDbc974",
+        "symbol": "RGT",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/12900/small/Rari_Logo_Transparent.png"
+    },
+    {
+        "name": "Reserve",
+        "address": "0xD9C31db155a48f3d7304De85EC7AB7B705659bE9",
+        "symbol": "RSV",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/10952/small/Reserve.png"
+    },
+    {
+        "name": "KeeperDAO",
+        "address": "0x03959Ac65e621e8C95d5E0f75EA96E5C03A15009",
+        "symbol": "ROOK",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/13005/small/keeper_dao_logo.jpg"
+    },
+    {
+        "name": "PieDAO Dough",
+        "address": "0x6d237bb2248d3b40b1a54F3417667B2f39984fC8",
+        "symbol": "DOUGH",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/12693/small/DOUGH2v.png"
+    },
+    {
+        "name": "Index Coop",
+        "address": "0x6052245Ec516D0F653794052D24EFca8A39fcBC3",
+        "symbol": "INDEX",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/12729/small/c7w3TmXs_400x400.png"
+    },
+    {
+        "name": "Jarvis",
+        "address": "0xCCF1279C3406Ad1181bee00daB4b28B23D17Ddb1",
+        "symbol": "JRT",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/10390/small/cfeii0y.png"
+    },
+    {
+        "name": "Monolith",
+        "address": "0xD1B11356464Ac5B48172fa6bD14Ac2417631BEDa",
+        "symbol": "TKN",
+        "decimals": 8,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/675/small/Monolith.png"
+    },
+    {
+        "name": "KP3R",
+        "address": "0x5B449Ea0e550C143074146abc89A6328D9E70798",
+        "symbol": "KP3R",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/12966/small/kp3r_logo.jpg"
+    },
+    {
+        "name": "Math Network",
+        "address": "0xAf4D17A2077e1dE12DE66a44DE1B4f14C120d32D",
+        "symbol": "MATH",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/11335/small/2020-05-19-token-200.png?1589940590"
+    },
+    {
+        "name": "88mph",
+        "address": "0xA088D78e9c9CBccAD3a0153341385633B1B1125d",
+        "symbol": "MPH",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/13137/small/yfU-_Tcj_400x400.png"
+    },
+    {
+        "name": "Swipe Token",
+        "address": "0x7CC4d60a3C83e91d8c2ec2127A10Bab5c6Ab209d",
+        "symbol": "SXP",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/9368/small/swipe.png"
+    },
+    {
+        "name": "Huobi Token",
+        "address": "0x036328204f84b423F0e1A12C3B8777aE08758481",
+        "symbol": "HT",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/2822/small/huobi-token-logo.png"
+    },
+    {
+        "name": "Thorchain Rune",
+        "address": "0x4c68041898bfEfbfCc4253fbE8eD30830E6eb767",
+        "symbol": "RUNE",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/6595/small/RUNE.png"
+    },
+    {
+        "name": "Streamr DATA on xDai",
+        "address": "0x256eb8a51f382650B2A1e946b8811953640ee47D",
+        "symbol": "DATA",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://streamr-public.s3.amazonaws.com/streamr-new-token-mark-256px.png"
+    },
+    {
+        "name": "PILLAR from Ethereum",
+        "address": "0x10bEEa85519a704A63765d396415f9eA5aa30A17",
+        "symbol": "PLR",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/pillar_32.png"
+    },
+    {
+        "name": "DAOstack on xDai",
+        "address": "0x12daBe79cffC1fdE82FCd3B96DBE09FA4D8cd599",
+        "symbol": "GEN",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/daostack1_28.png"
+    },
+    {
+        "name": "BLOCKMESH",
+        "address": "0xE7EF58d8180Cc269C6620dED3E6cc536A52E2ebD",
+        "symbol": "MESH",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/blockmeshio_28.png"
+    },
+    {
+        "name": "Standard on xDai",
+        "address": "0x3e33cF23073FD8d5aD1d48d1860a96C0D8E56193",
+        "symbol": "xMARK",
+        "decimals": 9,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x67c597624B17b16fb77959217360B7cD18284253/logo.png"
+    },
+    {
+        "name": "Testa on xDai",
+        "address": "0x16AFe6E6754FA3694afD0Ce48f4Bea102Efacc17",
+        "symbol": "TESTA",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/testa_32.png"
+    },
+    {
+        "name": "Ethereum Meta on xDai",
+        "address": "0x9bD5E0ce813d5172859b0b70Ff7Bb3C325CEE913",
+        "symbol": "ETHM",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/ethereummeta_32.png"
+    },
+    {
+        "name": "Contribute on xDai",
+        "address": "0xff0Ce179a303F26017019acf78B951cB743B8D9b",
+        "symbol": "TRIB",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/contribute_32.png?v=2"
+    },
+    {
+        "name": "Metronome on xDai",
+        "address": "0xB4B6f80d8E573e9867c90163BFdb00E29d92716a",
+        "symbol": "MET",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/metronome_28.png"
+    },
+    {
+        "name": "Concentrated Voting Power on xDai",
+        "address": "0x7Da0bFE9D26C5b64c7580c04Bb1425364273E4b0",
+        "symbol": "CVP",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/12266/small/Powerpool.jpg"
+    },
+    {
+        "name": "JOON on xDai",
+        "address": "0x5fE9885226677F3Eb5C9ad8aB6c421B4EA38535d",
+        "symbol": "JOON",
+        "decimals": 4,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/12595/small/logo.png"
+    },
+    {
+        "name": "BNS Token on xDai",
+        "address": "0xEC84A3bB48D70553C2599AC2d0Db07b2DFdF6364",
+        "symbol": "BNS",
+        "decimals": 8,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/bns_32.png"
+    },
+    {
+        "name": "bns.finance on xDai",
+        "address": "0xbDB90BDAdae84Af0b07abf4cEFcC7989F909f9bD",
+        "symbol": "BNSD",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/bnsd_32.png"
+    },
+    {
+        "name": "Pundi X Token on xDai",
+        "address": "0x26dD64bdCB2FaF4F7E49A73145752e8d9cb34C94",
+        "symbol": "NPXS",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/pundix-28.png"
+    },
+    {
+        "name": "TrustSwap Token on xDai",
+        "address": "0xEAaccE3E5bCC10FB32c2553f8d6Fc4C3888ffDaD",
+        "symbol": "SWAP",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/trustswap_32.png"
+    },
+    {
+        "name": "BandToken on xDai",
+        "address": "0xe154A435408211AC89757B76C4FbE4Dc9ED2Ef27",
+        "symbol": "BAND",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/bandtoken_32.png"
+    },
+    {
+        "name": "BlackDragon Token on xDai",
+        "address": "0x778aa03021B0CD2b798b0b506403e070125D81C9",
+        "symbol": "BDT",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/blackdragon_32.png"
+    },
+    {
+        "name": "LoopringCoin V2 on xDai",
+        "address": "0x2bE73bFeEC620aa9B67535A4D3827bB1e29436D1",
+        "symbol": "LRC",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/lrc_32.png"
+    },
+    {
+        "name": "Polyient Games Governance Token",
+        "address": "0x6099280dC5FC97CBB61B456246316a1B8f79534B",
+        "symbol": "PGT",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://user-images.githubusercontent.com/72729493/95717875-9eb1fa80-0c3b-11eb-8a5b-af581da2c892.png"
+    },
+    {
+        "name": "Golden Bull Token on xDAI",
+        "address": "0x30610f98b61593DE963b2303AeeaeE69823f561f",
+        "symbol": "GLDB",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://user-images.githubusercontent.com/72521363/95662995-2c55f300-0b33-11eb-90f9-4b1fe6c4097f.png"
+    },
+    {
+        "name": "DeFiPIE Token on xDai",
+        "address": "0x317eab07380d670Ea814025CbA40f5624354a32f",
+        "symbol": "PIE",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x607C794cDa77efB21F8848B7910ecf27451Ae842/logo.png"
+    },
+    {
+        "name": "aleph.im v2 on xDai",
+        "address": "0x4BC97997883C0397F556bd0F9Da6Fb71da22F9a2",
+        "symbol": "ALEPH",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x27702a26126e0B3702af63Ee09aC4d1A084EF628/logo.png"
+    },
+    {
+        "name": "Bitgear on xDai",
+        "address": "0x6f09CF96558d44584dB07f8477Dd3490599aA63E",
+        "symbol": "GEAR",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1b980e05943dE3dB3a459C72325338d327B6F5a9/logo.png"
     }
 ]
