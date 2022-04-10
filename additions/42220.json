@@ -16,14 +16,6 @@
       "logoURI": ""
    },
    {
-      "address": "0xb70e0a782b058BFdb0d109a3599BEc1f19328E36",
-      "name": "Avalanche USDC.e via Allbridge",
-      "symbol": "aaUSDC",
-      "chainId": 42220,
-      "decimals": 18,
-      "logoURI": ""
-   },
-   {
       "address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
       "name": "Avalanche",
       "symbol": "AVAX",
@@ -91,14 +83,6 @@
       "address": "0x091733f0245A4395d8BfE42C74A619328269F12F",
       "name": "KnoxDAO",
       "symbol": "KNOX",
-      "chainId": 42220,
-      "decimals": 18,
-      "logoURI": ""
-   },
-   {
-      "address": "0x65eb36F7D78EE2D435689287FA962151ba5Cd123",
-      "name": "BUSD.bsc",
-      "symbol": "BUSD",
       "chainId": 42220,
       "decimals": 18,
       "logoURI": ""
