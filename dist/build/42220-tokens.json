@@ -344,20 +344,20 @@
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_xABR.png"
     },
     {
-        "address": "0x7c64aD5F9804458B8c9F93f7300c15D55956Ac2a",
-        "name": "Symmetric",
-        "symbol": "SYMM",
-        "chainId": 42220,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SYMM.png"
-    },
-    {
         "address": "0x7D00cd74FF385c955EA3d79e47BF06bD7386387D",
         "name": "Moola CELO",
         "symbol": "mCELO",
         "chainId": 42220,
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mCELO.png"
+    },
+    {
+        "address": "0x8427bD503dd3169cCC9aFF7326c15258Bc305478",
+        "name": "Symmetric",
+        "symbol": "SYMM",
+        "chainId": 42220,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SYMM.png"
     },
     {
         "address": "0x8E3670FD7B0935d3FE832711deBFE13BB689b690",
@@ -496,6 +496,14 @@
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pEUR.png"
     },
     {
+        "address": "0x7c64aD5F9804458B8c9F93f7300c15D55956Ac2a",
+        "name": "Symmetric DEPRECATED",
+        "symbol": "SYMMxOLD",
+        "chainId": 42220,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SYMMxOLD.png"
+    },
+    {
         "address": "0x93DB49bE12B864019dA9Cb147ba75cDC0506190e",
         "name": "Moss USDC DEPRECATED",
         "symbol": "cUSDC",
@@ -582,14 +590,6 @@
         "chainId": 42220,
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/kyscott18/default-token-list/master/assets/asset_UST.png"
-    },
-    {
-        "address": "0x8427bD503dd3169cCC9aFF7326c15258Bc305478",
-        "name": "Symmetric V2",
-        "symbol": "SYMMv2",
-        "chainId": 42220,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SYMM.png"
     },
     {
         "address": "0x37191488FbEe23652eC7794Cfb81020528968C7d",
