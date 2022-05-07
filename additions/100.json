@@ -30,5 +30,13 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png"
+    },
+    {
+        "address": "0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75/logo.png",
+        "name": "Giveth from Mainnet",
+        "symbol": "GIV"
     }
 ]

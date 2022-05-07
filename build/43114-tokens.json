@@ -515,9 +515,17 @@
     "chainId": 43114,
     "address": "0x060556209E507d30f2167a101bFC6D256Ed2f3e1",
     "decimals": 18,
-    "name": "xPlatypus",
+    "name": "Vector PTP",
     "symbol": "xPTP",
     "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x060556209E507d30f2167a101bFC6D256Ed2f3e1/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x769bfeb9fAacD6Eb2746979a8dD0b7e9920aC2A4",
+    "decimals": 18,
+    "name": "Vector JOE",
+    "symbol": "zJOE",
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x769bfeb9fAacD6Eb2746979a8dD0b7e9920aC2A4/logo.png"
   },
   {
     "chainId": 43114,
@@ -710,6 +718,30 @@
     "name": "Metaderby game token",
     "symbol": "HOOF",
     "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe0bb6feD446A2dbb27F84D3C27C4ED8EA7603366/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xab592d197ACc575D16C3346f4EB70C703F308D1E",
+    "decimals": 18,
+    "name": "Chikn feed",
+    "symbol": "FEED",
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xab592d197ACc575D16C3346f4EB70C703F308D1E/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x9C846D808A41328A209e235B5e3c4E626DAb169E",
+    "decimals": 18,
+    "name": "Chikn fert",
+    "symbol": "FERT",
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9C846D808A41328A209e235B5e3c4E626DAb169E/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xb279f8DD152B99Ec1D84A489D32c35bC0C7F5674",
+    "decimals": 18,
+    "name": "STEAK",
+    "symbol": "STEAK",
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb279f8DD152B99Ec1D84A489D32c35bC0C7F5674/logo.png"
   },
   {
     "chainId": 43114,
