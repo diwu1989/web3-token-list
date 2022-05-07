@@ -38,5 +38,13 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75/logo.png",
         "name": "Giveth from Mainnet",
         "symbol": "GIV"
+    },
+    {
+        "address": "0x21a42669643f45Bc0e086b8Fc2ed70c23D67509d",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x21a42669643f45Bc0e086b8Fc2ed70c23D67509d/logo.png",
+        "name": "FOX",
+        "symbol": "FOX"
     }
 ]
