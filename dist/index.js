@@ -3,12 +3,15 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.FRESH_TOKEN_LIST = exports.TOKEN_LIST = void 0;
 const _43114_tokens_json_1 = __importDefault(require("./build/43114-tokens.json"));
 const _42220_tokens_json_1 = __importDefault(require("./build/42220-tokens.json"));
+const _42220_fresh_tokens_json_1 = __importDefault(require("./build/42220-fresh-tokens.json"));
 const _137_tokens_json_1 = __importDefault(require("./build/137-tokens.json"));
 const _44787_tokens_json_1 = __importDefault(require("./build/44787-tokens.json"));
 const _100_tokens_json_1 = __importDefault(require("./build/100-tokens.json"));
-const TOKEN_LIST = {
+const _100_fresh_tokens_json_1 = __importDefault(require("./build/100-fresh-tokens.json"));
+exports.TOKEN_LIST = {
     // avalanche
     43114: _43114_tokens_json_1.default,
     avalanche: _43114_tokens_json_1.default,
@@ -25,4 +28,12 @@ const TOKEN_LIST = {
     100: _100_tokens_json_1.default,
     gnosis: _100_tokens_json_1.default
 };
-exports.default = TOKEN_LIST;
+exports.FRESH_TOKEN_LIST = {
+    // celo
+    42220: _42220_fresh_tokens_json_1.default,
+    celo: _42220_fresh_tokens_json_1.default,
+    // gnosis
+    100: _100_fresh_tokens_json_1.default,
+    gnosis: _100_fresh_tokens_json_1.default
+};
+exports.default = exports.TOKEN_LIST;

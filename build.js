@@ -1,7 +1,10 @@
 #!/usr/bin/env node
 const fs = require("fs")
 const axios = require('axios').default
-const utils = require("web3-utils")
+const utils = require('web3-utils')
+const { createAlchemyWeb3 } = require('@alch/alchemy-web3')
+const Promise = require('bluebird')
+const ERC20 = require('./erc20.json')
 
 const TOKEN_LIST = {
     // avalanche
@@ -31,11 +34,62 @@ const TOKEN_LIST = {
     ]
 }
 
+const RPC_URL = {
+    // celo
+    42220: 'wss://forno.celo.org/ws',
+    // gnosis
+    100: 'wss://rpc.gnosischain.com/wss',
+    // polygon
+    // 137: 'wss://ws-matic-mainnet.chainstacklabs.com',
+    // avalanche
+    // 43113: 'wss://api.avax.network/ext/bc/C/ws'
+}
+
 function validateToken(chainId, token) {
     if (!token.address || !token.decimals || !token.chainId || !token.symbol) {
         return false
     }
     return parseInt(token.chainId) == parseInt(chainId)
+}
+
+async function isTokenFresh(erc20Contract, latestBlock, lookBackBlocks) {
+    const blockIncrement = 2_000
+    for (let fromBlock = latestBlock - blockIncrement;
+        fromBlock > latestBlock - lookBackBlocks;
+        fromBlock -= blockIncrement) {
+        const toBlock = Math.min(latestBlock, fromBlock + blockIncrement)
+        const pastTransfers = await erc20Contract.getPastEvents("Transfer", {
+            fromBlock, toBlock
+        })
+        if (pastTransfers.length) {
+            // found transfers, token is fresh enough
+            return true
+        }
+    }
+    return false
+}
+
+// filter for tokens that have had a transfer within recent blocks
+async function filterFreshTokens(chainId, tokens, lookBackBlocks) {
+    // number of blocks to look back to find transfers, ~3 days
+    lookBackBlocks = lookBackBlocks || 50_000
+    const rpcUrl = RPC_URL[chainId]
+    if (!rpcUrl) {
+        // no rpc defined
+        return []
+    }
+    const web3 = createAlchemyWeb3(rpcUrl)
+    const latestBlock = await web3.eth.getBlockNumber()
+    return await Promise.map(tokens, async (token) => {
+        const tokenContract = new web3.eth.Contract(ERC20, token.address)
+        if (await isTokenFresh(tokenContract, latestBlock, lookBackBlocks)) {
+            console.info(`chain ${chainId} ${token.symbol} is fresh`)
+            return token
+        }
+        return null
+    }, {
+        concurrency: 100
+    }).filter(t => !!t)
 }
 
 async function generate(chainId) {
@@ -102,7 +156,14 @@ async function run() {
         const tokens = await generate(chainId)
         const outputFile = `./build/${chainId}-tokens.json`
         fs.writeFileSync(outputFile, JSON.stringify(tokens, null, 2))
-        console.info(`chain ${chainId}, ${tokens.length} tokens, output ${outputFile}`)
+
+        const freshTokens = await filterFreshTokens(chainId, tokens)
+        if (freshTokens.length) {
+            fs.writeFileSync(`./build/${chainId}-fresh-tokens.json`, JSON.stringify(freshTokens, null, 2))
+        }
+
+        console.info(`chain ${chainId}, ${tokens.length} tokens, ${freshTokens.length} are fresh, output ${outputFile}`)
     }
+    process.exit(0)
 }
 run()

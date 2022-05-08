@@ -5,7 +5,9 @@
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "devDependencies": {
+    "@alch/alchemy-web3": "^1.4.2",
     "axios": "^0.24.0",
+    "bluebird": "^3.7.2",
     "typescript": "^4.5.4",
     "web3-utils": "^1.7.0"
   },
