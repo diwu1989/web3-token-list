@@ -43,7 +43,7 @@ const RPC_URL = {
     // polygon
     137: 'wss://ws-matic-mainnet.chainstacklabs.com',
     // avalanche
-    // 43113: 'wss://api.avax.network/ext/bc/C/ws'
+    43113: 'wss://api.avax.network/ext/bc/C/ws'
 }
 
 function validateToken(chainId, token) {

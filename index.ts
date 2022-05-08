@@ -2,6 +2,7 @@ import AvalancheTokens from "./build/43114-tokens.json";
 import CeloTokens from "./build/42220-tokens.json";
 import CeloFreshTokens from "./build/42220-fresh-tokens.json";
 import PolygonTokens from "./build/137-tokens.json";
+import PolygonFreshTokens from "./build/137-fresh-tokens.json";
 import AlfajoresTokens from "./build/44787-tokens.json";
 import GnosisTokens from "./build/100-tokens.json";
 import GnosisFreshTokens from "./build/100-fresh-tokens.json";
@@ -30,7 +31,7 @@ export const TOKEN_LIST: Record<number | string, Token[]> = {
     polygon: PolygonTokens,
     // gnosis
     100: GnosisTokens,
-    gnosis: GnosisTokens
+    gnosis: GnosisTokens,
 };
 
 export const FRESH_TOKEN_LIST: Record<number | string, Token[]> = {
@@ -39,7 +40,10 @@ export const FRESH_TOKEN_LIST: Record<number | string, Token[]> = {
     celo: CeloFreshTokens,
     // gnosis
     100: GnosisFreshTokens,
-    gnosis: GnosisFreshTokens
+    gnosis: GnosisFreshTokens,
+    // polygon
+    137: PolygonFreshTokens,
+    polygon: PolygonFreshTokens,
 }
 
 export default TOKEN_LIST;

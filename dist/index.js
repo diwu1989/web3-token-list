@@ -8,6 +8,7 @@ const _43114_tokens_json_1 = __importDefault(require("./build/43114-tokens.json"
 const _42220_tokens_json_1 = __importDefault(require("./build/42220-tokens.json"));
 const _42220_fresh_tokens_json_1 = __importDefault(require("./build/42220-fresh-tokens.json"));
 const _137_tokens_json_1 = __importDefault(require("./build/137-tokens.json"));
+const _137_fresh_tokens_json_1 = __importDefault(require("./build/137-fresh-tokens.json"));
 const _44787_tokens_json_1 = __importDefault(require("./build/44787-tokens.json"));
 const _100_tokens_json_1 = __importDefault(require("./build/100-tokens.json"));
 const _100_fresh_tokens_json_1 = __importDefault(require("./build/100-fresh-tokens.json"));
@@ -26,7 +27,7 @@ exports.TOKEN_LIST = {
     polygon: _137_tokens_json_1.default,
     // gnosis
     100: _100_tokens_json_1.default,
-    gnosis: _100_tokens_json_1.default
+    gnosis: _100_tokens_json_1.default,
 };
 exports.FRESH_TOKEN_LIST = {
     // celo
@@ -34,6 +35,9 @@ exports.FRESH_TOKEN_LIST = {
     celo: _42220_fresh_tokens_json_1.default,
     // gnosis
     100: _100_fresh_tokens_json_1.default,
-    gnosis: _100_fresh_tokens_json_1.default
+    gnosis: _100_fresh_tokens_json_1.default,
+    // polygon
+    137: _137_fresh_tokens_json_1.default,
+    polygon: _137_fresh_tokens_json_1.default,
 };
 exports.default = exports.TOKEN_LIST;
