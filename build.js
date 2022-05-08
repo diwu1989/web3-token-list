@@ -37,13 +37,13 @@ const TOKEN_LIST = {
 
 const RPC_URL = {
     // celo
-    42220: 'wss://forno.celo.org/ws',
+    42220: 'https://rpc.ankr.com/celo',
     // gnosis
-    100: 'wss://rpc.gnosischain.com/wss',
+    100: 'https://rpc.ankr.com/gnosis',
     // polygon
-    137: 'wss://ws-matic-mainnet.chainstacklabs.com',
+    137: 'https://rpc.ankr.com/polygon',
     // avalanche
-    43113: 'wss://api.avax.network/ext/bc/C/ws'
+    // 43114: 'https://rpc.ankr.com/avalanche-c'
 }
 
 function validateToken(chainId, token) {

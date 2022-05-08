@@ -1176,6 +1176,14 @@
         "logoURI": "https://assets.coingecko.com/coins/images/13699/small/MASQ_Logo_Blue_Solo_Transparent.png?1616661801"
     },
     {
+        "name": "Starchi Liquid Luck",
+        "address": "0xED0bb69f9F96E8C5FffdF16c468eceC385134eA5",
+        "symbol": "ELIXIR",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/18941/small/starchi.jpg?1633961292"
+    },
+    {
         "name": "ZigCoin",
         "address": "0x7BeBd226154E865954A87650FAefA8F485d36081",
         "symbol": "ZIG",
