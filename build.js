@@ -28,6 +28,7 @@ const TOKEN_LIST = {
     ],
     // gnosis
     100: [
+        // 'https://unpkg.com/@1hive/default-token-list@5.27.0/build/honeyswap-default.tokenlist.json',
         // 'https://raw.githubusercontent.com/elkfinance/tokens/main/xdai.tokenlist.json',
         'https://raw.githubusercontent.com/sushiswap/default-token-list/master/tokens/xdai.json',
         'https://raw.githubusercontent.com/baofinance/tokenlists/main/xdai.json'
@@ -40,7 +41,7 @@ const RPC_URL = {
     // gnosis
     100: 'wss://rpc.gnosischain.com/wss',
     // polygon
-    // 137: 'wss://ws-matic-mainnet.chainstacklabs.com',
+    137: 'wss://ws-matic-mainnet.chainstacklabs.com',
     // avalanche
     // 43113: 'wss://api.avax.network/ext/bc/C/ws'
 }
