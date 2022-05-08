@@ -5,6 +5,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.FRESH_TOKEN_LIST = exports.TOKEN_LIST = void 0;
 const _43114_tokens_json_1 = __importDefault(require("./build/43114-tokens.json"));
+const _43114_fresh_tokens_json_1 = __importDefault(require("./build/43114-fresh-tokens.json"));
 const _42220_tokens_json_1 = __importDefault(require("./build/42220-tokens.json"));
 const _42220_fresh_tokens_json_1 = __importDefault(require("./build/42220-fresh-tokens.json"));
 const _137_tokens_json_1 = __importDefault(require("./build/137-tokens.json"));
@@ -39,5 +40,8 @@ exports.FRESH_TOKEN_LIST = {
     // polygon
     137: _137_fresh_tokens_json_1.default,
     polygon: _137_fresh_tokens_json_1.default,
+    // avalanche
+    43114: _43114_fresh_tokens_json_1.default,
+    avalanche: _43114_fresh_tokens_json_1.default,
 };
 exports.default = exports.TOKEN_LIST;

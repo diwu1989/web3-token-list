@@ -504,6 +504,14 @@
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pUSD.png"
   },
   {
+    "address": "0xd954C4c006189d967507b8ba758605364eB660D2",
+    "name": "Sky Portal",
+    "symbol": "LAPIS",
+    "chainId": 42220,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_LAPIS.png"
+  },
+  {
     "address": "0xDB452CC669D3Ae454226AbF232Fe211bAfF2a1F9",
     "name": "Duino-Coin on Celo",
     "symbol": "celoDUCO",

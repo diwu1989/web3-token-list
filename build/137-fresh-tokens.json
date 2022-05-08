@@ -32,6 +32,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },
   {
+    "name": "WazirX",
+    "address": "0x72d6066F486bd0052eefB9114B66ae40e0A6031a",
+    "symbol": "WRX",
+    "decimals": 8,
+    "chainId": 137,
+    "logoURI": "https://etherscan.io/token/images/binance-wrx_32.png"
+  },
+  {
     "name": "QuickSwap Token",
     "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
     "symbol": "QUICK",
@@ -1264,14 +1272,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/21467/small/n1fqEYRI_400x400.png?1639345175"
   },
   {
-    "name": "TOMB",
-    "address": "0x0e98C977B943f06075b2D795794238fBfB9b9a34",
-    "symbol": "TOMB",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/16133/small/tomb_icon_noBG.png?1623055476"
-  },
-  {
     "name": "Otter Clam",
     "address": "0xC250e9987A032ACAC293d838726C511E6E1C029d",
     "symbol": "CLAM",
@@ -1376,14 +1376,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/21692/small/NF_nshare_2_200x200.png?1639721239"
   },
   {
-    "name": "UniArts Network Token",
-    "address": "0xf244E91A46A9cdd48da295cA5d0B27894f8032B1",
-    "symbol": "UART",
-    "decimals": 12,
-    "chainId": 137,
-    "logoURI": "https://assets.coingecko.com/coins/images/22092/small/3Rx82r_w_400x400.png?1640823145"
-  },
-  {
     "name": "Moss Carbon Credit",
     "address": "0xAa7DbD1598251f856C12f63557A4C4397c253Cea",
     "symbol": "MCO2",
@@ -1430,6 +1422,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/12684/small/2021-12-06-Aurus-tokens-for-coingecko-AWX-flat-color-v1-r1-AS.png?1640223413"
+  },
+  {
+    "name": "AurusSILVER",
+    "address": "0xA96D47c621a8316d4F9539E3B38180C7067e84CA",
+    "symbol": "AWS",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/14965/small/2021-12-06-Aurus-tokens-for-coingecko-AWS-flat-color-v1-r1-AS.png?1640223368"
   },
   {
     "name": "Bookie",
@@ -1752,14 +1752,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/24185/small/stMATIC.png?1646789287"
   },
   {
-    "name": "Sprocket",
-    "address": "0x0D98EAe620491d8f6836a39Ac45E54b286FDd2d7",
-    "symbol": "SPROCKET",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://i.ibb.co/6th7s4m/sprocket-symbol-200x200-col-trans.png"
-  },
-  {
     "name": "NEAR",
     "address": "0x72bd80445b0db58ebe3E8dB056529D4C5FAF6F2f",
     "symbol": "NEAR",
@@ -1942,14 +1934,6 @@
     "decimals": 8,
     "chainId": 137,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5946.png"
-  },
-  {
-    "name": "Validator",
-    "address": "0x9d47b3FAA5fF227D2BD404F572eF0ab0C8409161",
-    "symbol": "VALX",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://pbs.twimg.com/profile_images/1410528571823636482/CioezYBu_400x400.png"
   },
   {
     "name": "renBTC",
@@ -2144,6 +2128,14 @@
     "logoURI": "https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0x556f501CF8a43216Df5bc9cC57Eb04D4FFAA9e6D.png"
   },
   {
+    "address": "0xED42605D2F2aBd7Dff808662a322A87804eF3a00",
+    "chainId": 137,
+    "name": "Dogematic",
+    "symbol": "DM",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0xED42605D2F2aBd7Dff808662a322A87804eF3a00.png"
+  },
+  {
     "name": "DokiDokiAzuki",
     "address": "0x7CdC0421469398e0F3aA8890693d86c840Ac8931",
     "symbol": "AZUKI",
@@ -2158,22 +2150,6 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://avatars.githubusercontent.com/u/56005256?s=200&v=4"
-  },
-  {
-    "chainId": 137,
-    "address": "0xa3eD22EEE92a3872709823a6970069e12A4540Eb",
-    "name": "Frontier",
-    "symbol": "FRONT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12479/large/frontier_logo.png?1600145472"
-  },
-  {
-    "name": "Fusion",
-    "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
-    "symbol": "FSN",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://cryptologos.cc/logos/fusion-fsn-logo.png?v=010"
   },
   {
     "name": "Gains V2",
@@ -2286,6 +2262,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://aavegotchi.com/images/matokens/maYFI.svg"
+  },
+  {
+    "name": "Matic Deflect Protocol",
+    "address": "0x82B6205002ecd05e97642D38D61e2cFeaC0E18cE",
+    "symbol": "mDEF",
+    "decimals": 9,
+    "chainId": 137,
+    "logoURI": "https://etherscan.io/token/images/deflect_32.png?=v1"
   },
   {
     "name": "Matic Ruletka",
@@ -2454,14 +2438,6 @@
     "decimals": 8,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/2707/small/UnibrightLogo_colorful_500x500_preview.png?1547036916"
-  },
-  {
-    "chainId": 137,
-    "address": "0x67480287CB3715D1d9429B38772c71d6E94C16da",
-    "name": "Union",
-    "symbol": "UNN",
-    "decimals": 18,
-    "logoURI": "https://etherscan.io/token/images/unionprotocol_32.png"
   },
   {
     "name": "Wrapped LUNA Token",

@@ -10,13 +10,14 @@ const TOKEN_LIST = {
     // avalanche
     43114: [
         'https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/joe.tokenlist.json',
-        'https://raw.githubusercontent.com/sushiswap/default-token-list/master/tokens/avalanche.json'
+        'https://raw.githubusercontent.com/sushiswap/default-token-list/master/tokens/avalanche.json',
+        'https://raw.githubusercontent.com/pangolindex/tokenlists/main/pangolin.tokenlist.json',
     ],
     // celo
     42220: [
         'https://raw.githubusercontent.com/sushiswap/default-token-list/master/tokens/celo.json',
         'https://raw.githubusercontent.com/Ubeswap/default-token-list/master/ubeswap.token-list.json',
-        'https://raw.githubusercontent.com/Ubeswap/default-token-list/master/ubeswap-experimental.token-list.json'
+        'https://raw.githubusercontent.com/Ubeswap/default-token-list/master/ubeswap-experimental.token-list.json',
     ],
     44787: [
         'https://raw.githubusercontent.com/Ubeswap/default-token-list/master/ubeswap-experimental.token-list.json',
@@ -24,14 +25,14 @@ const TOKEN_LIST = {
     // polygon
     137: [
         'https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/src/tokens/mainnet.json',
-        'https://raw.githubusercontent.com/BlockTimeWorld/SwapMatic/master/alpha.tokenlist.json'
+        'https://raw.githubusercontent.com/BlockTimeWorld/SwapMatic/master/alpha.tokenlist.json',
     ],
     // gnosis
     100: [
         // 'https://unpkg.com/@1hive/default-token-list@5.27.0/build/honeyswap-default.tokenlist.json',
         // 'https://raw.githubusercontent.com/elkfinance/tokens/main/xdai.tokenlist.json',
         'https://raw.githubusercontent.com/sushiswap/default-token-list/master/tokens/xdai.json',
-        'https://raw.githubusercontent.com/baofinance/tokenlists/main/xdai.json'
+        'https://raw.githubusercontent.com/baofinance/tokenlists/main/xdai.json',
     ]
 }
 
@@ -43,7 +44,7 @@ const RPC_URL = {
     // polygon
     137: 'https://rpc.ankr.com/polygon',
     // avalanche
-    // 43114: 'https://rpc.ankr.com/avalanche-c'
+    43114: 'https://rpc.ankr.com/avalanche'
 }
 
 function validateToken(chainId, token) {

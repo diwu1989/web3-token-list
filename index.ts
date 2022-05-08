@@ -1,4 +1,5 @@
 import AvalancheTokens from "./build/43114-tokens.json";
+import AvalancheFreshTokens from "./build/43114-fresh-tokens.json";
 import CeloTokens from "./build/42220-tokens.json";
 import CeloFreshTokens from "./build/42220-fresh-tokens.json";
 import PolygonTokens from "./build/137-tokens.json";
@@ -44,6 +45,9 @@ export const FRESH_TOKEN_LIST: Record<number | string, Token[]> = {
     // polygon
     137: PolygonFreshTokens,
     polygon: PolygonFreshTokens,
+    // avalanche
+    43114: AvalancheFreshTokens,
+    avalanche: AvalancheFreshTokens,
 }
 
 export default TOKEN_LIST;
