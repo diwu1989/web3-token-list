@@ -33,6 +33,11 @@ const TOKEN_LIST = {
         // 'https://raw.githubusercontent.com/elkfinance/tokens/main/xdai.tokenlist.json',
         'https://raw.githubusercontent.com/sushiswap/default-token-list/master/tokens/xdai.json',
         'https://raw.githubusercontent.com/baofinance/tokenlists/main/xdai.json',
+    ],
+    // optimism
+    10: [
+        'https://static.optimism.io/optimism.tokenlist.json',
+        // 'https://data.zipswap.fi/tokenlist.json',
     ]
 }
 
@@ -44,7 +49,9 @@ const RPC_URL = {
     // polygon
     137: 'https://rpc.ankr.com/polygon',
     // avalanche
-    43114: 'https://rpc.ankr.com/avalanche'
+    43114: 'https://rpc.ankr.com/avalanche',
+    // optimism
+    10: 'https://mainnet.optimism.io'
 }
 
 function validateToken(chainId, token) {
@@ -126,6 +133,9 @@ async function generate(chainId) {
         }
 
         for (const token of rawTokens) {
+            if (!validateToken(chainId, token)) {
+                continue
+            }
             token.address = utils.toChecksumAddress(token.address)
             seen[token.address] = token
         }

@@ -53,7 +53,7 @@
         "symbol": "QUICK(NEW)",
         "decimals": 18,
         "chainId": 137,
-        "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/QUICK_NEW.svg"
+        "logoURI": "https://i.ibb.co/HGWTLM7/Quick-Icon-V2.png"
     },
     {
         "name": "Uniswap",
@@ -1910,6 +1910,54 @@
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://assets.coingecko.com/coins/images/15315/small/pleasurecoin-icon.png?1648724879"
+    },
+    {
+        "name": "PolysportsToken",
+        "address": "0x32Cd1BCB75473845b5d1dB6ecE60AEC6E41d8518",
+        "symbol": "PS1",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/25070/small/L-T2x_cG_400x400.jpg?1650024620"
+    },
+    {
+        "name": "Emanate",
+        "address": "0x3fB256CFefedb6A54De7465c0EE86dC574AE464D",
+        "symbol": "EMT",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/4152/small/emanate.png?1558422824"
+    },
+    {
+        "name": "Lucidao",
+        "address": "0xc2A45FE7d40bCAc8369371B08419DDAFd3131b4a",
+        "symbol": "LCD",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/23693/small/lcd-icon-color-200px.png?1645450706"
+    },
+    {
+        "name": "CelsiusX Wrapped BTC",
+        "address": "0xD30DC92b8ec0fa8de625768d208f51A93C10aFF2",
+        "symbol": "cxBTC",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://i.ibb.co/3fQ0Vx9/Group-66.png"
+    },
+    {
+        "name": "BetSwirl Token",
+        "address": "0x9246a5F10A79a5a939b0C2a75A3AD196aAfDB43b",
+        "symbol": "BETS",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/23693/small/lcd-icon-color-200px.png?1645450706"
+    },
+    {
+        "name": "Crypto Volatility Token",
+        "address": "0x9CD552551EC130b50c1421649C8d11E76aC821e1",
+        "symbol": "CVOL",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/24008/small/govi-dao.03ef3083.png?1646029661"
     },
     {
         "name": "Fractal Investment Token",

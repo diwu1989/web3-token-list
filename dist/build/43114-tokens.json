@@ -25,22 +25,6 @@
     },
     {
         "chainId": 43114,
-        "address": "0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c",
-        "decimals": 18,
-        "name": "PenguinToken",
-        "symbol": "PEFI",
-        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c/logo.png"
-    },
-    {
-        "chainId": 43114,
-        "address": "0xC38f41A296A4493Ff429F1238e030924A1542e50",
-        "decimals": 18,
-        "name": "Snowball",
-        "symbol": "SNOB",
-        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xC38f41A296A4493Ff429F1238e030924A1542e50/logo.png"
-    },
-    {
-        "chainId": 43114,
         "address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
         "decimals": 18,
         "name": "Avalaunch",
@@ -129,14 +113,6 @@
     },
     {
         "chainId": 43114,
-        "address": "0x78c42324016cd91D1827924711563fb66E33A83A",
-        "decimals": 18,
-        "name": "Relay Token",
-        "symbol": "RELAY",
-        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x78c42324016cd91D1827924711563fb66E33A83A/logo.png"
-    },
-    {
-        "chainId": 43114,
         "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
         "decimals": 18,
         "name": "BENQI",
@@ -217,22 +193,6 @@
     },
     {
         "chainId": 43114,
-        "address": "0x0f34919404a290e71fc6A510cB4a6aCb8D764b24",
-        "decimals": 18,
-        "name": "Blizz.Finance",
-        "symbol": "BLZZ",
-        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0f34919404a290e71fc6A510cB4a6aCb8D764b24/logo.png"
-    },
-    {
-        "chainId": 43114,
-        "address": "0x72699ba15CC734F8db874fa9652c8DE12093F187",
-        "decimals": 18,
-        "name": "Growth-Peg Token",
-        "symbol": "GRO",
-        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x72699ba15CC734F8db874fa9652c8DE12093F187/logo.png"
-    },
-    {
-        "chainId": 43114,
         "address": "0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
         "decimals": 18,
         "name": "Pendle",
@@ -254,14 +214,6 @@
         "name": "Treasure Under Sea",
         "symbol": "TUS",
         "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172/logo.png"
-    },
-    {
-        "chainId": 43114,
-        "address": "0xbD83010eB60F12112908774998F65761cf9f6f9a",
-        "decimals": 18,
-        "name": "SpookyToken",
-        "symbol": "BOO",
-        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xbD83010eB60F12112908774998F65761cf9f6f9a/logo.png"
     },
     {
         "chainId": 43114,
@@ -329,14 +281,6 @@
     },
     {
         "chainId": 43114,
-        "address": "0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1",
-        "decimals": 18,
-        "name": "Tomb",
-        "symbol": "TOMB",
-        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1/logo.png"
-    },
-    {
-        "chainId": 43114,
         "address": "0xF891214fdcF9cDaa5fdC42369eE4F27F226AdaD6",
         "decimals": 18,
         "name": "Imperium Empires Token",
@@ -385,14 +329,6 @@
     },
     {
         "chainId": 43114,
-        "address": "0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c",
-        "decimals": 18,
-        "name": "HeroesChained",
-        "symbol": "HeC",
-        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c/logo.png"
-    },
-    {
-        "chainId": 43114,
         "address": "0x62edc0692BD897D2295872a9FFCac5425011c661",
         "decimals": 18,
         "name": "GMX",
@@ -425,22 +361,6 @@
     },
     {
         "chainId": 43114,
-        "address": "0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11",
-        "decimals": 6,
-        "name": "Axelar Wrapped UST",
-        "symbol": "axlUST",
-        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11/logo.png"
-    },
-    {
-        "chainId": 43114,
-        "address": "0x120AD3e5A7c796349e591F1570D9f7980F4eA9cb",
-        "decimals": 6,
-        "name": "Axelar Wrapped LUNA",
-        "symbol": "LUNA",
-        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x120AD3e5A7c796349e591F1570D9f7980F4eA9cb/logo.png"
-    },
-    {
-        "chainId": 43114,
         "address": "0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB",
         "decimals": 18,
         "name": "HonToken",
@@ -465,35 +385,11 @@
     },
     {
         "chainId": 43114,
-        "address": "0x959b88966fC5B261dF8359961357d34F4ee27b4a",
-        "decimals": 18,
-        "name": "Universe",
-        "symbol": "UNIV",
-        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x959b88966fC5B261dF8359961357d34F4ee27b4a/logo.png"
-    },
-    {
-        "chainId": 43114,
-        "address": "0x9e20Af05AB5FED467dFDd5bb5752F7d5410C832e",
-        "decimals": 18,
-        "name": "ProjectX2",
-        "symbol": "PXT2",
-        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9e20Af05AB5FED467dFDd5bb5752F7d5410C832e/logo.png"
-    },
-    {
-        "chainId": 43114,
         "address": "0x83a283641C6B4DF383BCDDf807193284C84c5342",
         "decimals": 18,
         "name": "VaporNodes",
         "symbol": "VPND",
         "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x83a283641C6B4DF383BCDDf807193284C84c5342/logo.png"
-    },
-    {
-        "chainId": 43114,
-        "address": "0xeA068Fba19CE95f12d252aD8Cb2939225C4Ea02D",
-        "decimals": 18,
-        "name": "Fief",
-        "symbol": "FIEF",
-        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xeA068Fba19CE95f12d252aD8Cb2939225C4Ea02D/logo.png"
     },
     {
         "chainId": 43114,
@@ -593,14 +489,6 @@
     },
     {
         "chainId": 43114,
-        "address": "0xA886C732703700efCbd8438768822c8e716cB0EC",
-        "decimals": 18,
-        "name": "Fief Wood",
-        "symbol": "WOOD",
-        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA886C732703700efCbd8438768822c8e716cB0EC/logo.png"
-    },
-    {
-        "chainId": 43114,
         "address": "0x0802d66f029c46E042b74d543fC43B6705ccb4ba",
         "decimals": 18,
         "name": "ApeCoin",
@@ -662,14 +550,6 @@
         "name": "Jewels",
         "symbol": "JEWEL",
         "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6/logo.png"
-    },
-    {
-        "chainId": 43114,
-        "address": "0x2b0B320B47D8e0DD0E4477cf90c307c7ed984Ad2",
-        "decimals": 18,
-        "name": "METAG",
-        "symbol": "METAG",
-        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2b0B320B47D8e0DD0E4477cf90c307c7ed984Ad2/logo.png"
     },
     {
         "chainId": 43114,
@@ -913,11 +793,27 @@
     },
     {
         "chainId": 43114,
+        "address": "0xC38f41A296A4493Ff429F1238e030924A1542e50",
+        "decimals": 18,
+        "name": "Snowball",
+        "symbol": "SNOB",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xC38f41A296A4493Ff429F1238e030924A1542e50/logo.png"
+    },
+    {
+        "chainId": 43114,
         "address": "0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985",
         "decimals": 9,
         "name": "Spore",
         "symbol": "SPORE",
         "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985/logo.png"
+    },
+    {
+        "chainId": 43114,
+        "address": "0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c",
+        "decimals": 18,
+        "name": "PenguinToken",
+        "symbol": "PEFI",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c/logo.png"
     },
     {
         "chainId": 43114,
@@ -1257,6 +1153,14 @@
     },
     {
         "chainId": 43114,
+        "address": "0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1",
+        "decimals": 18,
+        "name": "Tomb",
+        "symbol": "TOMB",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1/logo.png"
+    },
+    {
+        "chainId": 43114,
         "address": "0xbca7f1998Dc9FFB70b086543a808960a460aBcA7",
         "decimals": 18,
         "name": "Kitty",
@@ -1345,11 +1249,27 @@
     },
     {
         "chainId": 43114,
+        "address": "0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c",
+        "decimals": 18,
+        "name": "HeroesChained",
+        "symbol": "HeC",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c/logo.png"
+    },
+    {
+        "chainId": 43114,
         "address": "0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf",
         "decimals": 18,
         "name": "Pollen",
         "symbol": "PLN",
         "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf/logo.png"
+    },
+    {
+        "chainId": 43114,
+        "address": "0x120AD3e5A7c796349e591F1570D9f7980F4eA9cb",
+        "decimals": 6,
+        "name": "Axelar Wrapped LUNA",
+        "symbol": "LUNA",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x120AD3e5A7c796349e591F1570D9f7980F4eA9cb/logo.png"
     },
     {
         "chainId": 43114,
@@ -1601,6 +1521,14 @@
     },
     {
         "chainId": 43114,
+        "address": "0x4156F18bF7C1ef04248632C66Aa119De152D8f2E",
+        "decimals": 18,
+        "name": "Zeus Node Finance",
+        "symbol": "ZEUS",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4156F18bF7C1ef04248632C66Aa119De152D8f2E/logo.png"
+    },
+    {
+        "chainId": 43114,
         "address": "0x564A341Df6C126f90cf3ECB92120FD7190ACb401",
         "decimals": 6,
         "name": "BiLira",
@@ -1657,10 +1585,26 @@
     },
     {
         "chainId": 43114,
+        "address": "0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11",
+        "decimals": 6,
+        "name": "Axelar Wrapped UST",
+        "symbol": "axlUST",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11/logo.png"
+    },
+    {
+        "chainId": 43114,
         "address": "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
         "decimals": 18,
         "name": "JPY Coin",
         "symbol": "JPYC",
         "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB/logo.png"
+    },
+    {
+        "chainId": 43114,
+        "address": "0x61eCd63e42C27415696e10864d70ecEA4aA11289",
+        "decimals": 18,
+        "name": "Rugpull Prevention",
+        "symbol": "RUGPULL",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x61eCd63e42C27415696e10864d70ecEA4aA11289/logo.png"
     }
 ]

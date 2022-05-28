@@ -408,14 +408,6 @@
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_TFBX.png"
   },
   {
-    "address": "0xD8761DD6c7cB54febD33adD699F5E4440b62E01B",
-    "name": "Poof EUR",
-    "symbol": "pEUR",
-    "chainId": 42220,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pEUR.png"
-  },
-  {
     "address": "0xE273Ad7ee11dCfAA87383aD5977EE1504aC07568",
     "name": "Moola cEUR",
     "symbol": "mcEUR",
@@ -480,6 +472,14 @@
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_AAVE.png"
   },
   {
+    "address": "0x56072D4832642dB29225dA12d6Fd1290E4744682",
+    "name": "Poof v1 EUR",
+    "symbol": "pEURxV1",
+    "chainId": 42220,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pEUR.png"
+  },
+  {
     "address": "0x7c64aD5F9804458B8c9F93f7300c15D55956Ac2a",
     "name": "Symmetric DEPRECATED",
     "symbol": "SYMMxOLD",
@@ -504,14 +504,6 @@
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pUSD.png"
   },
   {
-    "address": "0xd954C4c006189d967507b8ba758605364eB660D2",
-    "name": "Sky Portal",
-    "symbol": "LAPIS",
-    "chainId": 42220,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_LAPIS.png"
-  },
-  {
     "address": "0xDB452CC669D3Ae454226AbF232Fe211bAfF2a1F9",
     "name": "Duino-Coin on Celo",
     "symbol": "celoDUCO",
@@ -531,6 +523,14 @@
     "address": "0xC7144Fa865c9f3a6836167A51531A2CC8b0ab5fD",
     "name": "CeloDex.org",
     "symbol": "CLX",
+    "chainId": 42220,
+    "decimals": 18,
+    "logoURI": ""
+  },
+  {
+    "address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
+    "name": "Avalanche",
+    "symbol": "AVAX",
     "chainId": 42220,
     "decimals": 18,
     "logoURI": ""
@@ -563,14 +563,6 @@
     "address": "0x266C13DeD5A1d636E502fd56B3F76d38c3107EC2",
     "name": "kUSD",
     "symbol": "kUSD",
-    "chainId": 42220,
-    "decimals": 18,
-    "logoURI": ""
-  },
-  {
-    "address": "0x091733f0245A4395d8BfE42C74A619328269F12F",
-    "name": "KnoxDAO",
-    "symbol": "KNOX",
     "chainId": 42220,
     "decimals": 18,
     "logoURI": ""

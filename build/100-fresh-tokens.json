@@ -200,14 +200,6 @@
     "logoURI": "https://etherscan.io/token/images/bat.png"
   },
   {
-    "name": "BarnBridge",
-    "address": "0xb31a2595E4Cf66EfBC1Fe348b1429E5730891382",
-    "symbol": "BOND",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://assets.coingecko.com/coins/images/12811/small/barnbridge.jpg"
-  },
-  {
     "name": "Bancor Network Token on xDai",
     "address": "0x9a495a281D959192343B0e007284bf130bd05F86",
     "symbol": "BNT",
@@ -360,6 +352,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/605/small/Enzyme_Icon_Secondary.png"
   },
   {
+    "name": "Ocean Token on xDai",
+    "address": "0x51732a6fC4673d1aCca4c047F5465922716508Ad",
+    "symbol": "OCEAN",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/oceantoken_28.png"
+  },
+  {
     "name": "Meta USD",
     "address": "0x7300AaFC0Ef0d47Daeb850f8b6a1931b40aCab33",
     "symbol": "mUSD",
@@ -384,20 +384,20 @@
     "logoURI": "https://assets.coingecko.com/coins/images/12381/small/perpetual_protocol_logo.jpg"
   },
   {
+    "name": "POA20 on xDai",
+    "address": "0x985e144EB355273c4B4D51E448B68b657F482E26",
+    "symbol": "POA20",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://1inch.exchange/assets/tokens/0x6758b7d441a9739b98552b373703d8d3d14f9e62.png"
+  },
+  {
     "name": "Particle",
     "address": "0xB5d592f85ab2D955c25720EbE6FF8D4d1E1Be300",
     "symbol": "PRTCLE",
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/wiki/master/images/Particle.png"
-  },
-  {
-    "name": "Rarible on xDai",
-    "address": "0x4bE85ACC1cd711F403dC7BdE9e6caDfC5A94744b",
-    "symbol": "RARI",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/rarible_32.png"
   },
   {
     "name": "Republic Token on xDai",
@@ -414,14 +414,6 @@
     "decimals": 8,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/renbtc_32.png"
-  },
-  {
-    "name": "Rocket Pool on xDai",
-    "address": "0x2F0E755Efe6b58238A67DB420Ff3513Ec1fb31eF",
-    "symbol": "RPL",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/Rocketpool_32.png"
   },
   {
     "name": "Reserve Rights on xDai",
@@ -456,28 +448,12 @@
     "logoURI": "https://assets.coingecko.com/coins/images/11970/small/serum-logo.png"
   },
   {
-    "name": "Synthetix USD on xDai",
-    "address": "0xB1950Fb2C9C0CbC8553578c67dB52Aa110A93393",
-    "symbol": "sUSD",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51/logo.png"
-  },
-  {
     "name": "tBTC on xDai",
     "address": "0x0811E451447D5819976a95a02f130c3b00D59346",
     "symbol": "TBTC",
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/tbtc_32.png"
-  },
-  {
-    "name": "TrueUSD",
-    "address": "0xB714654e905eDad1CA1940b7790A8239ece5A9ff",
-    "symbol": "TUSD",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://assets.coingecko.com/coins/images/3449/small/TUSD.png"
   },
   {
     "name": "Uniswap on xDai",
