@@ -280,5 +280,13 @@
     "extensions": {
       "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
     }
+  },
+  {
+    "address": "0x6F620EC89B8479e97A6985792d0c64F237566746",
+    "name": "WePiggy Coin",
+    "symbol": "WPC",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": ""
   }
 ]
