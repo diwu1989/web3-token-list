@@ -7,6 +7,8 @@ import PolygonFreshTokens from "./build/137-fresh-tokens.json";
 import AlfajoresTokens from "./build/44787-tokens.json";
 import GnosisTokens from "./build/100-tokens.json";
 import GnosisFreshTokens from "./build/100-fresh-tokens.json";
+import OptimismTokens from "./build/10-tokens.json";
+import OptimismFreshTokens from "./build/10-fresh-tokens.json";
 
 export type Token = {
     chainId: number;
@@ -33,6 +35,9 @@ export const TOKEN_LIST: Record<number | string, Token[]> = {
     // gnosis
     100: GnosisTokens,
     gnosis: GnosisTokens,
+    // optimism
+    10: OptimismTokens,
+    optimism: OptimismTokens,
 };
 
 export const FRESH_TOKEN_LIST: Record<number | string, Token[]> = {
@@ -48,6 +53,9 @@ export const FRESH_TOKEN_LIST: Record<number | string, Token[]> = {
     // avalanche
     43114: AvalancheFreshTokens,
     avalanche: AvalancheFreshTokens,
+    // optimism
+    10: OptimismFreshTokens,
+    optimism: OptimismFreshTokens,
 }
 
 export default TOKEN_LIST;
