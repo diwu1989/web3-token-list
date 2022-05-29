@@ -320,14 +320,6 @@
         "logoURI": "https://adamant.finance/img/adamant.png"
     },
     {
-        "name": "QuickChart",
-        "address": "0x0Af77B096cbDF53B5c39c2fcff8F14C5E3a36356",
-        "symbol": "QuickChart",
-        "decimals": 9,
-        "chainId": 137,
-        "logoURI": "https://i.imgur.com/jv5A0eX.png"
-    },
-    {
         "name": "Ethernity Chain",
         "address": "0x0E50BEA95Fe001A370A4F1C220C49AEdCB982DeC",
         "symbol": "ERN",
@@ -2144,14 +2136,6 @@
         "logoURI": "https://raw.githubusercontent.com/dfyn/assets/main/DFYN_logo.png"
     },
     {
-        "name": "Dark Matter Token",
-        "address": "0xd28449BB9bB659725aCcAd52947677ccE3719fD7",
-        "symbol": "DMT",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://darkmatter.finance/i/favicon/512x512.png"
-    },
-    {
         "name": "Dark.Build",
         "address": "0x0e59D50adD2d90f5111aca875baE0a72D95B4762",
         "symbol": "DB",
@@ -2174,6 +2158,14 @@
         "symbol": "DUST",
         "decimals": 8,
         "logoURI": "https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0x556f501CF8a43216Df5bc9cC57Eb04D4FFAA9e6D.png"
+    },
+    {
+        "address": "0xED42605D2F2aBd7Dff808662a322A87804eF3a00",
+        "chainId": 137,
+        "name": "Dogematic",
+        "symbol": "DM",
+        "decimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0xED42605D2F2aBd7Dff808662a322A87804eF3a00.png"
     },
     {
         "name": "DokiDokiAzuki",
@@ -2312,6 +2304,14 @@
         "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/NFTP.png"
     },
     {
+        "address": "0xf5c39a7CEff5dA5BFB062389f62939A8C8396CB3",
+        "chainId": 137,
+        "name": "NFThub",
+        "symbol": "gNFT",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0xf5c39a7CEff5dA5BFB062389f62939A8C8396CB3.png"
+    },
+    {
         "chainId": 137,
         "address": "0xF6F85b3f9fd581C2eE717c404F7684486F057F95",
         "name": "NORD",
@@ -2430,14 +2430,6 @@
         "decimals": 8,
         "chainId": 137,
         "logoURI": "https://assets.coingecko.com/coins/images/2707/small/UnibrightLogo_colorful_500x500_preview.png?1547036916"
-    },
-    {
-        "chainId": 137,
-        "address": "0x67480287CB3715D1d9429B38772c71d6E94C16da",
-        "name": "Union",
-        "symbol": "UNN",
-        "decimals": 18,
-        "logoURI": "https://etherscan.io/token/images/unionprotocol_32.png"
     },
     {
         "name": "Wrapped LUNA Token",

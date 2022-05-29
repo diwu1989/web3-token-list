@@ -37,7 +37,8 @@ const TOKEN_LIST = {
     // optimism
     10: [
         'https://static.optimism.io/optimism.tokenlist.json',
-        // 'https://data.zipswap.fi/tokenlist.json',
+        'https://data.zipswap.fi/tokenlist.json',
+        'https://raw.githubusercontent.com/elkfinance/tokens/main/all.tokenlist.json',
     ]
 }
 

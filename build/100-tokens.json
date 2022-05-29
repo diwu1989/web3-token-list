@@ -702,5 +702,21 @@
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x21a42669643f45Bc0e086b8Fc2ed70c23D67509d/logo.png",
     "name": "FOX",
     "symbol": "FOX"
+  },
+  {
+    "name": "Wrapped BNB from BSC",
+    "address": "0xCa8d20f3e0144a72C6B5d576e9Bd3Fd8557E2B04",
+    "symbol": "WBNB",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://bscscan.com/token/images/binance_32.png"
+  },
+  {
+    "name": "BUSD Token from BSC",
+    "address": "0xdd96B45877d0E8361a4DDb732da741e97f3191Ff",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://bscscan.com/token/images/busd_32.png"
   }
 ]

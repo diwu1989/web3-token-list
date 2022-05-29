@@ -696,14 +696,6 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x69570f3E84f51Ea70b7B68055c8d667e77735a25.jpg"
   },
   {
-    "address": "0xdef1fac7Bf08f173D286BbBDcBeeADe695129840",
-    "chainId": 43114,
-    "name": "Cerby Token",
-    "symbol": "CERBY",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png"
-  },
-  {
     "chainId": 43114,
     "address": "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
     "decimals": 18,
@@ -782,6 +774,14 @@
     "name": "PenguinToken",
     "symbol": "PEFI",
     "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50",
+    "decimals": 8,
+    "name": "Blocknet",
+    "symbol": "aaBLOCK",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50/logo.png"
   },
   {
     "chainId": 43114,
@@ -870,14 +870,6 @@
     "name": "TEDDY",
     "symbol": "TEDDY",
     "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC/logo.png"
-  },
-  {
-    "chainId": 43114,
-    "address": "0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0",
-    "decimals": 18,
-    "name": "MarginSwap",
-    "symbol": "MFI",
-    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0/logo.png"
   },
   {
     "chainId": 43114,
@@ -1097,6 +1089,14 @@
   },
   {
     "chainId": 43114,
+    "address": "0xbca7f1998Dc9FFB70b086543a808960a460aBcA7",
+    "decimals": 18,
+    "name": "Kitty",
+    "symbol": "KITTY",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xbca7f1998Dc9FFB70b086543a808960a460aBcA7/logo.png"
+  },
+  {
+    "chainId": 43114,
     "address": "0x721C299E6BF7D6a430d9bEA3364Ea197314bcE09",
     "decimals": 18,
     "name": "MilkyWay Token by SpaceSwap v2",
@@ -1110,14 +1110,6 @@
     "name": "SHAKE token by SpaceSwap v2",
     "symbol": "SHAKE",
     "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xC1d02E488a9Ce2481BFdcd797d5373Dd2E70a9C2/logo.png"
-  },
-  {
-    "chainId": 43114,
-    "address": "0xB15f02F9Da8CD1f99E9dd375F21dc96D25ddd82C",
-    "decimals": 18,
-    "name": "HERMES",
-    "symbol": "HERMES",
-    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB15f02F9Da8CD1f99E9dd375F21dc96D25ddd82C/logo.png"
   },
   {
     "chainId": 43114,
@@ -1201,14 +1193,6 @@
   },
   {
     "chainId": 43114,
-    "address": "0x402FD175049e95CeF2cC9ca1FECdb6d9736e690d",
-    "decimals": 18,
-    "name": "Catoshi",
-    "symbol": "CATS",
-    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x402FD175049e95CeF2cC9ca1FECdb6d9736e690d/logo.png"
-  },
-  {
-    "chainId": 43114,
     "address": "0x1fE4751d9bDabaC8D90067056cB45AB6823d2C12",
     "decimals": 18,
     "name": "ArgonToken",
@@ -1281,6 +1265,14 @@
   },
   {
     "chainId": 43114,
+    "address": "0x0659133127749Cc0616Ed6632912ddF7cc8D7545",
+    "decimals": 18,
+    "name": "DefiLaunch Token",
+    "symbol": "DLAUNCH",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0659133127749Cc0616Ed6632912ddF7cc8D7545/logo.png"
+  },
+  {
+    "chainId": 43114,
     "address": "0xb67a9374Da03d4114a6FB8f0E7F2b82b5cB34ee3",
     "decimals": 18,
     "name": "Augmented Finance",
@@ -1294,6 +1286,14 @@
     "name": "OddzToken",
     "symbol": "ODDZ",
     "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x4960bc6032351ab87627B8F36b37B4938A44C7eF",
+    "decimals": 18,
+    "name": "RICH",
+    "symbol": "RICH",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4960bc6032351ab87627B8F36b37B4938A44C7eF/logo.png"
   },
   {
     "chainId": 43114,
