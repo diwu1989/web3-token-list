@@ -1081,14 +1081,6 @@
   },
   {
     "chainId": 43114,
-    "address": "0xbca7f1998Dc9FFB70b086543a808960a460aBcA7",
-    "decimals": 18,
-    "name": "Kitty",
-    "symbol": "KITTY",
-    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xbca7f1998Dc9FFB70b086543a808960a460aBcA7/logo.png"
-  },
-  {
-    "chainId": 43114,
     "address": "0x721C299E6BF7D6a430d9bEA3364Ea197314bcE09",
     "decimals": 18,
     "name": "MilkyWay Token by SpaceSwap v2",

@@ -526,5 +526,13 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://bscscan.com/token/images/busd_32.png"
+    },
+    {
+        "name": "Bright from Ethereum",
+        "address": "0x83FF60E2f93F8eDD0637Ef669C69D5Fb4f64cA8E",
+        "symbol": "BRIGHT",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/BrightDAO/logo.png"
     }
 ]

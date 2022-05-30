@@ -726,5 +726,13 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/BrightDAO/logo.png"
+  },
+  {
+    "name": "Symmetric",
+    "address": "0xC45b3C1c24d5F54E7a2cF288ac668c74Dd507a84",
+    "symbol": "SYMM",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/symmetricfinance_32.png"
   }
 ]
