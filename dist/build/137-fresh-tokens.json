@@ -32,6 +32,14 @@
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
+        "name": "WazirX",
+        "address": "0x72d6066F486bd0052eefB9114B66ae40e0A6031a",
+        "symbol": "WRX",
+        "decimals": 8,
+        "chainId": 137,
+        "logoURI": "https://etherscan.io/token/images/binance-wrx_32.png"
+    },
+    {
         "name": "QuickSwap Token",
         "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
         "symbol": "QUICK",
@@ -318,6 +326,14 @@
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://adamant.finance/img/adamant.png"
+    },
+    {
+        "name": "QuickChart",
+        "address": "0x0Af77B096cbDF53B5c39c2fcff8F14C5E3a36356",
+        "symbol": "QuickChart",
+        "decimals": 9,
+        "chainId": 137,
+        "logoURI": "https://i.imgur.com/jv5A0eX.png"
     },
     {
         "name": "Ethernity Chain",
@@ -712,6 +728,14 @@
         "logoURI": "https://pbs.twimg.com/profile_images/1428328610444742660/4fa6uMzp_400x400.jpg"
     },
     {
+        "name": "PERA",
+        "address": "0xe95fD76CF16008c12FF3b3a937CB16Cd9Cc20284",
+        "symbol": "PERA",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/16185/small/Pera.jpg?1623238387"
+    },
+    {
         "name": "Snook",
         "address": "0x689f8e5913C158fFB5Ac5aeb83b3C875F5d20309",
         "symbol": "SNK",
@@ -742,6 +766,14 @@
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://assets.coingecko.com/coins/images/3164/small/mitx.png?1604888269"
+    },
+    {
+        "name": "Zerogoki Token",
+        "address": "0xB9f9e37c2CdbaFF928C3Da730b02F06fE09aE70E",
+        "symbol": "REI",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/17015/small/iconZerogoki.png?1626618921"
     },
     {
         "name": "Phoenix Token",
@@ -958,6 +990,14 @@
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://assets.coingecko.com/coins/images/11939/small/shiba.png?1622619446"
+    },
+    {
+        "name": "DeSpace Protocol",
+        "address": "0xa062fc09cA6bdeb2f6E3b77E1d4e09C42C964742",
+        "symbol": "DES",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://i.imgur.com/rb4P2E3.jpg"
     },
     {
         "name": "StrongNodeEdge Token",
@@ -1680,6 +1720,14 @@
         "logoURI": "https://assets.coingecko.com/coins/images/20927/small/IXT_SYMBOL_SVG_RGB_BLACK.png?1637934555"
     },
     {
+        "name": "PENT",
+        "address": "0x283366bb42ef49a994913BAF22263c6562e588a4",
+        "symbol": "PENT",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/23493/small/small-logo.png?1644221697"
+    },
+    {
         "name": "Banana",
         "address": "0xbC91347e80886453F3f8bBd6d7aC07C122D87735",
         "symbol": "BANANA",
@@ -1734,6 +1782,14 @@
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://assets.coingecko.com/coins/images/24185/small/stMATIC.png?1646789287"
+    },
+    {
+        "name": "Sprocket",
+        "address": "0x0D98EAe620491d8f6836a39Ac45E54b286FDd2d7",
+        "symbol": "SPROCKET",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://i.ibb.co/6th7s4m/sprocket-symbol-200x200-col-trans.png"
     },
     {
         "name": "NEAR",
@@ -2088,14 +2144,6 @@
         "logoURI": "https://i.imgur.com/q3SnElh.png"
     },
     {
-        "chainId": 137,
-        "address": "0x4fdCE518fE527439Fe76883e6b51A1c522B61b7C",
-        "name": "Coreto",
-        "symbol": "COR",
-        "decimals": 18,
-        "logoURI": "https://etherscan.io/token/images/cortoken_32.png?v=124124521"
-    },
-    {
         "name": "Cryptocurrency Top Tokens Index",
         "address": "0x9c49BA0212Bb5Db371e66b59D1565b7c06E4894e",
         "symbol": "CC10",
@@ -2134,6 +2182,14 @@
         "symbol": "DFYN",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/dfyn/assets/main/DFYN_logo.png"
+    },
+    {
+        "name": "Dark Matter Token",
+        "address": "0xd28449BB9bB659725aCcAd52947677ccE3719fD7",
+        "symbol": "DMT",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://darkmatter.finance/i/favicon/512x512.png"
     },
     {
         "name": "Dark.Build",
@@ -2184,12 +2240,36 @@
         "logoURI": "https://avatars.githubusercontent.com/u/56005256?s=200&v=4"
     },
     {
+        "chainId": 137,
+        "address": "0xa3eD22EEE92a3872709823a6970069e12A4540Eb",
+        "name": "Frontier",
+        "symbol": "FRONT",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12479/large/frontier_logo.png?1600145472"
+    },
+    {
+        "name": "Fusion",
+        "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
+        "symbol": "FSN",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://cryptologos.cc/logos/fusion-fsn-logo.png?v=010"
+    },
+    {
         "name": "Gains V2",
         "address": "0x7075cAB6bCCA06613e2d071bd918D1a0241379E2",
         "symbol": "GFARM2",
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://gains.farm/images/logo256.png"
+    },
+    {
+        "chainId": 137,
+        "address": "0xbE5cf150E1fF59ca7F2499Eaa13BFC40AAE70e78",
+        "name": "Glitch",
+        "symbol": "GLCH",
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/glitch_32.png"
     },
     {
         "name": "Holyheld",
@@ -2304,14 +2384,6 @@
         "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/NFTP.png"
     },
     {
-        "address": "0xf5c39a7CEff5dA5BFB062389f62939A8C8396CB3",
-        "chainId": 137,
-        "name": "NFThub",
-        "symbol": "gNFT",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0xf5c39a7CEff5dA5BFB062389f62939A8C8396CB3.png"
-    },
-    {
         "chainId": 137,
         "address": "0xF6F85b3f9fd581C2eE717c404F7684486F057F95",
         "name": "NORD",
@@ -2336,12 +2408,12 @@
         "logoURI": "https://assets.coingecko.com/coins/images/13751/small/autofarm_icon_200x200.png?1611494288"
     },
     {
+        "name": "Pepedex",
+        "address": "0x127984b5E6d5c59f81DACc9F1C8b3Bdc8494572e",
+        "symbol": "PPDEX",
+        "decimals": 18,
         "chainId": 137,
-        "address": "0xB1CB4aC6b1685DcbE691b9246406748805aa6FA8",
-        "name": "PolySafe",
-        "symbol": "POLYSAFE",
-        "decimals": 9,
-        "logoURI": "https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/polysafe_32.png"
+        "logoURI": "https://etherscan.io/token/images/pepedex_32.png?v=2"
     },
     {
         "name": "Polywolf",
@@ -2368,6 +2440,14 @@
         "logoURI": "https://etherscan.io/token/images/razornetwork_32.png"
     },
     {
+        "name": "Rebalance Token",
+        "address": "0x03247a4368A280bEc8133300cD930A3a61d604f6",
+        "symbol": "RBAL",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0x03247a4368A280bEc8133300cD930A3a61d604f6.png"
+    },
+    {
         "name": "Route",
         "address": "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
         "symbol": "Route",
@@ -2390,6 +2470,14 @@
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/sx.jpg"
+    },
+    {
+        "name": "Standard",
+        "address": "0xf153EfF70DC0bf3b085134928daeEA248d9B30d0",
+        "symbol": "xMARK",
+        "decimals": 9,
+        "chainId": 137,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/8cb78aca77b340510958ed98a3cd260d2d7f0420/blockchains/ethereum/assets/0x36b679bd64Ed73DBfd88909cDCB892cB66Bd4CBb/logo.png"
     },
     {
         "chainId": 137,
@@ -2454,6 +2542,14 @@
         "symbol": "ZEE",
         "decimals": 18,
         "logoURI": "https://bscscan.com/token/images/zeroswapprotocol_32.png"
+    },
+    {
+        "name": "ZeroUtility",
+        "address": "0xe86E8beb7340659DDDCE61727E500e3A5aD75a90",
+        "symbol": "ZUT",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://s2.gifyu.com/images/zutlogo.jpg"
     },
     {
         "name": "Zeus",

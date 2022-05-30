@@ -312,14 +312,6 @@
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cStar.png"
   },
   {
-    "address": "0x47264aE1Fc0c8e6418ebe78630718E11a07346A8",
-    "name": "Allbridge SBR",
-    "symbol": "SBR",
-    "chainId": 42220,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SBR.png"
-  },
-  {
     "address": "0x6e512BFC33be36F2666754E996ff103AD1680Cc9",
     "name": "Allbridge",
     "symbol": "ABR",
@@ -523,14 +515,6 @@
     "address": "0xC7144Fa865c9f3a6836167A51531A2CC8b0ab5fD",
     "name": "CeloDex.org",
     "symbol": "CLX",
-    "chainId": 42220,
-    "decimals": 18,
-    "logoURI": ""
-  },
-  {
-    "address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
-    "name": "Avalanche",
-    "symbol": "AVAX",
     "chainId": 42220,
     "decimals": 18,
     "logoURI": ""

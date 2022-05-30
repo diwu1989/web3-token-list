@@ -1,115 +1,11 @@
 [
     {
-        "name": "Wrapped XDAI",
-        "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
-        "symbol": "WXDAI",
+        "address": "0x8c88eA1fD60462Ef7004B9e288afCB4680a3c50c",
+        "chainId": 100,
         "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0xe91d153e0b41518a2ce8dd3d7944fa863463a97d/logo.png"
-    },
-    {
-        "name": "Aave Token on xDai",
-        "address": "0xDF613aF6B44a31299E48131e9347F034347E2F00",
-        "symbol": "AAVE",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo.png"
-    },
-    {
-        "name": "BaoToken on xDai",
-        "address": "0x82dFe19164729949fD66Da1a37BC70dD6c4746ce",
-        "symbol": "BAO",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/13547/small/BAO.png"
-    },
-    {
-        "name": "Curve Finance",
-        "address": "0x712b3d230F3C1c19db860d80619288b1F0BDd0Bd",
-        "symbol": "CRV",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/12124/small/Curve.png"
-    },
-    {
-        "name": "DeFiPulse Index",
-        "address": "0xD3D47d5578e55C880505dC40648F7F9307C3e7A8",
-        "symbol": "DPI",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/12465/small/defi_pulse_index_set.png"
-    },
-    {
-        "name": "ChainLink Token on xDai",
-        "address": "0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2",
-        "symbol": "LINK",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
-    },
-    {
-        "name": "Stake Token on xDai",
-        "address": "0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e",
-        "symbol": "STAKE",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0Ae055097C6d159879521C384F1D2123D1f195e6/logo.png"
-    },
-    {
-        "name": "SushiToken on xDai",
-        "address": "0x2995D1317DcD4f0aB89f4AE60F3f020A4F17C7CE",
-        "symbol": "SUSHI",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://etherscan.io/token/images/sushiswap_32.png"
-    },
-    {
-        "name": "USDC on xDai",
-        "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
-        "symbol": "USDC",
-        "decimals": 6,
-        "chainId": 100,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
-    },
-    {
-        "name": "Tether on xDai",
-        "address": "0x4ECaBa5870353805a9F068101A40E0f32ed605C6",
-        "symbol": "USDT",
-        "decimals": 6,
-        "chainId": 100,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
-    },
-    {
-        "name": "Wrapped BTC on xDai",
-        "address": "0x8e5bBbb09Ed1ebdE8674Cda39A0c169401db4252",
-        "symbol": "WBTC",
-        "decimals": 8,
-        "chainId": 100,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
-    },
-    {
-        "name": "Wrapped Ether on xDai",
-        "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
-        "symbol": "WETH",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-    },
-    {
-        "name": "xMOON on xDai",
-        "address": "0x1e16aa4Df73d29C029d94CeDa3e3114EC191E25A",
-        "symbol": "XMOON",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/xdai/assets/0x1e16aa4Df73d29C029d94CeDa3e3114EC191E25A/logo.png"
-    },
-    {
-        "name": "Gnosis on xDai",
-        "address": "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb",
-        "symbol": "GNO",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x8c88eA1fD60462Ef7004B9e288afCB4680a3c50c/logo.png",
+        "name": "0xMonero from Ethereum",
+        "symbol": "0xMR"
     },
     {
         "name": "1inch on xDAI",
@@ -120,12 +16,12 @@
         "logoURI": "https://assets.coingecko.com/coins/images/13469/small/1inch-token.png"
     },
     {
-        "name": "Akropolis on xDai",
-        "address": "0xD27E1ECC4748F42e052331BeA917D89bEB883fc3",
-        "symbol": "AKRO",
+        "name": "Aave Token on xDai",
+        "address": "0xDF613aF6B44a31299E48131e9347F034347E2F00",
+        "symbol": "AAVE",
         "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://etherscan.io/token/images/Akropolis_32.png"
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo.png"
     },
     {
         "name": "Agave",
@@ -136,12 +32,28 @@
         "logoURI": "https://assets.coingecko.com/coins/images/14146/small/agve.png"
     },
     {
-        "name": "Aragon Network Token on xDai",
-        "address": "0x437a044fb4693890E61D2C1c88E3718E928B8E90",
-        "symbol": "ANTv1",
+        "name": "Akropolis on xDai",
+        "address": "0xD27E1ECC4748F42e052331BeA917D89bEB883fc3",
+        "symbol": "AKRO",
         "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x960b236A07cf122663c4303350609A66A7B288C0/logo.png"
+        "logoURI": "https://etherscan.io/token/images/Akropolis_32.png"
+    },
+    {
+        "address": "0xfb23CfD35046466FdBA7f73dC2FcCb5b17ABf1Aa",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xfb23CfD35046466FdBA7f73dC2FcCb5b17ABf1Aa/logo.png",
+        "name": "AlbCoin from Ethereum",
+        "symbol": "ALBC"
+    },
+    {
+        "address": "0xD51e1ddD116fFF9A71C1B8FEEb58113aFa2B4d93",
+        "chainId": 100,
+        "decimals": 9,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xD51e1ddD116fFF9A71C1B8FEEb58113aFa2B4d93/logo.png",
+        "name": "AMIS on xDai",
+        "symbol": "AMIS"
     },
     {
         "name": "Audius",
@@ -176,6 +88,14 @@
         "logoURI": "https://etherscan.io/token/images/Balancer_32.png"
     },
     {
+        "name": "BaoToken on xDai",
+        "address": "0x82dFe19164729949fD66Da1a37BC70dD6c4746ce",
+        "symbol": "BAO",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/13547/small/BAO.png"
+    },
+    {
         "name": "BaoToken Coupon",
         "address": "0xe0d0b1DBbCF3dd5CAc67edaf9243863Fd70745DA",
         "symbol": "BAOcx",
@@ -200,20 +120,84 @@
         "logoURI": "https://etherscan.io/token/images/bat.png"
     },
     {
-        "name": "Bancor Network Token on xDai",
-        "address": "0x9a495a281D959192343B0e007284bf130bd05F86",
-        "symbol": "BNT",
-        "decimals": 18,
+        "address": "0xFc8B2690F66B46fEC8B3ceeb95fF4Ac35a0054BC",
         "chainId": 100,
-        "logoURI": "https://etherscan.io/token/images/bancor_32.png"
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xFc8B2690F66B46fEC8B3ceeb95fF4Ac35a0054BC/logo.png",
+        "name": "Dai Token from BSC",
+        "symbol": "bDAI"
     },
     {
-        "name": "Celsius on xDai",
-        "address": "0x0aCD91f92Fe07606ab51EA97d8521E29D110fD09",
-        "symbol": "CEL",
-        "decimals": 4,
+        "address": "0x2977893F4C04bfbd6EFc68d0e46598d27810d3dB",
         "chainId": 100,
-        "logoURI": "https://etherscan.io/token/images/celsiustoken1_28.png"
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x2977893F4C04bfbd6EFc68d0e46598d27810d3dB/logo.png",
+        "name": "Bidao on xDai",
+        "symbol": "BID"
+    },
+    {
+        "address": "0x83FF60E2f93F8eDD0637Ef669C69D5Fb4f64cA8E",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x83FF60E2f93F8eDD0637Ef669C69D5Fb4f64cA8E/logo.png",
+        "name": "Bright",
+        "symbol": "BRIGHT"
+    },
+    {
+        "address": "0xdd96B45877d0E8361a4DDb732da741e97f3191Ff",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xdd96B45877d0E8361a4DDb732da741e97f3191Ff/logo.png",
+        "name": "BUSD Token from BSC",
+        "symbol": "BUSD"
+    },
+    {
+        "address": "0xD10Cc63531a514BBa7789682E487Add1f15A51E2",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xD10Cc63531a514BBa7789682E487Add1f15A51E2/logo.png",
+        "name": "USD Coin on xDai binance-peg",
+        "symbol": "BUSDC"
+    },
+    {
+        "address": "0xdBF3Ea6F5beE45c02255B2c26a16F300502F68da",
+        "chainId": 100,
+        "decimals": 16,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xdBF3Ea6F5beE45c02255B2c26a16F300502F68da/logo.png",
+        "name": "BZZ from Ethereum",
+        "symbol": "BZZ"
+    },
+    {
+        "address": "0x64b17a95e6C45306FB23Bc526eB2dc9E1331a1b1",
+        "chainId": 100,
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x64b17a95e6C45306FB23Bc526eB2dc9E1331a1b1/logo.png",
+        "name": "CFX Quantum from Ethereum",
+        "symbol": "CFXQ"
+    },
+    {
+        "address": "0xEaF7B3376173DF8BC0C22Ad6126943cC8353C1Ee",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xEaF7B3376173DF8BC0C22Ad6126943cC8353C1Ee/logo.png",
+        "name": "Cheemscoin",
+        "symbol": "CHEEMS"
+    },
+    {
+        "name": "Colony Network Token from Ethereum",
+        "address": "0xc9B6218AffE8Aba68a13899Cbf7cF7f14DDd304C",
+        "symbol": "CLNY",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/JoinColony/brand/main/clny_200x200.png"
+    },
+    {
+        "address": "0xdbcadE285846131a5e7384685EADDBDFD9625557",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xdbcadE285846131a5e7384685EADDBDFD9625557/logo.png",
+        "name": "COLD TRUTH CASH",
+        "symbol": "COLD"
     },
     {
         "name": "Compound",
@@ -224,12 +208,20 @@
         "logoURI": "https://assets.coingecko.com/coins/images/10775/small/COMP.png"
     },
     {
-        "name": "Cream on xDai",
-        "address": "0x1939D3431CF0E44B1d63b86e2cE489E5a341B1Bf",
-        "symbol": "CREAM",
+        "name": "CoW Protocol Token from Mainnet",
+        "address": "0x177127622c4A00F3d409B75571e12cB3c8973d3c",
+        "symbol": "COW",
         "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://etherscan.io/token/images/CreamFinance_32.png"
+        "logoURI": "https://assets.coingecko.com/coins/images/24384/small/COW-token-1024x1024.png"
+    },
+    {
+        "name": "Curve Finance",
+        "address": "0x712b3d230F3C1c19db860d80619288b1F0BDd0Bd",
+        "symbol": "CRV",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/12124/small/Curve.png"
     },
     {
         "name": "Dai Stablecoin on xDai",
@@ -240,12 +232,44 @@
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
     },
     {
+        "name": "DeHive",
+        "address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
+        "symbol": "DHV",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://dehive.finance/logo_200x200.png"
+    },
+    {
+        "address": "0x48b1B0d077b4919b65b4E4114806dD803901E1D9",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x48b1B0d077b4919b65b4E4114806dD803901E1D9/logo.png",
+        "name": "Decentralized Insurance Protocol on xDai",
+        "symbol": "DIP"
+    },
+    {
         "name": "DONUT",
         "address": "0x524B969793a64a602342d89BC2789D43a016B13A",
         "symbol": "DONUT",
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://assets.coingecko.com/coins/images/7538/small/Donut.png"
+    },
+    {
+        "name": "DeFiPulse Index",
+        "address": "0xD3D47d5578e55C880505dC40648F7F9307C3e7A8",
+        "symbol": "DPI",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/12465/small/defi_pulse_index_set.png"
+    },
+    {
+        "address": "0xb90D6bec20993Be5d72A5ab353343f7a0281f158",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xb90D6bec20993Be5d72A5ab353343f7a0281f158/logo.png",
+        "name": "DXdao from Ethereum",
+        "symbol": "DXD"
     },
     {
         "name": "Enjin Coin on xDai",
@@ -256,12 +280,28 @@
         "logoURI": "https://etherscan.io/token/images/enjin_28_2.png"
     },
     {
-        "name": "Frontier Finance",
-        "address": "0x1bbca7491f14b46788Ff9c834d97a668C4886523",
-        "symbol": "FRONT",
-        "decimals": 18,
+        "address": "0x6A8cb6714B1EE5b471a7D2eC4302cb4f5Ff25eC2",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/12479/small/frontier_logo.png"
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x6A8cb6714B1EE5b471a7D2eC4302cb4f5Ff25eC2/logo.png",
+        "name": "Energy Web Token Bridged on xDai",
+        "symbol": "EWTB"
+    },
+    {
+        "address": "0x21a42669643f45Bc0e086b8Fc2ed70c23D67509d",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x21a42669643f45Bc0e086b8Fc2ed70c23D67509d/logo.png",
+        "name": "FOX",
+        "symbol": "FOX"
+    },
+    {
+        "address": "0x2bF2ba13735160624a0fEaE98f6aC8F70885eA61",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x2bF2ba13735160624a0fEaE98f6aC8F70885eA61/logo.png",
+        "name": "Own a fraction",
+        "symbol": "FRACTION"
     },
     {
         "name": "FTX Token",
@@ -272,6 +312,22 @@
         "logoURI": "https://assets.coingecko.com/coins/images/9026/small/F.png"
     },
     {
+        "address": "0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75/logo.png",
+        "name": "Giveth from Mainnet",
+        "symbol": "GIV"
+    },
+    {
+        "name": "Gnosis on xDai",
+        "address": "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb",
+        "symbol": "GNO",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png"
+    },
+    {
         "name": "Graph Token on xDai",
         "address": "0xFAdc59D012Ba3c110B08A15B7755A5cb7Cbe77D7",
         "symbol": "GRT",
@@ -280,12 +336,28 @@
         "logoURI": "https://etherscan.io/token/images/TheGraph_32.png"
     },
     {
-        "name": "Huobi BTC",
-        "address": "0xd87FCB23da48D4D9B70c6F39B46debb5d993Ad19",
-        "symbol": "HBTC",
-        "decimals": 18,
+        "address": "0xb0C5f3100A4d9d9532a4CfD68c55F1AE8da987Eb",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/12407/small/Unknown-5.png"
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xb0C5f3100A4d9d9532a4CfD68c55F1AE8da987Eb/logo.png",
+        "name": "Haus",
+        "symbol": "HAUS"
+    },
+    {
+        "address": "0xd9Fa47e33d4Ff7a1ACA489DE1865ac36c042B07a",
+        "chainId": 100,
+        "decimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xd9Fa47e33d4Ff7a1ACA489DE1865ac36c042B07a/logo.png",
+        "name": "HEX on xDai",
+        "symbol": "HEX"
+    },
+    {
+        "address": "0x97E4ebc14C117C1ac2D032a5A8140C84628b0d17",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x97E4ebc14C117C1ac2D032a5A8140C84628b0d17/logo.png",
+        "name": "HiveShares from Ethereum",
+        "symbol": "HIVESHARE"
     },
     {
         "name": "Honey",
@@ -296,12 +368,20 @@
         "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png"
     },
     {
-        "name": "Huobi USD",
-        "address": "0x1e37E5b504F7773460d6eB0e24D2e7C223B66EC7",
-        "symbol": "HUSD",
-        "decimals": 8,
+        "address": "0xD057604A14982FE8D88c5fC25Aac3267eA142a08",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/9567/small/HUSD.jpg"
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xD057604A14982FE8D88c5fC25Aac3267eA142a08/logo.png",
+        "name": "HOPR Token on xDai",
+        "symbol": "HOPR"
+    },
+    {
+        "address": "0x417602f4fbdd471A431Ae29fB5fe0A681964C11b",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x417602f4fbdd471A431Ae29fB5fe0A681964C11b/logo.png",
+        "name": "JPY Coin on xDai",
+        "symbol": "JPYC"
     },
     {
         "name": "Kyber Network Crystal on xDai",
@@ -310,6 +390,30 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://assets.coingecko.com/coins/images/947/small/kyber-logo.png"
+    },
+    {
+        "address": "0xc1b42BDb485dEb24C74f58399288d7915a726C1D",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xc1b42BDb485dEb24C74f58399288d7915a726C1D/logo.png",
+        "name": "EthLend Token on xDai",
+        "symbol": "LEND"
+    },
+    {
+        "name": "ChainLink Token on xDai",
+        "address": "0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2",
+        "symbol": "LINK",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+    },
+    {
+        "address": "0xcF9Dc2de2A67d7db1A7171e3b8456D2171E4da75",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xcF9Dc2de2A67d7db1A7171e3b8456D2171E4da75/logo.png",
+        "name": "Layer 2 Index on xDai",
+        "symbol": "LTI"
     },
     {
         "name": "Decentraland Mana",
@@ -328,12 +432,36 @@
         "logoURI": "https://etherscan.io/token/images/matictoken_28.png"
     },
     {
+        "address": "0xC577cDdABB7893cC2cA15eF4b5D5e5E13c3FeeD3",
+        "chainId": 100,
+        "decimals": 2,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xC577cDdABB7893cC2cA15eF4b5D5e5E13c3FeeD3/logo.png",
+        "name": "McDonaldsCoin on xDai",
+        "symbol": "MCDC"
+    },
+    {
+        "address": "0xbAb3cbDcBCc578445480a79ed80269C50bB5B718",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xbAb3cbDcBCc578445480a79ed80269C50bB5B718/logo.png",
+        "name": "MEDOOZA Ecosystem v2.0 from Ethereum",
+        "symbol": "MDZA"
+    },
+    {
         "name": "MEME on xDai",
         "address": "0x512a2Eb0277573ae9Be0d48c782590b624048fdF",
         "symbol": "MEME",
         "decimals": 8,
         "chainId": 100,
         "logoURI": "https://etherscan.io/token/images/meme_32.png"
+    },
+    {
+        "address": "0x63e62989D9EB2d37dfDB1F93A22f063635b07d51",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x63e62989D9EB2d37dfDB1F93A22f063635b07d51/logo.png",
+        "name": "Minerva Wallet SuperToken",
+        "symbol": "MIVA"
     },
     {
         "name": "Maker on xDai",
@@ -344,12 +472,28 @@
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
     },
     {
-        "name": "Enzyme",
-        "address": "0xf0dd817FF483535f4059781441596AEa4F32a4B9",
-        "symbol": "MLN",
-        "decimals": 18,
+        "address": "0xcC043D8820a6dc3E74EF6fb4772faE00c1563489",
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/605/small/Enzyme_Icon_Secondary.png"
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xcC043D8820a6dc3E74EF6fb4772faE00c1563489/logo.png",
+        "name": "MORPHINE",
+        "symbol": "MRP"
+    },
+    {
+        "address": "0x1A186E7268F3Ed5AdFEa6B9e0655f70059941E11",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x1A186E7268F3Ed5AdFEa6B9e0655f70059941E11/logo.png",
+        "name": "Unifty on xDai",
+        "symbol": "NIF"
+    },
+    {
+        "address": "0xc60e38C6352875c051B481Cbe79Dd0383AdB7817",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xc60e38C6352875c051B481Cbe79Dd0383AdB7817/logo.png",
+        "name": "DAppNode DAO Token from Ethereum",
+        "symbol": "NODE"
     },
     {
         "name": "Ocean Token on xDai",
@@ -360,20 +504,36 @@
         "logoURI": "https://etherscan.io/token/images/oceantoken_28.png"
     },
     {
-        "name": "Meta USD",
-        "address": "0x7300AaFC0Ef0d47Daeb850f8b6a1931b40aCab33",
-        "symbol": "mUSD",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/11576/small/mStable_USD.png"
-    },
-    {
         "name": "OmiseGo on xDai",
         "address": "0x8395F7123ba3FFAD52E7414433D825931C81C879",
         "symbol": "OMG",
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://1inch.exchange/assets/tokens/0xd26114cd6ee289accf82350c8d8487fedb8a0c07.png"
+    },
+    {
+        "address": "0x0905Ab807F8FD040255F0cF8fa14756c1D824931",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x0905Ab807F8FD040255F0cF8fa14756c1D824931/logo.png",
+        "name": "OWL on xDai",
+        "symbol": "OWL"
+    },
+    {
+        "address": "0x981fB9BA94078a2275A8fc906898ea107B9462A8",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x981fB9BA94078a2275A8fc906898ea107B9462A8/logo.png",
+        "name": "Panvala pan on xDai",
+        "symbol": "PAN"
+    },
+    {
+        "name": "SHE Sweatpants",
+        "address": "0x0DAe13FAe64180D3CadCAD22329a4abcaEF15cA6",
+        "symbol": "PANTS",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/unisocks/master/src/components/Gallery/pantsToken.png"
     },
     {
         "name": "Perpetual Finance",
@@ -384,20 +544,36 @@
         "logoURI": "https://assets.coingecko.com/coins/images/12381/small/perpetual_protocol_logo.jpg"
     },
     {
-        "name": "POA20 on xDai",
-        "address": "0x985e144EB355273c4B4D51E448B68b657F482E26",
-        "symbol": "POA20",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://1inch.exchange/assets/tokens/0x6758b7d441a9739b98552b373703d8d3d14f9e62.png"
-    },
-    {
         "name": "Particle",
         "address": "0xB5d592f85ab2D955c25720EbE6FF8D4d1E1Be300",
         "symbol": "PRTCLE",
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/wiki/master/images/Particle.png"
+    },
+    {
+        "address": "0x988d1Be68F2C5cDE2516a2287c59Bd6302b7D20D",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x988d1Be68F2C5cDE2516a2287c59Bd6302b7D20D/logo.png",
+        "name": "xDai Punks",
+        "symbol": "PUNK"
+    },
+    {
+        "name": "Raid Guild Token from Ethereum",
+        "address": "0x18E9262e68Cc6c6004dB93105cc7c001BB103e49",
+        "symbol": "RAID",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x18e9262e68cc6c6004db93105cc7c001bb103e49/logo.png"
+    },
+    {
+        "address": "0x57e93BB58268dE818B42E3795c97BAD58aFCD3Fe",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x57e93BB58268dE818B42E3795c97BAD58aFCD3Fe/logo.png",
+        "name": "Rare Coin v2",
+        "symbol": "RAREV2"
     },
     {
         "name": "Republic Token on xDai",
@@ -416,12 +592,52 @@
         "logoURI": "https://etherscan.io/token/images/renbtc_32.png"
     },
     {
+        "name": "StakeWise Reward GNO",
+        "address": "0x6aC78efae880282396a335CA2F79863A1e6831D4",
+        "symbol": "rGNO",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://app.stakewise.io/static/images/currencies/rgno.png"
+    },
+    {
+        "name": "DAOSquare Governance Token from Ethereum",
+        "address": "0x97Edc0e345FbBBd8460847Fcfa3bc2a13bF8641F",
+        "symbol": "RICE",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://daodkp.oss-ap-southeast-1.aliyuncs.com/assets/logo-sm.png"
+    },
+    {
+        "address": "0x8D02b73904856De6998Ffdf6e7ee18cC21137a79",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x8D02b73904856De6998Ffdf6e7ee18cC21137a79/logo.png",
+        "name": "MetaFactory on xDai",
+        "symbol": "ROBOT"
+    },
+    {
         "name": "Reserve Rights on xDai",
         "address": "0x5A87eaC5642BfEd4e354Ee8738DACd298E07D1Af",
         "symbol": "RSR",
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://etherscan.io/token/images/reserverights_32.png"
+    },
+    {
+        "address": "0x5C8C83e5D5F7BE815863B810D45D7Bc706D7b15b",
+        "chainId": 100,
+        "decimals": 9,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x5C8C83e5D5F7BE815863B810D45D7Bc706D7b15b/logo.png",
+        "name": "rSURF",
+        "symbol": "rSURF"
+    },
+    {
+        "address": "0x6B0f8A3Fb7cb257AD7c72ADa469Ba1D3C19C5094",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x6B0f8A3Fb7cb257AD7c72ADa469Ba1D3C19C5094/logo.png",
+        "name": "xdai dao",
+        "symbol": "RXDAI"
     },
     {
         "name": "Synth sETH on xDai",
@@ -432,6 +648,14 @@
         "logoURI": "https://etherscan.io/token/images/SynthetixsETH_32.png"
     },
     {
+        "address": "0x27B9C2Bd4BaEa18ABdF49169054c1C1c12af9862",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x27B9C2Bd4BaEa18ABdF49169054c1C1c12af9862/logo.png",
+        "name": "SNAFU",
+        "symbol": "SNAFU"
+    },
+    {
         "name": "Synthetix Network Token on xDai",
         "address": "0x3A00E08544d589E19a8e7D97D0294331341cdBF6",
         "symbol": "SNX",
@@ -440,12 +664,28 @@
         "logoURI": "https://assets.coingecko.com/coins/images/3406/small/SNX.png"
     },
     {
-        "name": "Project Serum",
-        "address": "0x3AE8c08cD61d05ad6e22973E4b675A92D412EE3C",
-        "symbol": "SRM",
-        "decimals": 6,
+        "name": "Stake Token on xDai",
+        "address": "0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e",
+        "symbol": "STAKE",
+        "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/11970/small/serum-logo.png"
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0Ae055097C6d159879521C384F1D2123D1f195e6/logo.png"
+    },
+    {
+        "name": "SushiToken on xDai",
+        "address": "0x2995D1317DcD4f0aB89f4AE60F3f020A4F17C7CE",
+        "symbol": "SUSHI",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/sushiswap_32.png"
+    },
+    {
+        "address": "0xC45b3C1c24d5F54E7a2cF288ac668c74Dd507a84",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xC45b3C1c24d5F54E7a2cF288ac668c74Dd507a84/logo.png",
+        "name": "Symmetric",
+        "symbol": "SYMM"
     },
     {
         "name": "tBTC on xDai",
@@ -456,6 +696,38 @@
         "logoURI": "https://etherscan.io/token/images/tbtc_32.png"
     },
     {
+        "name": "Token Engineering Commons",
+        "address": "0x5dF8339c5E282ee48c0c7cE8A7d01a73D38B3B27",
+        "symbol": "TEC",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/CommonsBuild/tec-branding-assets/main/Logo/Icon/TEC%20Icon%20Color.png"
+    },
+    {
+        "address": "0x479e32cDFF5F216f93060700C711D1cC8E811a6B",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x479e32cDFF5F216f93060700C711D1cC8E811a6B/logo.png",
+        "name": "Trips on xDai",
+        "symbol": "TRIPS"
+    },
+    {
+        "address": "0x703120F2f2011a0D03A03a531Ac0e84e81F15989",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x703120F2f2011a0D03A03a531Ac0e84e81F15989/logo.png",
+        "name": "UNCL on xDai",
+        "symbol": "UNCL"
+    },
+    {
+        "address": "0x0116e28B43A358162B96f70B4De14C98A4465f25",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x0116e28B43A358162B96f70B4De14C98A4465f25/logo.png",
+        "name": "UniCrypt on xDai",
+        "symbol": "UNCX"
+    },
+    {
         "name": "Uniswap on xDai",
         "address": "0x4537e328Bf7e4eFA29D05CAeA260D7fE26af9D74",
         "symbol": "UNI",
@@ -464,12 +736,116 @@
         "logoURI": "https://cloudflare-ipfs.com/ipfs/QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg/"
     },
     {
+        "name": "USDC on xDai",
+        "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
+        "symbol": "USDC",
+        "decimals": 6,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+        "name": "Tether on xDai",
+        "address": "0x4ECaBa5870353805a9F068101A40E0f32ed605C6",
+        "symbol": "USDT",
+        "decimals": 6,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+        "name": "VitaDAO from Mainnet",
+        "address": "0x0939a7c3f8D37C1ce67fAda4963aE7E0bd112ff3",
+        "symbol": "VITA",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/VitaDAO/assets/master/vitadao-icon.png"
+    },
+    {
+        "name": "Water Token",
+        "address": "0x4291F029B9e7acb02D49428458cf6fceAC545f81",
+        "symbol": "WATER",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x4291F029B9e7acb02D49428458cf6fceAC545f81/logo.png"
+    },
+    {
+        "address": "0xCa8d20f3e0144a72C6B5d576e9Bd3Fd8557E2B04",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xCa8d20f3e0144a72C6B5d576e9Bd3Fd8557E2B04/logo.png",
+        "name": "Wrapped BNB from BSC",
+        "symbol": "WBNB"
+    },
+    {
+        "name": "Wrapped BTC on xDai",
+        "address": "0x8e5bBbb09Ed1ebdE8674Cda39A0c169401db4252",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },
+    {
+        "address": "0x7211ab649A4139561a152B787de52D257cbAAee9",
+        "chainId": 100,
+        "decimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x7211ab649A4139561a152B787de52D257cbAAee9/logo.png",
+        "name": "Wrapped CHI from Ethereum",
+        "symbol": "WCHI"
+    },
+    {
+        "name": "Wrapped Ether on xDai",
+        "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
+        "symbol": "WETH",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+        "name": "Wrapped XDAI",
+        "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+        "symbol": "WXDAI",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0xe91d153e0b41518a2ce8dd3d7944fa863463a97d/logo.png"
+    },
+    {
         "name": "Bricks on xDai",
         "address": "0x2f9ceBf5De3bc25E0643D0E66134E5bf5c48e191",
         "symbol": "xBRICK",
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://assets.coingecko.com/coins/images/11223/small/Brick.png"
+    },
+    {
+        "address": "0x38Fb649Ad3d6BA1113Be5F57B927053E97fC5bF7",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x38Fb649Ad3d6BA1113Be5F57B927053E97fC5bF7/logo.png",
+        "name": "xDai Native Comb",
+        "symbol": "XCOMB"
+    },
+    {
+        "address": "0xf1738912ae7439475712520797583ac784ea9033",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xf1738912ae7439475712520797583ac784ea9033/logo.png",
+        "name": "XionGlobal Token",
+        "symbol": "XGT"
+    },
+    {
+        "address": "0xC25AF3123d2420054c8fcd144c21113aa2853F39",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xC25AF3123d2420054c8fcd144c21113aa2853F39/logo.png",
+        "name": "Xion Global Token",
+        "symbol": "XGTV2"
+    },
+    {
+        "name": "xMOON on xDai",
+        "address": "0x1e16aa4Df73d29C029d94CeDa3e3114EC191E25A",
+        "symbol": "XMOON",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/xdai/assets/0x1e16aa4Df73d29C029d94CeDa3e3114EC191E25A/logo.png"
     },
     {
         "name": "XY Oracle on xDai",
@@ -504,38 +880,6 @@
         "logoURI": "https://etherscan.io/token/images/zrx_28.png?v=3"
     },
     {
-        "address": "0x1698cD22278ef6E7c0DF45a8dEA72EDbeA9E42aa",
-        "name": "LevinToken",
-        "symbol": "LEVIN",
-        "chainId": 100,
-        "decimals": 18,
-        "logoURI": ""
-    },
-    {
-        "name": "VitaDAO from Mainnet",
-        "address": "0x0939a7c3f8D37C1ce67fAda4963aE7E0bd112ff3",
-        "symbol": "VITA",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://raw.githubusercontent.com/VitaDAO/assets/master/vitadao-icon.png"
-    },
-    {
-        "name": "Water Token",
-        "address": "0x4291F029B9e7acb02D49428458cf6fceAC545f81",
-        "symbol": "WATER",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x4291F029B9e7acb02D49428458cf6fceAC545f81/logo.png"
-    },
-    {
-        "address": "0x0116e28B43A358162B96f70B4De14C98A4465f25",
-        "chainId": 100,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x0116e28B43A358162B96f70B4De14C98A4465f25/logo.png",
-        "name": "UniCrypt on xDai",
-        "symbol": "UNCX"
-    },
-    {
         "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
         "chainId": 100,
         "decimals": 18,
@@ -552,35 +896,51 @@
         "symbol": "oELK"
     },
     {
-        "address": "0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75",
+        "address": "0xD3226B12e6188133b19Ac0419f34B0ed5B10f069",
         "chainId": 100,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75/logo.png",
-        "name": "Giveth from Mainnet",
-        "symbol": "GIV"
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xD3226B12e6188133b19Ac0419f34B0ed5B10f069/logo.png",
+        "name": "EsportsRef",
+        "symbol": "ESR"
     },
     {
-        "address": "0x21a42669643f45Bc0e086b8Fc2ed70c23D67509d",
-        "chainId": 100,
+        "name": "Frontier Finance",
+        "address": "0x1bbca7491f14b46788Ff9c834d97a668C4886523",
+        "symbol": "FRONT",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x21a42669643f45Bc0e086b8Fc2ed70c23D67509d/logo.png",
-        "name": "FOX",
-        "symbol": "FOX"
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/12479/small/frontier_logo.png"
     },
     {
-        "name": "Wrapped BNB from BSC",
-        "address": "0xCa8d20f3e0144a72C6B5d576e9Bd3Fd8557E2B04",
-        "symbol": "WBNB",
+        "name": "Huobi BTC",
+        "address": "0xd87FCB23da48D4D9B70c6F39B46debb5d993Ad19",
+        "symbol": "HBTC",
         "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://bscscan.com/token/images/binance_32.png"
+        "logoURI": "https://assets.coingecko.com/coins/images/12407/small/Unknown-5.png"
     },
     {
-        "name": "BUSD Token from BSC",
-        "address": "0xdd96B45877d0E8361a4DDb732da741e97f3191Ff",
-        "symbol": "BUSD",
+        "name": "Enzyme",
+        "address": "0xf0dd817FF483535f4059781441596AEa4F32a4B9",
+        "symbol": "MLN",
         "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://bscscan.com/token/images/busd_32.png"
+        "logoURI": "https://assets.coingecko.com/coins/images/605/small/Enzyme_Icon_Secondary.png"
+    },
+    {
+        "name": "Project Serum",
+        "address": "0x3AE8c08cD61d05ad6e22973E4b675A92D412EE3C",
+        "symbol": "SRM",
+        "decimals": 6,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/11970/small/serum-logo.png"
+    },
+    {
+        "address": "0x1698cD22278ef6E7c0DF45a8dEA72EDbeA9E42aa",
+        "name": "LevinToken",
+        "symbol": "LEVIN",
+        "chainId": 100,
+        "decimals": 18,
+        "logoURI": ""
     }
 ]

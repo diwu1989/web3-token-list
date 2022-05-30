@@ -104,6 +104,14 @@
     "symbol": "UNI"
   },
   {
+    "address": "0xc40F949F8a4e094D1b49a23ea9241D289B7b2819",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/LUSD.svg",
+    "name": "LUSD Stablecoin",
+    "symbol": "LUSD"
+  },
+  {
     "address": "0x7FB688CCf682d58f86D7e38e03f9D22e7705448B",
     "chainId": 10,
     "decimals": 18,
@@ -118,6 +126,14 @@
     "logoURI": "https://ethereum-optimism.github.io/logos/rETH.png",
     "name": "Rocket Pool ETH",
     "symbol": "rETH"
+  },
+  {
+    "address": "0x00F932F0FE257456b32dedA4758922E56A4F4b42",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/PAPER.svg",
+    "name": "Paper",
+    "symbol": "PAPER"
   },
   {
     "address": "0x5029C236320b8f15eF0a657054B84d90bfBEDED3",
@@ -176,6 +192,14 @@
     "symbol": "CRV"
   },
   {
+    "address": "0xcfD1D50ce23C46D3Cf6407487B2F8934e96DC8f9",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/spank.png",
+    "name": "SPANK",
+    "symbol": "SPANK"
+  },
+  {
     "address": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
     "chainId": 10,
     "decimals": 18,
@@ -212,11 +236,57 @@
   },
   {
     "chainId": 10,
+    "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
+    "name": "Balancer",
+    "symbol": "BAL",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/BAL.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0x1EBA7a6a72c894026Cd654AC5CDCF83A46445B08",
+    "name": "Gitcoin",
+    "symbol": "GTC",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/GTC.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
+    "address": "0xb54fa166d4b88B0478f299D5854aD9B94b3fefF3",
+    "name": "Arbinyan",
+    "symbol": "NYAN",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xeD3fB761414DA74b74F33e5c5a1f78104b188DfC/logo.png"
+  },
+  {
+    "chainId": 10,
     "address": "0xFA436399d0458Dbe8aB890c3441256E3E09022a8",
     "name": "Zip Token",
     "symbol": "ZIP",
     "decimals": 18,
     "logoURI": "https://gist.githubusercontent.com/NoNameFits/a53cb0c7b328440886cc89088bfb547a/raw/6edd2abb129fb5169c042d27f968c24470827275/favicon.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x78b1Bd624791eB8AFf5F0724Ac2c3539142108BF",
+    "name": "Zippy Inu",
+    "symbol": "ZINU",
+    "decimals": 18,
+    "logoURI": "https://zipswap.fi/data/logos/inu_icon.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x18172F6604136041F603270790A437342B9ba57F",
+    "name": "Kratos",
+    "symbol": "Kratos",
+    "decimals": 9,
+    "logoURI": "https://zipswap.fi/data/logos/kratos.webp"
   },
   {
     "chainId": 10,
