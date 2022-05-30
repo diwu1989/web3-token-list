@@ -734,5 +734,13 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/symmetricfinance_32.png"
+  },
+  {
+    "name": "Liquid staked Ether 2.0 from Ethereum",
+    "address": "0x3C037849a8ffcf19886e2f5B04f293B7847D0377",
+    "symbol": "stETH",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": ""
   }
 ]
