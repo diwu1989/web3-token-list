@@ -94,5 +94,13 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x4291F029B9e7acb02D49428458cf6fceAC545f81/logo.png"
+    },
+    {
+        "name": "Bright from Ethereum",
+        "address": "0x83FF60E2f93F8eDD0637Ef669C69D5Fb4f64cA8E",
+        "symbol": "BRIGHT",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/BrightDAO/logo.png"
     }
 ]

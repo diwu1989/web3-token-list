@@ -236,17 +236,6 @@
     },
     {
         "chainId": 10,
-        "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
-        "name": "Balancer",
-        "symbol": "BAL",
-        "decimals": 18,
-        "logoURI": "https://ethereum-optimism.github.io/logos/BAL.png",
-        "extensions": {
-            "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-        }
-    },
-    {
-        "chainId": 10,
         "address": "0x1EBA7a6a72c894026Cd654AC5CDCF83A46445B08",
         "name": "Gitcoin",
         "symbol": "GTC",

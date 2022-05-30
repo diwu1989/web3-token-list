@@ -29,7 +29,7 @@ const TOKEN_LIST = {
     ],
     // gnosis
     100: [
-        'https://unpkg.com/@1hive/default-token-list@latest/build/honeyswap-default.tokenlist.json',
+        // 'https://unpkg.com/@1hive/default-token-list@latest/build/honeyswap-default.tokenlist.json',
         // 'https://raw.githubusercontent.com/elkfinance/tokens/main/xdai.tokenlist.json',
         'https://raw.githubusercontent.com/sushiswap/default-token-list/master/tokens/xdai.json',
         'https://raw.githubusercontent.com/baofinance/tokenlists/main/xdai.json',
