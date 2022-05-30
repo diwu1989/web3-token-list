@@ -734,5 +734,21 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://etherscan.io/token/images/symmetricfinance_32.png"
+    },
+    {
+        "name": "Liquid staked Ether 2.0 from Ethereum",
+        "address": "0x3C037849a8ffcf19886e2f5B04f293B7847D0377",
+        "symbol": "stETH",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": ""
+    },
+    {
+        "name": "Rare Coin v2",
+        "address": "0x57e93BB58268dE818B42E3795c97BAD58aFCD3Fe",
+        "symbol": "RAREv2",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://affinityharmonics.s3.ca-central-1.amazonaws.com/Cloud/rare-logo.png"
     }
 ]
