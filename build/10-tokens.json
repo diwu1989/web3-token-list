@@ -1,5 +1,21 @@
 [
   {
+    "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+    "chainId": 10,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x7F5c764cBc14f9669B88837ca1490cCa17c31607/logo.png",
+    "name": "USD Coin",
+    "symbol": "USDC"
+  },
+  {
+    "address": "0x4200000000000000000000000000000000000006",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x4200000000000000000000000000000000000006/logo.png",
+    "name": "Wrapped Ethereum",
+    "symbol": "WETH"
+  },
+  {
     "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
     "chainId": 10,
     "decimals": 18,
@@ -62,14 +78,6 @@
     "logoURI": "https://ethereum-optimism.github.io/logos/sUSD.svg",
     "name": "Synthetix USD",
     "symbol": "sUSD"
-  },
-  {
-    "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
-    "chainId": 10,
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x7F5c764cBc14f9669B88837ca1490cCa17c31607/logo.png",
-    "name": "USD Coin",
-    "symbol": "USDC"
   },
   {
     "address": "0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49",
@@ -214,14 +222,6 @@
     "logoURI": "https://ethereum-optimism.github.io/logos/BOND.svg",
     "name": "BarnBridge Governance Token",
     "symbol": "BOND"
-  },
-  {
-    "address": "0x4200000000000000000000000000000000000006",
-    "chainId": 10,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x4200000000000000000000000000000000000006/logo.png",
-    "name": "Wrapped Ethereum",
-    "symbol": "WETH"
   },
   {
     "address": "0x7b0bcC23851bBF7601efC9E9FE532Bf5284F65d3",

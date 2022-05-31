@@ -629,5 +629,109 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://assets.coingecko.com/coins/images/13574/small/NFTX_%28Real%29.jpg"
+    },
+    {
+        "name": "DONUT",
+        "address": "0x524B969793a64a602342d89BC2789D43a016B13A",
+        "symbol": "DONUT",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/7538/small/Donut.png"
+    },
+    {
+        "name": "Enjin Coin on xDai",
+        "address": "0x5A757F0BcAdFDb78651B7bDBe67e44e8Fd7F7f6b",
+        "symbol": "ENJ",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/enjin_28_2.png"
+    },
+    {
+        "name": "Frontier Finance",
+        "address": "0x1bbca7491f14b46788Ff9c834d97a668C4886523",
+        "symbol": "FRONT",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/12479/small/frontier_logo.png"
+    },
+    {
+        "name": "Audius",
+        "address": "0x8A95ea379E1Fa4C749dd0A7A21377162028C479e",
+        "symbol": "AUDIO",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/12913/small/AudiusCoinLogo_2x.png"
+    },
+    {
+        "name": "Akropolis on xDai",
+        "address": "0xD27E1ECC4748F42e052331BeA917D89bEB883fc3",
+        "symbol": "AKRO",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/Akropolis_32.png"
+    },
+    {
+        "name": "Decentraland Mana",
+        "address": "0x7838796B6802B18D7Ef58fc8B757705D6c9d12b3",
+        "symbol": "MANA",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/878/small/decentraland-mana.png"
+    },
+    {
+        "name": "MEME on xDai",
+        "address": "0x512a2Eb0277573ae9Be0d48c782590b624048fdF",
+        "symbol": "MEME",
+        "decimals": 8,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/meme_32.png"
+    },
+    {
+        "name": "OmiseGo on xDai",
+        "address": "0x8395F7123ba3FFAD52E7414433D825931C81C879",
+        "symbol": "OMG",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://1inch.exchange/assets/tokens/0xd26114cd6ee289accf82350c8d8487fedb8a0c07.png"
+    },
+    {
+        "name": "Republic Token on xDai",
+        "address": "0x0da1a02CDF84C44021671d183d616925164E08Aa",
+        "symbol": "REN",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x408e41876cCCDC0F92210600ef50372656052a38/logo.png"
+    },
+    {
+        "name": "Reserve Rights on xDai",
+        "address": "0x5A87eaC5642BfEd4e354Ee8738DACd298E07D1Af",
+        "symbol": "RSR",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/reserverights_32.png"
+    },
+    {
+        "name": "XY Oracle on xDai",
+        "address": "0xfd4e5f45eA24eC50C4Db4367380b014875caF219",
+        "symbol": "XYO",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x55296f69f40Ea6d20E478533C15A6B08B654E758/logo.png"
+    },
+    {
+        "name": "VitaDAO from Mainnet",
+        "address": "0x0939a7c3f8d37c1ce67fada4963ae7e0bd112ff3",
+        "symbol": "VITA",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/VitaDAO/assets/master/vitadao-icon.png"
+    },
+    {
+        "name": "Project Serum",
+        "address": "0x3AE8c08cD61d05ad6e22973E4b675A92D412EE3C",
+        "symbol": "SRM",
+        "decimals": 6,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/11970/small/serum-logo.png"
     }
 ]

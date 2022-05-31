@@ -641,6 +641,14 @@
     },
     {
         "chainId": 43114,
+        "address": "0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc",
+        "decimals": 18,
+        "name": "Old SushiToken",
+        "symbol": "oldSUSHI",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc.jpg"
+    },
+    {
+        "chainId": 43114,
         "address": "0xde3A24028580884448a5397872046a019649b084",
         "decimals": 6,
         "name": "Old Tether USD",
@@ -670,14 +678,6 @@
         "symbol": "sSPELL",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0x3Ee97d514BBef95a2f110e6B9b73824719030f7a.jpg"
-    },
-    {
-        "chainId": 43114,
-        "address": "0xe0Ce60AF0850bF54072635e66E79Df17082A1109",
-        "decimals": 18,
-        "name": "IceToken",
-        "symbol": "ICE",
-        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xe0Ce60AF0850bF54072635e66E79Df17082A1109/logo.png"
     },
     {
         "chainId": 43114,
@@ -969,14 +969,6 @@
     },
     {
         "chainId": 43114,
-        "address": "0x6C6f910A79639dcC94b4feEF59Ff507c2E843929",
-        "decimals": 18,
-        "name": "Ankr Avalanche Reward Earning Bond",
-        "symbol": "aAVAXb",
-        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x6C6f910A79639dcC94b4feEF59Ff507c2E843929/logo.png"
-    },
-    {
-        "chainId": 43114,
         "address": "0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0",
         "decimals": 18,
         "name": "Boo Finance Token",
@@ -1262,6 +1254,14 @@
         "name": "Arable Protocol",
         "symbol": "ACRE",
         "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x00EE200Df31b869a321B10400Da10b561F3ee60d/logo.png"
+    },
+    {
+        "chainId": 43114,
+        "address": "0x0659133127749Cc0616Ed6632912ddF7cc8D7545",
+        "decimals": 18,
+        "name": "DefiLaunch Token",
+        "symbol": "DLAUNCH",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0659133127749Cc0616Ed6632912ddF7cc8D7545/logo.png"
     },
     {
         "chainId": 43114,

@@ -24,6 +24,7 @@ const TOKEN_LIST = {
     ],
     // polygon
     137: [
+        'https://raw.githubusercontent.com/sushiswap/list/master/lists/token-lists/default-token-list/tokens/polygon.json',
         'https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/src/tokens/mainnet.json',
         'https://raw.githubusercontent.com/BlockTimeWorld/SwapMatic/master/alpha.tokenlist.json',
     ],
@@ -31,11 +32,13 @@ const TOKEN_LIST = {
     100: [
         // 'https://unpkg.com/@1hive/default-token-list@latest/build/honeyswap-default.tokenlist.json',
         // 'https://raw.githubusercontent.com/elkfinance/tokens/main/xdai.tokenlist.json',
+        'https://raw.githubusercontent.com/sushiswap/list/master/lists/token-lists/default-token-list/tokens/xdai.json',
         'https://raw.githubusercontent.com/sushiswap/default-token-list/master/tokens/xdai.json',
         'https://raw.githubusercontent.com/baofinance/tokenlists/main/xdai.json',
     ],
     // optimism
     10: [
+        'https://raw.githubusercontent.com/sushiswap/list/master/lists/token-lists/default-token-list/tokens/optimism.json',
         'https://static.optimism.io/optimism.tokenlist.json',
         'https://data.zipswap.fi/tokenlist.json',
         'https://raw.githubusercontent.com/elkfinance/tokens/main/all.tokenlist.json',

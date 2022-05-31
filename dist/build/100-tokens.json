@@ -1,13 +1,5 @@
 [
     {
-        "name": "Wrapped XDAI",
-        "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
-        "symbol": "WXDAI",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0xe91d153e0b41518a2ce8dd3d7944fa863463a97d/logo.png"
-    },
-    {
         "name": "Aave Token on xDai",
         "address": "0xDF613aF6B44a31299E48131e9347F034347E2F00",
         "symbol": "AAVE",
@@ -38,6 +30,14 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://assets.coingecko.com/coins/images/12465/small/defi_pulse_index_set.png"
+    },
+    {
+        "name": "Gnosis on xDai",
+        "address": "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb",
+        "symbol": "GNO",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png"
     },
     {
         "name": "ChainLink Token on xDai",
@@ -96,20 +96,20 @@
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
     {
+        "name": "Wrapped XDAI",
+        "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+        "symbol": "WXDAI",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0xe91d153e0b41518a2ce8dd3d7944fa863463a97d/logo.png"
+    },
+    {
         "name": "xMOON on xDai",
         "address": "0x1e16aa4Df73d29C029d94CeDa3e3114EC191E25A",
         "symbol": "XMOON",
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/xdai/assets/0x1e16aa4Df73d29C029d94CeDa3e3114EC191E25A/logo.png"
-    },
-    {
-        "name": "Gnosis on xDai",
-        "address": "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb",
-        "symbol": "GNO",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png"
     },
     {
         "name": "Aave Interest bearing DAI on xDai",

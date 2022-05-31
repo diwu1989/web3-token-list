@@ -1,5 +1,21 @@
 [
   {
+    "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+    "chainId": 10,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x7F5c764cBc14f9669B88837ca1490cCa17c31607/logo.png",
+    "name": "USD Coin",
+    "symbol": "USDC"
+  },
+  {
+    "address": "0x4200000000000000000000000000000000000006",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x4200000000000000000000000000000000000006/logo.png",
+    "name": "Wrapped Ethereum",
+    "symbol": "WETH"
+  },
+  {
     "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
     "chainId": 10,
     "decimals": 18,
@@ -62,14 +78,6 @@
     "logoURI": "https://ethereum-optimism.github.io/logos/sUSD.svg",
     "name": "Synthetix USD",
     "symbol": "sUSD"
-  },
-  {
-    "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
-    "chainId": 10,
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x7F5c764cBc14f9669B88837ca1490cCa17c31607/logo.png",
-    "name": "USD Coin",
-    "symbol": "USDC"
   },
   {
     "address": "0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49",
@@ -144,14 +152,6 @@
     "symbol": "BitANT"
   },
   {
-    "address": "0xc98B98d17435AA00830c87eA02474C5007E1f272",
-    "chainId": 10,
-    "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/BitBTC.png",
-    "name": "BitBTC",
-    "symbol": "BitBTC"
-  },
-  {
     "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
     "chainId": 10,
     "decimals": 18,
@@ -168,12 +168,12 @@
     "symbol": "PERP"
   },
   {
-    "address": "0x4200000000000000000000000000000000000006",
+    "address": "0x7b0bcC23851bBF7601efC9E9FE532Bf5284F65d3",
     "chainId": 10,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x4200000000000000000000000000000000000006/logo.png",
-    "name": "Wrapped Ethereum",
-    "symbol": "WETH"
+    "logoURI": "https://ethereum-optimism.github.io/logos/EST.png",
+    "name": "Erica Social Token",
+    "symbol": "EST"
   },
   {
     "address": "0xF98dCd95217E15E05d8638da4c91125E59590B07",
@@ -190,14 +190,6 @@
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x0994206dfe8de6ec6920ff4d779b0d950605fb53/logo.png",
     "name": "Curve DAO Token",
     "symbol": "CRV"
-  },
-  {
-    "address": "0xcfD1D50ce23C46D3Cf6407487B2F8934e96DC8f9",
-    "chainId": 10,
-    "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/spank.png",
-    "name": "SPANK",
-    "symbol": "SPANK"
   },
   {
     "address": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
@@ -222,17 +214,6 @@
     "logoURI": "https://ethereum-optimism.github.io/logos/AAVE.svg",
     "name": "Aave Token",
     "symbol": "AAVE"
-  },
-  {
-    "chainId": 10,
-    "address": "0x117cFd9060525452db4A34d51c0b3b7599087f05",
-    "name": "Geyser",
-    "symbol": "GYSR",
-    "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/GYSR.png",
-    "extensions": {
-      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-    }
   },
   {
     "chainId": 10,
