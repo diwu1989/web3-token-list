@@ -352,6 +352,14 @@
         "logoURI": "https://assets.coingecko.com/coins/images/12381/small/perpetual_protocol_logo.jpg"
     },
     {
+        "name": "POA20 on xDai",
+        "address": "0x985e144EB355273c4B4D51E448B68b657F482E26",
+        "symbol": "POA20",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://1inch.exchange/assets/tokens/0x6758b7d441a9739b98552b373703d8d3d14f9e62.png"
+    },
+    {
         "name": "Particle",
         "address": "0xB5d592f85ab2D955c25720EbE6FF8D4d1E1Be300",
         "symbol": "PRTCLE",
