@@ -6,5 +6,13 @@
         "chainId": 10,
         "decimals": 18,
         "logoURI": ""
+    },
+    {
+        "address": "0x4200000000000000000000000000000000000042",
+        "name": "Optimism",
+        "symbol": "OP",
+        "chainId": 10,
+        "decimals": 18,
+        "logoURI": "https://optimistic.etherscan.io/token/images/optimism_32.png"
     }
 ]

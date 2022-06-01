@@ -128,14 +128,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/14146/small/agve.png"
   },
   {
-    "name": "Axie Infinity",
-    "address": "0xBDE011911128F6bD4ABb1d18F39fdc3614Ca2cfe",
-    "symbol": "AXS",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://assets.coingecko.com/coins/images/13029/small/axie_infinity_logo.png"
-  },
-  {
     "name": "Badger on xDai",
     "address": "0xdfc20AE04ED70bd9c7D720F449eEDAe19F659D65",
     "symbol": "BADGER",
@@ -254,6 +246,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/oceantoken_28.png"
+  },
+  {
+    "name": "Meta USD",
+    "address": "0x7300AaFC0Ef0d47Daeb850f8b6a1931b40aCab33",
+    "symbol": "mUSD",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/11576/small/mStable_USD.png"
   },
   {
     "name": "Perpetual Finance",

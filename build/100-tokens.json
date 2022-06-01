@@ -144,22 +144,6 @@
     "logoURI": "https://etherscan.io/token/images/ampleforth_32.png"
   },
   {
-    "name": "Aragon Network Token on xDai",
-    "address": "0x437a044fb4693890E61D2C1c88E3718E928B8E90",
-    "symbol": "ANTv1",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x960b236A07cf122663c4303350609A66A7B288C0/logo.png"
-  },
-  {
-    "name": "Aragon Network Token on xDai v2",
-    "address": "0x6EECeab954EFDBd7A8a8D9387bC719959B04b9CA",
-    "symbol": "ANTv2",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x960b236A07cf122663c4303350609A66A7B288C0/logo.png"
-  },
-  {
     "name": "Axie Infinity",
     "address": "0xBDE011911128F6bD4ABb1d18F39fdc3614Ca2cfe",
     "symbol": "AXS",
@@ -342,14 +326,6 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/moonswap_32.png"
-  },
-  {
-    "name": "Enzyme",
-    "address": "0xf0dd817FF483535f4059781441596AEa4F32a4B9",
-    "symbol": "MLN",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://assets.coingecko.com/coins/images/605/small/Enzyme_Icon_Secondary.png"
   },
   {
     "name": "Ocean Token on xDai",

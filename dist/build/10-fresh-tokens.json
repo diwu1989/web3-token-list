@@ -192,6 +192,14 @@
         "symbol": "CRV"
     },
     {
+        "address": "0xcfD1D50ce23C46D3Cf6407487B2F8934e96DC8f9",
+        "chainId": 10,
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/logos/spank.png",
+        "name": "SPANK",
+        "symbol": "SPANK"
+    },
+    {
         "address": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
         "chainId": 10,
         "decimals": 18,
@@ -217,11 +225,44 @@
     },
     {
         "chainId": 10,
+        "address": "0x117cFd9060525452db4A34d51c0b3b7599087f05",
+        "name": "Geyser",
+        "symbol": "GYSR",
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/logos/GYSR.png",
+        "extensions": {
+            "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+        }
+    },
+    {
+        "chainId": 10,
+        "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
+        "name": "Balancer",
+        "symbol": "BAL",
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/logos/BAL.png",
+        "extensions": {
+            "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+        }
+    },
+    {
+        "chainId": 10,
         "address": "0x1EBA7a6a72c894026Cd654AC5CDCF83A46445B08",
         "name": "Gitcoin",
         "symbol": "GTC",
         "decimals": 18,
         "logoURI": "https://ethereum-optimism.github.io/logos/GTC.svg",
+        "extensions": {
+            "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+        }
+    },
+    {
+        "chainId": 10,
+        "address": "0x4200000000000000000000000000000000000042",
+        "name": "Optimism",
+        "symbol": "OP",
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/logos/OP.png",
         "extensions": {
             "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
         }

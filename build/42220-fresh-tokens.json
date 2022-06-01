@@ -264,6 +264,14 @@
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_stabilUSD.png"
   },
   {
+    "address": "0x123ED050805E0998EBEf43671327139224218e50",
+    "name": "NetM Token",
+    "symbol": "NTMX",
+    "chainId": 42220,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_NTMX.png"
+  },
+  {
     "address": "0x173234922eB27d5138c5e481be9dF5261fAeD450",
     "name": "Allbridge SOL",
     "symbol": "SOL",

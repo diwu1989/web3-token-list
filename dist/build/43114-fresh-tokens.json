@@ -641,14 +641,6 @@
     },
     {
         "chainId": 43114,
-        "address": "0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc",
-        "decimals": 18,
-        "name": "Old SushiToken",
-        "symbol": "oldSUSHI",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc.jpg"
-    },
-    {
-        "chainId": 43114,
         "address": "0xde3A24028580884448a5397872046a019649b084",
         "decimals": 6,
         "name": "Old Tether USD",
@@ -672,12 +664,28 @@
         "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xA384Bc7Cdc0A93e686da9E7B8C0807cD040F4E0b/logo.png"
     },
     {
+        "address": "0xF873633DF9D5cDd62BB1f402499CC470a72A02D7",
+        "chainId": 43114,
+        "name": "MoonRiver",
+        "symbol": "MOVR",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/movr.jpg"
+    },
+    {
         "address": "0x3Ee97d514BBef95a2f110e6B9b73824719030f7a",
         "chainId": 43114,
         "name": "Staked Spell Token",
         "symbol": "sSPELL",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0x3Ee97d514BBef95a2f110e6B9b73824719030f7a.jpg"
+    },
+    {
+        "chainId": 43114,
+        "address": "0xe0Ce60AF0850bF54072635e66E79Df17082A1109",
+        "decimals": 18,
+        "name": "IceToken",
+        "symbol": "ICE",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xe0Ce60AF0850bF54072635e66E79Df17082A1109/logo.png"
     },
     {
         "chainId": 43114,
@@ -694,14 +702,6 @@
         "symbol": "BSGG",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x69570f3E84f51Ea70b7B68055c8d667e77735a25.jpg"
-    },
-    {
-        "address": "0xdef1fac7Bf08f173D286BbBDcBeeADe695129840",
-        "chainId": 43114,
-        "name": "Cerby Token",
-        "symbol": "CERBY",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png"
     },
     {
         "chainId": 43114,
@@ -849,6 +849,14 @@
     },
     {
         "chainId": 43114,
+        "address": "0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D",
+        "decimals": 18,
+        "name": "Weble Ecosystem Token",
+        "symbol": "WET",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D/logo.png"
+    },
+    {
+        "chainId": 43114,
         "address": "0x9E037dE681CaFA6E661e6108eD9c2bd1AA567Ecd",
         "decimals": 18,
         "name": "Wrapped AllianceBlock Token",
@@ -862,6 +870,14 @@
         "name": "TundraToken",
         "symbol": "TUNDRA",
         "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1/logo.png"
+    },
+    {
+        "chainId": 43114,
+        "address": "0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8",
+        "decimals": 18,
+        "name": "Gaj Finance",
+        "symbol": "GAJ",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8/logo.png"
     },
     {
         "chainId": 43114,
@@ -969,6 +985,14 @@
     },
     {
         "chainId": 43114,
+        "address": "0x6C6f910A79639dcC94b4feEF59Ff507c2E843929",
+        "decimals": 18,
+        "name": "Ankr Avalanche Reward Earning Bond",
+        "symbol": "aAVAXb",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x6C6f910A79639dcC94b4feEF59Ff507c2E843929/logo.png"
+    },
+    {
+        "chainId": 43114,
         "address": "0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0",
         "decimals": 18,
         "name": "Boo Finance Token",
@@ -1054,6 +1078,14 @@
         "name": "iDeFiYieldProtocol",
         "symbol": "iDYP",
         "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xBD100d061E120b2c67A24453CF6368E63f1Be056/logo.png"
+    },
+    {
+        "chainId": 43114,
+        "address": "0xcA220F1e486A8e35d6F1DCD62073Ad8DD04659ED",
+        "decimals": 6,
+        "name": "BiAltin",
+        "symbol": "GLDB",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xcA220F1e486A8e35d6F1DCD62073Ad8DD04659ED/logo.png"
     },
     {
         "chainId": 43114,
@@ -1145,14 +1177,6 @@
     },
     {
         "chainId": 43114,
-        "address": "0x0fEc6d8A84A85b79A1FFE0E28c1902E08b653EFE",
-        "decimals": 18,
-        "name": "Hoopoe Ventures",
-        "symbol": "HOOP",
-        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0fEc6d8A84A85b79A1FFE0E28c1902E08b653EFE/logo.png"
-    },
-    {
-        "chainId": 43114,
         "address": "0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c",
         "decimals": 18,
         "name": "HeroesChained",
@@ -1182,14 +1206,6 @@
         "name": "Kassandra",
         "symbol": "KACY",
         "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf32398dae246C5f672B52A54e9B413dFFcAe1A44/logo.png"
-    },
-    {
-        "chainId": 43114,
-        "address": "0x1fE4751d9bDabaC8D90067056cB45AB6823d2C12",
-        "decimals": 18,
-        "name": "ArgonToken",
-        "symbol": "ARGON",
-        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x1fE4751d9bDabaC8D90067056cB45AB6823d2C12/logo.png"
     },
     {
         "chainId": 43114,
