@@ -160,14 +160,6 @@
         "logoURI": "https://etherscan.io/token/images/baseprotocol_32.png"
     },
     {
-        "name": "Basic Attention Token on xDai",
-        "address": "0xC6cC63f4AA25BBD4453eB5F3a0DfE546feF9b2f3",
-        "symbol": "BAT",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://etherscan.io/token/images/bat.png"
-    },
-    {
         "name": "Compound",
         "address": "0xDf6FF92bfDC1e8bE45177DC1f4845d391D3ad8fD",
         "symbol": "COMP",
@@ -296,6 +288,14 @@
         "logoURI": "https://etherscan.io/token/images/SynthetixsETH_32.png"
     },
     {
+        "name": "Unisocks",
+        "address": "0x35f346Cb4149746272974a92d719Fd48ae2F72FA",
+        "symbol": "SOCKS",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/10717/small/qFrcoiM.png"
+    },
+    {
         "name": "Synthetix Network Token on xDai",
         "address": "0x3A00E08544d589E19a8e7D97D0294331341cdBF6",
         "symbol": "SNX",
@@ -310,6 +310,14 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://etherscan.io/token/images/tbtc_32.png"
+    },
+    {
+        "name": "TrueUSD",
+        "address": "0xB714654e905eDad1CA1940b7790A8239ece5A9ff",
+        "symbol": "TUSD",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/3449/small/TUSD.png"
     },
     {
         "name": "Uniswap on xDai",

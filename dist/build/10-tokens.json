@@ -377,10 +377,7 @@
         "name": "Optimism",
         "symbol": "OP",
         "decimals": 18,
-        "logoURI": "https://ethereum-optimism.github.io/logos/OP.png",
-        "extensions": {
-            "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-        }
+        "logoURI": "https://ethereum-optimism.github.io/logos/optimism.svg"
     },
     {
         "chainId": 10,
@@ -437,6 +434,62 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
         "name": "Elk",
         "symbol": "ELK"
+    },
+    {
+        "chainId": 10,
+        "address": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
+        "name": "Velodrome",
+        "symbol": "VELO",
+        "decimals": 18,
+        "logoURI": "https://docs.velodrome.finance/velodrome.svg"
+    },
+    {
+        "chainId": 10,
+        "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+        "name": "FRAX",
+        "symbol": "FRAX",
+        "decimals": 18,
+        "logoURI": "https://docs.velodrome.finance/tokens/FRAX.png"
+    },
+    {
+        "chainId": 10,
+        "address": "0x67CCEA5bb16181E7b4109c9c2143c24a1c2205Be",
+        "name": "Frax Share",
+        "symbol": "FXS",
+        "decimals": 18,
+        "logoURI": "https://docs.velodrome.finance/tokens/FXS.png"
+    },
+    {
+        "chainId": 10,
+        "address": "0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A",
+        "name": "Alchemix USD",
+        "symbol": "alUSD",
+        "decimals": 18,
+        "logoURI": "https://docs.velodrome.finance/tokens/alUSD.svg"
+    },
+    {
+        "chainId": 10,
+        "address": "0x3E29D3A9316dAB217754d13b28646B76607c5f04",
+        "name": "Alchemix ETH",
+        "symbol": "alETH",
+        "decimals": 18,
+        "logoURI": "https://docs.velodrome.finance/tokens/alETH.svg"
+    },
+    {
+        "chainId": 10,
+        "address": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
+        "name": "Dola USD Stablecoin",
+        "symbol": "DOLA",
+        "decimals": 18,
+        "logoURI": ""
+    },
+    {
+        "chainId": 10,
+        "address": "0x10010078a54396F62c96dF8532dc2B4847d47ED3",
+        "name": "Hundred Finance",
+        "symbol": "HND",
+        "decimals": 18,
+        "logoURI": "https://docs.velodrome.finance/tokens/HND.png"
     },
     {
         "address": "0x6F620EC89B8479e97A6985792d0c64F237566746",

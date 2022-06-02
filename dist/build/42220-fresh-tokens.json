@@ -416,6 +416,14 @@
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_TFBX.png"
     },
     {
+        "address": "0xD8761DD6c7cB54febD33adD699F5E4440b62E01B",
+        "name": "Poof EUR",
+        "symbol": "pEUR",
+        "chainId": 42220,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pEUR.png"
+    },
+    {
         "address": "0xE273Ad7ee11dCfAA87383aD5977EE1504aC07568",
         "name": "Moola cEUR",
         "symbol": "mcEUR",
@@ -438,6 +446,14 @@
         "chainId": 42220,
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cREAL.png"
+    },
+    {
+        "address": "0xEadf4A7168A82D30Ba0619e64d5BCf5B30B45226",
+        "name": "Poof USD",
+        "symbol": "pUSD",
+        "chainId": 42220,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pUSD.png"
     },
     {
         "address": "0x035eE610693a29Cb77fD6eFBEb9d9d278703e145",
