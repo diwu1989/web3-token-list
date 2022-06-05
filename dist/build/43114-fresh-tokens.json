@@ -641,6 +641,14 @@
     },
     {
         "chainId": 43114,
+        "address": "0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc",
+        "decimals": 18,
+        "name": "Old SushiToken",
+        "symbol": "oldSUSHI",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc.jpg"
+    },
+    {
+        "chainId": 43114,
         "address": "0xde3A24028580884448a5397872046a019649b084",
         "decimals": 6,
         "name": "Old Tether USD",
@@ -662,6 +670,14 @@
         "name": "WOWSwap",
         "symbol": "WOW",
         "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xA384Bc7Cdc0A93e686da9E7B8C0807cD040F4E0b/logo.png"
+    },
+    {
+        "address": "0x3Ee97d514BBef95a2f110e6B9b73824719030f7a",
+        "chainId": 43114,
+        "name": "Staked Spell Token",
+        "symbol": "sSPELL",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0x3Ee97d514BBef95a2f110e6B9b73824719030f7a.jpg"
     },
     {
         "chainId": 43114,
@@ -841,6 +857,14 @@
     },
     {
         "chainId": 43114,
+        "address": "0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D",
+        "decimals": 18,
+        "name": "Weble Ecosystem Token",
+        "symbol": "WET",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D/logo.png"
+    },
+    {
+        "chainId": 43114,
         "address": "0x9E037dE681CaFA6E661e6108eD9c2bd1AA567Ecd",
         "decimals": 18,
         "name": "Wrapped AllianceBlock Token",
@@ -905,14 +929,6 @@
     },
     {
         "chainId": 43114,
-        "address": "0xae9d2385Ff2E2951Dd4fA061e74c4d3deDD24347",
-        "decimals": 8,
-        "name": "TOK",
-        "symbol": "TOK",
-        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xae9d2385Ff2E2951Dd4fA061e74c4d3deDD24347/logo.png"
-    },
-    {
-        "chainId": 43114,
         "address": "0x90842eb834cFD2A1DB0b1512B254a18E4D396215",
         "decimals": 9,
         "name": "Good Bridging",
@@ -942,6 +958,14 @@
         "name": "Ape In",
         "symbol": "APEIN",
         "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x938FE3788222A74924E062120E7BFac829c719Fb/logo.png"
+    },
+    {
+        "chainId": 43114,
+        "address": "0xfC108f21931576a21D0b4b301935DAc80d9E5086",
+        "decimals": 18,
+        "name": "Iron Finance ICE Token",
+        "symbol": "IronICE",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xfC108f21931576a21D0b4b301935DAc80d9E5086/logo.png"
     },
     {
         "chainId": 43114,
@@ -1097,6 +1121,14 @@
     },
     {
         "chainId": 43114,
+        "address": "0xC1d02E488a9Ce2481BFdcd797d5373Dd2E70a9C2",
+        "decimals": 18,
+        "name": "SHAKE token by SpaceSwap v2",
+        "symbol": "SHAKE",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xC1d02E488a9Ce2481BFdcd797d5373Dd2E70a9C2/logo.png"
+    },
+    {
+        "chainId": 43114,
         "address": "0xB15f02F9Da8CD1f99E9dd375F21dc96D25ddd82C",
         "decimals": 18,
         "name": "HERMES",
@@ -1182,6 +1214,14 @@
         "name": "Kassandra",
         "symbol": "KACY",
         "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xf32398dae246C5f672B52A54e9B413dFFcAe1A44/logo.png"
+    },
+    {
+        "chainId": 43114,
+        "address": "0x402FD175049e95CeF2cC9ca1FECdb6d9736e690d",
+        "decimals": 18,
+        "name": "Catoshi",
+        "symbol": "CATS",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x402FD175049e95CeF2cC9ca1FECdb6d9736e690d/logo.png"
     },
     {
         "chainId": 43114,

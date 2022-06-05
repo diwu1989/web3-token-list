@@ -85,8 +85,8 @@ async function isTokenFresh(erc20Contract, latestBlock, lookBackBlocks) {
 
 // filter for tokens that have had a transfer within recent blocks
 async function filterFreshTokens(chainId, tokens, lookBackBlocks) {
-    // number of blocks to look back to find transfers, ~3 days
-    lookBackBlocks = lookBackBlocks || (chainId == 10 ? 500_000 : 50_000)
+    // number of blocks to look back to find transfers, ~6 days
+    lookBackBlocks = lookBackBlocks || (chainId == 10 ? 1_000_000 : 100_000)
     const rpcUrl = RPC_URL[chainId]
     if (!rpcUrl) {
         // no rpc defined

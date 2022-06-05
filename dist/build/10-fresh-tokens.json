@@ -168,12 +168,28 @@
         "symbol": "LYRA"
     },
     {
+        "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
+        "chainId": 10,
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/logos/UMA.png",
+        "name": "UMA Voting Token v1",
+        "symbol": "UMA"
+    },
+    {
         "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
         "chainId": 10,
         "decimals": 18,
         "logoURI": "https://ethereum-optimism.github.io/logos/PERP.png",
         "name": "Perpetual",
         "symbol": "PERP"
+    },
+    {
+        "address": "0x7b0bcC23851bBF7601efC9E9FE532Bf5284F65d3",
+        "chainId": 10,
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/logos/EST.png",
+        "name": "Erica Social Token",
+        "symbol": "EST"
     },
     {
         "address": "0xF98dCd95217E15E05d8638da4c91125E59590B07",
@@ -198,6 +214,14 @@
         "logoURI": "https://ethereum-optimism.github.io/logos/spank.png",
         "name": "SPANK",
         "symbol": "SPANK"
+    },
+    {
+        "address": "0xFEaA9194F9F8c1B65429E31341a103071464907E",
+        "chainId": 10,
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/logos/LRC.png",
+        "name": "LoopringCoin V2",
+        "symbol": "LRC"
     },
     {
         "address": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",

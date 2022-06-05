@@ -128,6 +128,14 @@
     "logoURI": "https://raw.githubusercontent.com/beefyfinance/beefy-app/prod/src/images/single-assets/BIFI.png"
   },
   {
+    "address": "0xA041544fe2BE56CCe31Ebb69102B965E06aacE80",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xA041544fe2BE56CCe31Ebb69102B965E06aacE80/logo.png",
+    "name": "BarnBridge Governance Token",
+    "symbol": "BOND"
+  },
+  {
     "address": "0x6bb45cEAC714c52342Ef73ec663479da35934bf7",
     "chainId": 137,
     "decimals": 18,
@@ -286,6 +294,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/12465/small/defi_pulse_index_set.png?1600051053"
+  },
+  {
+    "address": "0x0361BdEAB89DF6BBcc52c43589FABba5143d19dD",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x0361BdEAB89DF6BBcc52c43589FABba5143d19dD/logo.png",
+    "name": "dHEDGE Top Index",
+    "symbol": "dTOP"
   },
   {
     "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
@@ -694,6 +710,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x2b88aD57897A8b496595925F43048301C37615Da/logo.png",
     "name": "Pickle Finance",
     "symbol": "PICKLE"
+  },
+  {
+    "address": "0x61E9c2F3501889f6167921087Bd6EA306002904a",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x61E9c2F3501889f6167921087Bd6EA306002904a/logo.png",
+    "name": "Pixel",
+    "symbol": "PIXEL"
   },
   {
     "address": "0xdC3aCB92712D1D44fFE15d3A8D66d9d18C81e038",
@@ -1310,6 +1334,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9651.png"
+  },
+  {
+    "name": "QuickChart",
+    "address": "0x0Af77B096cbDF53B5c39c2fcff8F14C5E3a36356",
+    "symbol": "QuickChart",
+    "decimals": 9,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/jv5A0eX.png"
   },
   {
     "name": "Ethernity Chain",
@@ -2064,6 +2096,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/15829/small/photo_2021-06-04_09.36.16.jpeg?1622770606"
   },
   {
+    "name": "MaticLaunch",
+    "address": "0x3642c3c8eBe0b36a29e37809e1c9A7DE06BC0B26",
+    "symbol": "MTCL",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/18036/small/TQzTNi5.png?1630312183"
+  },
+  {
     "name": "Decentral Games Governance",
     "address": "0xc6480Da81151B2277761024599E8Db2Ad4C388C8",
     "symbol": "xDG",
@@ -2094,6 +2134,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/21467/small/n1fqEYRI_400x400.png?1639345175"
+  },
+  {
+    "name": "TOMB",
+    "address": "0x0e98C977B943f06075b2D795794238fBfB9b9a34",
+    "symbol": "TOMB",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/16133/small/tomb_icon_noBG.png?1623055476"
   },
   {
     "name": "Otter Clam",
@@ -2952,6 +3000,14 @@
     "logoURI": "https://cryptologos.cc/logos/fusion-fsn-logo.png?v=010"
   },
   {
+    "chainId": 137,
+    "address": "0xbE5cf150E1fF59ca7F2499Eaa13BFC40AAE70e78",
+    "name": "Glitch",
+    "symbol": "GLCH",
+    "decimals": 18,
+    "logoURI": "https://etherscan.io/token/images/glitch_32.png"
+  },
+  {
     "name": "Holyheld",
     "address": "0x521CddC0CBa84F14c69C1E99249F781AA73Ee0BC",
     "symbol": "HH",
@@ -2966,6 +3022,14 @@
     "symbol": "KIWI",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0x578360AdF0BbB2F10ec9cEC7EF89Ef495511ED5f.png"
+  },
+  {
+    "address": "0x28E96FFe75CdCc97044585b866BD02bD79C12dc0",
+    "chainId": 137,
+    "name": "LimeJuice",
+    "symbol": "JUICE",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/0x28E96FFe75CdCc97044585b866BD02bD79C12dc0.png"
   },
   {
     "name": "Matic Aave interest bearing AAVE",
@@ -3032,6 +3096,14 @@
     "logoURI": "https://aavegotchi.com/images/matokens/maWETH.svg"
   },
   {
+    "name": "Matic Aave interest bearing YFI",
+    "address": "0xe20f7d1f0eC39C4d5DB01f53554F2EF54c71f613",
+    "symbol": "maYFI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://aavegotchi.com/images/matokens/maYFI.svg"
+  },
+  {
     "name": "Matic Ruletka",
     "address": "0x38332D8671961aE13d0BDe040d536eB336495eEA",
     "symbol": "mRTK",
@@ -3064,6 +3136,14 @@
     "logoURI": "https://raw.githubusercontent.com/nordfinance/nord-assets/master/logo.png"
   },
   {
+    "name": "Opu Coin",
+    "address": "0x7ff2FC33E161E3b1C6511B934F0209D304267857",
+    "symbol": "OPU",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://www.opucoin.io/wp-content/uploads/2021/04/opu-coiin-icon-border.svg"
+  },
+  {
     "name": "Pepedex",
     "address": "0x127984b5E6d5c59f81DACc9F1C8b3Bdc8494572e",
     "symbol": "PPDEX",
@@ -3094,6 +3174,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://etherscan.io/token/images/razornetwork_32.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x5FBccc4Acc0B9339D7CDC5d6336A5c88D89e5327",
+    "name": "SOLAR",
+    "symbol": "SOLAR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Palette-Finance/images/main/solar.png"
   },
   {
     "name": "Standard",
