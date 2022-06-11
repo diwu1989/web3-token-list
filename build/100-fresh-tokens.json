@@ -32,6 +32,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/12465/small/defi_pulse_index_set.png"
   },
   {
+    "address": "0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75",
+    "chainId": 100,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/xdai/0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75.jpg",
+    "name": "Giveth from Mainnet",
+    "symbol": "GIV"
+  },
+  {
     "name": "Gnosis on xDai",
     "address": "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb",
     "symbol": "GNO",
@@ -128,6 +136,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/14146/small/agve.png"
   },
   {
+    "name": "Ampleforth on xDai",
+    "address": "0xC84DD5B971521B6C9fA5E10d25E6428b19710e05",
+    "symbol": "AMPL",
+    "decimals": 9,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/ampleforth_32.png"
+  },
+  {
     "name": "Axie Infinity",
     "address": "0xBDE011911128F6bD4ABb1d18F39fdc3614Ca2cfe",
     "symbol": "AXS",
@@ -160,36 +176,12 @@
     "logoURI": "https://assets.coingecko.com/coins/images/13547/small/BAO.png"
   },
   {
-    "name": "Base Protocol on xDai",
-    "address": "0x699D001ef13B15335193bC5FAd6CFC6747eeE8BE",
-    "symbol": "BASE",
-    "decimals": 9,
-    "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/baseprotocol_32.png"
-  },
-  {
-    "name": "Basic Attention Token on xDai",
-    "address": "0xC6cC63f4AA25BBD4453eB5F3a0DfE546feF9b2f3",
-    "symbol": "BAT",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/bat.png"
-  },
-  {
     "name": "BarnBridge",
     "address": "0xb31a2595E4Cf66EfBC1Fe348b1429E5730891382",
     "symbol": "BOND",
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://assets.coingecko.com/coins/images/12811/small/barnbridge.jpg"
-  },
-  {
-    "name": "Bancor Network Token on xDai",
-    "address": "0x9a495a281D959192343B0e007284bf130bd05F86",
-    "symbol": "BNT",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/bancor_32.png"
   },
   {
     "name": "Celsius on xDai",
@@ -206,14 +198,6 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://assets.coingecko.com/coins/images/10775/small/COMP.png"
-  },
-  {
-    "name": "Cream on xDai",
-    "address": "0x1939D3431CF0E44B1d63b86e2cE489E5a341B1Bf",
-    "symbol": "CREAM",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/CreamFinance_32.png"
   },
   {
     "name": "Dai Stablecoin on xDai",
@@ -312,28 +296,12 @@
     "logoURI": "https://assets.coingecko.com/coins/images/12381/small/perpetual_protocol_logo.jpg"
   },
   {
-    "name": "POA20 on xDai",
-    "address": "0x985e144EB355273c4B4D51E448B68b657F482E26",
-    "symbol": "POA20",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://1inch.exchange/assets/tokens/0x6758b7d441a9739b98552b373703d8d3d14f9e62.png"
-  },
-  {
     "name": "Particle",
     "address": "0xB5d592f85ab2D955c25720EbE6FF8D4d1E1Be300",
     "symbol": "PRTCLE",
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/wiki/master/images/Particle.png"
-  },
-  {
-    "name": "Rarible on xDai",
-    "address": "0x4bE85ACC1cd711F403dC7BdE9e6caDfC5A94744b",
-    "symbol": "RARI",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/rarible_32.png"
   },
   {
     "name": "renBTC on xDai",
@@ -350,14 +318,6 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/SynthetixsETH_32.png"
-  },
-  {
-    "name": "Unisocks",
-    "address": "0x35f346Cb4149746272974a92d719Fd48ae2F72FA",
-    "symbol": "SOCKS",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://assets.coingecko.com/coins/images/10717/small/qFrcoiM.png"
   },
   {
     "name": "Synthetix Network Token on xDai",
@@ -470,14 +430,6 @@
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
     "name": "Old Elk",
     "symbol": "oELK"
-  },
-  {
-    "address": "0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75",
-    "chainId": 100,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75/logo.png",
-    "name": "Giveth from Mainnet",
-    "symbol": "GIV"
   },
   {
     "address": "0x21a42669643f45Bc0e086b8Fc2ed70c23D67509d",

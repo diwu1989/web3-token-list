@@ -184,6 +184,14 @@
         "symbol": "PERP"
     },
     {
+        "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
+        "chainId": 10,
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/logos/BOND.svg",
+        "name": "BarnBridge Governance Token",
+        "symbol": "BOND"
+    },
+    {
         "address": "0x7b0bcC23851bBF7601efC9E9FE532Bf5284F65d3",
         "chainId": 10,
         "decimals": 18,
@@ -200,6 +208,14 @@
         "symbol": "KROM"
     },
     {
+        "address": "0xAF9fE3B5cCDAe78188B1F8b9a49Da7ae9510F151",
+        "chainId": 10,
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/logos/DHT.svg",
+        "name": "dHEDGE DAO Token",
+        "symbol": "DHT"
+    },
+    {
         "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
         "chainId": 10,
         "decimals": 18,
@@ -214,14 +230,6 @@
         "logoURI": "https://ethereum-optimism.github.io/logos/spank.png",
         "name": "SPANK",
         "symbol": "SPANK"
-    },
-    {
-        "address": "0xFEaA9194F9F8c1B65429E31341a103071464907E",
-        "chainId": 10,
-        "decimals": 18,
-        "logoURI": "https://ethereum-optimism.github.io/logos/LRC.png",
-        "name": "LoopringCoin V2",
-        "symbol": "LRC"
     },
     {
         "address": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
@@ -246,6 +254,14 @@
         "logoURI": "https://ethereum-optimism.github.io/logos/AAVE.svg",
         "name": "Aave Token",
         "symbol": "AAVE"
+    },
+    {
+        "address": "0x81aB7E0D570b01411fcC4afd3D50eC8C241cb74b",
+        "chainId": 10,
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/logos/EQZ.png",
+        "name": "Equalizer",
+        "symbol": "EQZ"
     },
     {
         "chainId": 10,
@@ -287,6 +303,14 @@
         "symbol": "OP",
         "decimals": 18,
         "logoURI": "https://ethereum-optimism.github.io/logos/optimism.svg"
+    },
+    {
+        "chainId": 10,
+        "address": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
+        "name": "Dola USD Stablecoin",
+        "symbol": "DOLA",
+        "decimals": 18,
+        "logoURI": ""
     },
     {
         "chainId": 10,
@@ -335,6 +359,14 @@
         "symbol": "PEGA",
         "decimals": 9,
         "logoURI": "https://data.zipswap.fi/logos/PEGA.jpg"
+    },
+    {
+        "chainId": 10,
+        "address": "0x4d23960E3b3275FB95C8cCA2D781E40d4B39449d",
+        "name": "OpCorgi",
+        "symbol": "CORG",
+        "decimals": 18,
+        "logoURI": "https://data.zipswap.fi/logos/opcorgi.jpg"
     },
     {
         "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",

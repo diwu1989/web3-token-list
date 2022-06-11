@@ -480,6 +480,14 @@
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WMATIC.png"
     },
     {
+        "address": "0x4213E7aB42dD21366508B18edfc33C29e7cBD81B",
+        "name": "KARMAGE",
+        "symbol": "KMGE",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_KMGE.png"
+    },
+    {
         "address": "0x503681c68f03bbbCe48005DCD7b83ae8D4fD745C",
         "name": "Optics v1 AAVE",
         "symbol": "AAVExV1",
@@ -526,6 +534,22 @@
         "chainId": 42220,
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pUSD.png"
+    },
+    {
+        "address": "0xcFFfE0c89a779c09Df3DF5624f54cDf7EF5fDd5D",
+        "name": "Moss USDT DEPRECATED",
+        "symbol": "cUSDT",
+        "chainId": 42220,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cUSDT.png"
+    },
+    {
+        "address": "0xd954C4c006189d967507b8ba758605364eB660D2",
+        "name": "Sky Portal",
+        "symbol": "LAPIS",
+        "chainId": 42220,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_LAPIS.png"
     },
     {
         "address": "0xDB452CC669D3Ae454226AbF232Fe211bAfF2a1F9",
@@ -579,6 +603,14 @@
         "address": "0x266C13DeD5A1d636E502fd56B3F76d38c3107EC2",
         "name": "kUSD",
         "symbol": "kUSD",
+        "chainId": 42220,
+        "decimals": 18,
+        "logoURI": ""
+    },
+    {
+        "address": "0x091733f0245A4395d8BfE42C74A619328269F12F",
+        "name": "KnoxDAO",
+        "symbol": "KNOX",
         "chainId": 42220,
         "decimals": 18,
         "logoURI": ""

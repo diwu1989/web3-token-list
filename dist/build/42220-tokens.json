@@ -480,6 +480,14 @@
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WMATIC.png"
     },
     {
+        "address": "0x4213E7aB42dD21366508B18edfc33C29e7cBD81B",
+        "name": "KARMAGE",
+        "symbol": "KMGE",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_KMGE.png"
+    },
+    {
         "address": "0x503681c68f03bbbCe48005DCD7b83ae8D4fD745C",
         "name": "Optics v1 AAVE",
         "symbol": "AAVExV1",

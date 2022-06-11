@@ -56,7 +56,7 @@ const RPC_URL = {
     // avalanche
     43114: 'https://rpc.ankr.com/avalanche',
     // optimism
-    10: 'http://mainnet-replica.optimism.io'
+    10: 'https://rpc.ankr.com/optimism'
 }
 
 function validateToken(chainId, token) {

@@ -704,14 +704,6 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x69570f3E84f51Ea70b7B68055c8d667e77735a25.jpg"
   },
   {
-    "address": "0xdef1fac7Bf08f173D286BbBDcBeeADe695129840",
-    "chainId": 43114,
-    "name": "Cerby Token",
-    "symbol": "CERBY",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png"
-  },
-  {
     "chainId": 43114,
     "address": "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
     "decimals": 18,
@@ -889,6 +881,14 @@
   },
   {
     "chainId": 43114,
+    "address": "0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0",
+    "decimals": 18,
+    "name": "MarginSwap",
+    "symbol": "MFI",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0/logo.png"
+  },
+  {
+    "chainId": 43114,
     "address": "0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1",
     "decimals": 18,
     "name": "SHIBAVAX",
@@ -929,6 +929,14 @@
   },
   {
     "chainId": 43114,
+    "address": "0xae9d2385Ff2E2951Dd4fA061e74c4d3deDD24347",
+    "decimals": 8,
+    "name": "TOK",
+    "symbol": "TOK",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xae9d2385Ff2E2951Dd4fA061e74c4d3deDD24347/logo.png"
+  },
+  {
+    "chainId": 43114,
     "address": "0x90842eb834cFD2A1DB0b1512B254a18E4D396215",
     "decimals": 9,
     "name": "Good Bridging",
@@ -958,14 +966,6 @@
     "name": "Ape In",
     "symbol": "APEIN",
     "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x938FE3788222A74924E062120E7BFac829c719Fb/logo.png"
-  },
-  {
-    "chainId": 43114,
-    "address": "0xfC108f21931576a21D0b4b301935DAc80d9E5086",
-    "decimals": 18,
-    "name": "Iron Finance ICE Token",
-    "symbol": "IronICE",
-    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xfC108f21931576a21D0b4b301935DAc80d9E5086/logo.png"
   },
   {
     "chainId": 43114,
@@ -1297,14 +1297,6 @@
   },
   {
     "chainId": 43114,
-    "address": "0x0659133127749Cc0616Ed6632912ddF7cc8D7545",
-    "decimals": 18,
-    "name": "DefiLaunch Token",
-    "symbol": "DLAUNCH",
-    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x0659133127749Cc0616Ed6632912ddF7cc8D7545/logo.png"
-  },
-  {
-    "chainId": 43114,
     "address": "0xb67a9374Da03d4114a6FB8f0E7F2b82b5cB34ee3",
     "decimals": 18,
     "name": "Augmented Finance",
@@ -1318,6 +1310,22 @@
     "name": "OddzToken",
     "symbol": "ODDZ",
     "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x94d649E017625dE1Aa04733aA046dE0161DF18eF",
+    "decimals": 18,
+    "name": "King Shares",
+    "symbol": "KSHARE",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x94d649E017625dE1Aa04733aA046dE0161DF18eF/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x4960bc6032351ab87627B8F36b37B4938A44C7eF",
+    "decimals": 18,
+    "name": "RICH",
+    "symbol": "RICH",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4960bc6032351ab87627B8F36b37B4938A44C7eF/logo.png"
   },
   {
     "chainId": 43114,
@@ -1478,6 +1486,14 @@
     "name": "miMatic",
     "symbol": "MAI",
     "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x6feFd97F328342a8A840546A55FDcfEe7542F9A8",
+    "decimals": 18,
+    "name": "agEUR",
+    "symbol": "agEUR",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x6feFd97F328342a8A840546A55FDcfEe7542F9A8/logo.png"
   },
   {
     "chainId": 43114,

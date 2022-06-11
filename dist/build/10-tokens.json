@@ -381,6 +381,14 @@
     },
     {
         "chainId": 10,
+        "address": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
+        "name": "Dola USD Stablecoin",
+        "symbol": "DOLA",
+        "decimals": 18,
+        "logoURI": ""
+    },
+    {
+        "chainId": 10,
         "address": "0xb54fa166d4b88B0478f299D5854aD9B94b3fefF3",
         "name": "Arbinyan",
         "symbol": "NYAN",
@@ -426,6 +434,14 @@
         "symbol": "PEGA",
         "decimals": 9,
         "logoURI": "https://data.zipswap.fi/logos/PEGA.jpg"
+    },
+    {
+        "chainId": 10,
+        "address": "0x4d23960E3b3275FB95C8cCA2D781E40d4B39449d",
+        "name": "OpCorgi",
+        "symbol": "CORG",
+        "decimals": 18,
+        "logoURI": "https://data.zipswap.fi/logos/opcorgi.jpg"
     },
     {
         "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -474,14 +490,6 @@
         "symbol": "alETH",
         "decimals": 18,
         "logoURI": "https://docs.velodrome.finance/tokens/alETH.svg"
-    },
-    {
-        "chainId": 10,
-        "address": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
-        "name": "Dola USD Stablecoin",
-        "symbol": "DOLA",
-        "decimals": 18,
-        "logoURI": ""
     },
     {
         "chainId": 10,
