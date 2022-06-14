@@ -152,14 +152,6 @@
     "symbol": "BitANT"
   },
   {
-    "address": "0xc98B98d17435AA00830c87eA02474C5007E1f272",
-    "chainId": 10,
-    "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/BitBTC.png",
-    "name": "BitBTC",
-    "symbol": "BitBTC"
-  },
-  {
     "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
     "chainId": 10,
     "decimals": 18,
@@ -184,14 +176,6 @@
     "symbol": "PERP"
   },
   {
-    "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
-    "chainId": 10,
-    "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/BOND.svg",
-    "name": "BarnBridge Governance Token",
-    "symbol": "BOND"
-  },
-  {
     "address": "0x7b0bcC23851bBF7601efC9E9FE532Bf5284F65d3",
     "chainId": 10,
     "decimals": 18,
@@ -206,14 +190,6 @@
     "logoURI": "https://ethereum-optimism.github.io/logos/KROM.png",
     "name": "Kromatika",
     "symbol": "KROM"
-  },
-  {
-    "address": "0xAF9fE3B5cCDAe78188B1F8b9a49Da7ae9510F151",
-    "chainId": 10,
-    "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/DHT.svg",
-    "name": "dHEDGE DAO Token",
-    "symbol": "DHT"
   },
   {
     "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
@@ -254,25 +230,6 @@
     "logoURI": "https://ethereum-optimism.github.io/logos/AAVE.svg",
     "name": "Aave Token",
     "symbol": "AAVE"
-  },
-  {
-    "address": "0x81aB7E0D570b01411fcC4afd3D50eC8C241cb74b",
-    "chainId": 10,
-    "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/EQZ.png",
-    "name": "Equalizer",
-    "symbol": "EQZ"
-  },
-  {
-    "chainId": 10,
-    "address": "0x117cFd9060525452db4A34d51c0b3b7599087f05",
-    "name": "Geyser",
-    "symbol": "GYSR",
-    "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/GYSR.png",
-    "extensions": {
-      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-    }
   },
   {
     "chainId": 10,
@@ -335,14 +292,6 @@
     "symbol": "ZINU",
     "decimals": 18,
     "logoURI": "https://zipswap.fi/data/logos/inu_icon.png"
-  },
-  {
-    "chainId": 10,
-    "address": "0x18172F6604136041F603270790A437342B9ba57F",
-    "name": "Kratos",
-    "symbol": "Kratos",
-    "decimals": 9,
-    "logoURI": "https://zipswap.fi/data/logos/kratos.webp"
   },
   {
     "chainId": 10,

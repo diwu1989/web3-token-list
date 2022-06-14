@@ -448,14 +448,6 @@
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cREAL.png"
     },
     {
-        "address": "0xEadf4A7168A82D30Ba0619e64d5BCf5B30B45226",
-        "name": "Poof USD",
-        "symbol": "pUSD",
-        "chainId": 42220,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pUSD.png"
-    },
-    {
         "address": "0x035eE610693a29Cb77fD6eFBEb9d9d278703e145",
         "name": "TrueFeedBack DEPRECATED",
         "symbol": "TFBXxOLD",
@@ -611,14 +603,6 @@
         "address": "0x091733f0245A4395d8BfE42C74A619328269F12F",
         "name": "KnoxDAO",
         "symbol": "KNOX",
-        "chainId": 42220,
-        "decimals": 18,
-        "logoURI": ""
-    },
-    {
-        "address": "0x0631DD22cd83508f50ea11e1CAE82801Bb9904aC",
-        "name": "Cellular Finance Token",
-        "symbol": "CELL",
         "chainId": 42220,
         "decimals": 18,
         "logoURI": ""

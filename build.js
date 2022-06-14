@@ -86,7 +86,7 @@ async function isTokenFresh(erc20Contract, latestBlock, lookBackBlocks) {
 // filter for tokens that have had a transfer within recent blocks
 async function filterFreshTokens(chainId, tokens, lookBackBlocks) {
     // number of blocks to look back to find transfers, ~6 days
-    lookBackBlocks = lookBackBlocks || (chainId == 10 ? 1_000_000 : 100_000)
+    lookBackBlocks = lookBackBlocks || (chainId == 10 ? 500_000 : 100_000)
     const rpcUrl = RPC_URL[chainId]
     if (!rpcUrl) {
         // no rpc defined
@@ -168,8 +168,12 @@ async function generate(chainId) {
     return combined
 }
 
-async function run() {
+async function run(networkId) {
     for (const chainId in TOKEN_LIST) {
+        if (networkId && chainId !== networkId) {
+            console.info(`skipping chain ${chainId}`)
+            continue
+        }
         const tokens = await generate(chainId)
         const outputFile = `./build/${chainId}-tokens.json`
         fs.writeFileSync(outputFile, JSON.stringify(tokens, null, 2))
@@ -183,4 +187,6 @@ async function run() {
     }
     process.exit(0)
 }
-run()
+
+const networkId = process.argv[2]
+run(networkId)

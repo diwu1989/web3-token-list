@@ -176,6 +176,22 @@
     "logoURI": "https://assets.coingecko.com/coins/images/13547/small/BAO.png"
   },
   {
+    "name": "Base Protocol on xDai",
+    "address": "0x699D001ef13B15335193bC5FAd6CFC6747eeE8BE",
+    "symbol": "BASE",
+    "decimals": 9,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/baseprotocol_32.png"
+  },
+  {
+    "name": "Basic Attention Token on xDai",
+    "address": "0xC6cC63f4AA25BBD4453eB5F3a0DfE546feF9b2f3",
+    "symbol": "BAT",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/bat.png"
+  },
+  {
     "name": "BarnBridge",
     "address": "0xb31a2595E4Cf66EfBC1Fe348b1429E5730891382",
     "symbol": "BOND",
@@ -198,6 +214,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://assets.coingecko.com/coins/images/10775/small/COMP.png"
+  },
+  {
+    "name": "Cream on xDai",
+    "address": "0x1939D3431CF0E44B1d63b86e2cE489E5a341B1Bf",
+    "symbol": "CREAM",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/CreamFinance_32.png"
   },
   {
     "name": "Dai Stablecoin on xDai",
@@ -304,6 +328,14 @@
     "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/wiki/master/images/Particle.png"
   },
   {
+    "name": "Rarible on xDai",
+    "address": "0x4bE85ACC1cd711F403dC7BdE9e6caDfC5A94744b",
+    "symbol": "RARI",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/rarible_32.png"
+  },
+  {
     "name": "renBTC on xDai",
     "address": "0x4A88248BAa5b39bB4A9CAa697Fb7f8ae0C3f0ddB",
     "symbol": "renBTC",
@@ -312,12 +344,28 @@
     "logoURI": "https://etherscan.io/token/images/renbtc_32.png"
   },
   {
+    "name": "Rocket Pool on xDai",
+    "address": "0x2F0E755Efe6b58238A67DB420Ff3513Ec1fb31eF",
+    "symbol": "RPL",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/Rocketpool_32.png"
+  },
+  {
     "name": "Synth sETH on xDai",
     "address": "0x8F365b41B98Fe84aCB287540b4B4AB633e07EDb2",
     "symbol": "SETH",
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/SynthetixsETH_32.png"
+  },
+  {
+    "name": "Unisocks",
+    "address": "0x35f346Cb4149746272974a92d719Fd48ae2F72FA",
+    "symbol": "SOCKS",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/10717/small/qFrcoiM.png"
   },
   {
     "name": "Synthetix Network Token on xDai",
