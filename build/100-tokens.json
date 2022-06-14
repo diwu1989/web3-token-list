@@ -576,6 +576,14 @@
   },
   {
     "chainId": 100,
+    "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+    "name": "Mai Finance",
+    "decimals": 18,
+    "symbol": "MAI",
+    "logoURI": "https://www.mai.finance/mai-logo.svg"
+  },
+  {
+    "chainId": 100,
     "address": "0x481D6104761442F162d1f7AC3DC6F98896e7A4ef",
     "name": "Moon Rock",
     "decimals": 18,
