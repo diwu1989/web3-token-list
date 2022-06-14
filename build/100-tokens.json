@@ -693,5 +693,61 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://affinityharmonics.s3.ca-central-1.amazonaws.com/Cloud/rare-logo.png"
+  },
+  {
+    "name": "Agave interest bearing WXDAI",
+    "address": "0xd4e420bBf00b0F409188b338c5D87Df761d6C894",
+    "symbol": "agWXDAI",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": ""
+  },
+  {
+    "name": "Agave interest bearing WETH",
+    "address": "0x44932e3b1E662AdDE2F7bac6D5081C5adab908c6",
+    "symbol": "agWETH",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": ""
+  },
+  {
+    "name": "Agave interest bearing USDC",
+    "address": "0x291B5957c9CBe9Ca6f0b98281594b4eB495F4ec1",
+    "symbol": "agUSDC",
+    "decimals": 6,
+    "chainId": 100,
+    "logoURI": ""
+  },
+  {
+    "name": "Agave interest bearing GNO",
+    "address": "0xA26783eAd6C1f4744685c14079950622674ae8A8",
+    "symbol": "agGNO",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": ""
+  },
+  {
+    "name": "Agave interest bearing WBTC",
+    "address": "0x4863cfaF3392F20531aa72CE19E5783f489817d6",
+    "symbol": "agWBTC",
+    "decimals": 8,
+    "chainId": 100,
+    "logoURI": ""
+  },
+  {
+    "name": "Agave interest bearing LINK",
+    "address": "0xa286Ce70FB3a6269676c8d99BD9860DE212252Ef",
+    "symbol": "agLINK",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": ""
+  },
+  {
+    "name": "Agave interest bearing FOX",
+    "address": "0xA916A4891D80494c6cB0B49b11FD68238AAaF617",
+    "symbol": "agFOX",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": ""
   }
 ]
