@@ -35,6 +35,7 @@ const TOKEN_LIST = {
         'https://raw.githubusercontent.com/sushiswap/list/master/lists/token-lists/default-token-list/tokens/xdai.json',
         'https://raw.githubusercontent.com/sushiswap/default-token-list/master/tokens/xdai.json',
         'https://raw.githubusercontent.com/baofinance/tokenlists/main/xdai.json',
+        'https://ipfs.io/ipfs/QmUWnK6AFHZ3S1hR7Up1h3Ntax3fP1ZyiTptDNG2cWLTeK', // DXSwap
     ],
     // optimism
     10: [
