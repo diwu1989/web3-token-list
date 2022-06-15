@@ -711,14 +711,6 @@
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x55296f69f40Ea6d20E478533C15A6B08B654E758/logo.png"
     },
     {
-        "name": "VitaDAO from Mainnet",
-        "address": "0x0939a7c3f8d37c1ce67fada4963ae7e0bd112ff3",
-        "symbol": "VITA",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://raw.githubusercontent.com/VitaDAO/assets/master/vitadao-icon.png"
-    },
-    {
         "name": "Project Serum",
         "address": "0x3AE8c08cD61d05ad6e22973E4b675A92D412EE3C",
         "symbol": "SRM",
