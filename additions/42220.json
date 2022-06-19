@@ -94,5 +94,13 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": ""
+   },
+   {
+      "address": "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd",
+      "chainId": 42220,
+      "decimals": 6,
+      "symbol": "wUSDC",
+      "name": "USD Coin (Wormhole)",
+      "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.svg?v=013"
    }
 ]
