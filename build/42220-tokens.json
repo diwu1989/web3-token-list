@@ -1,19 +1,19 @@
 [
   {
     "address": "0x2DEf4285787d58a2f811AF24755A8150622f4361",
-    "name": "wrapped.com Ethereum",
-    "symbol": "cETH",
     "chainId": 42220,
+    "name": "Wrapped Ether",
+    "symbol": "cETH",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cETH.svg"
+    "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_cETH.svg"
   },
   {
     "address": "0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC",
+    "chainId": 42220,
     "name": "Ubeswap",
     "symbol": "UBE",
-    "chainId": 42220,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_UBE.png"
+    "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/celo/assets/0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC/logo.png"
   },
   {
     "address": "0x1a8Dbe5958c597a744Ba51763AbEBD3355996c3e",
@@ -41,11 +41,11 @@
   },
   {
     "address": "0x471EcE3750Da237f93B8E339c536989b8978a438",
+    "chainId": 42220,
     "name": "Celo",
     "symbol": "CELO",
-    "chainId": 42220,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_CELO.png"
+    "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/celo/assets/0x471EcE3750Da237f93B8E339c536989b8978a438/logo.png"
   },
   {
     "address": "0x64dEFa3544c695db8c535D289d843a189aa26b98",
@@ -65,11 +65,11 @@
   },
   {
     "address": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
+    "chainId": 42220,
     "name": "Celo Dollar",
     "symbol": "cUSD",
-    "chainId": 42220,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cUSD.png"
+    "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/celo/assets/0x765DE816845861e75A25fCA122bb6898B8B1282a/logo.png"
   },
   {
     "address": "0x832F03bCeE999a577cb592948983E35C048B5Aa4",
@@ -89,19 +89,19 @@
   },
   {
     "address": "0xD629eb00dEced2a080B7EC630eF6aC117e614f1b",
-    "name": "wrapped.com Bitcoin",
-    "symbol": "cBTC",
     "chainId": 42220,
+    "name": "Wrapped Bitcoin",
+    "symbol": "cBTC",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cBTC.png"
+    "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_cBTC.png"
   },
   {
     "address": "0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73",
+    "chainId": 42220,
     "name": "Celo Euro",
     "symbol": "cEUR",
-    "chainId": 42220,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cEUR.png"
+    "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/celo/assets/0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73/logo.png"
   },
   {
     "address": "0xD15EC721C2A896512Ad29C671997DD68f9593226",
@@ -113,11 +113,11 @@
   },
   {
     "address": "0xE919F65739c26a42616b7b8eedC6b5524d1e3aC4",
-    "name": "Optics v1 WETH",
-    "symbol": "WETHxV1",
     "chainId": 42220,
+    "name": "Optics WETH",
+    "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WETH.png"
+    "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_WETH.png"
   },
   {
     "address": "0xE4fE50cdD716522A56204352f00AA110F731932d",
@@ -129,11 +129,11 @@
   },
   {
     "address": "0x2A3684e9Dc20B857375EA04235F2F7edBe818FA7",
-    "name": "Optics v1 USDC",
-    "symbol": "USDCxV1",
-    "decimals": 6,
     "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_USDC.png"
+    "name": "Optics USDC",
+    "symbol": "USDC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_USDC.png"
   },
   {
     "address": "0xb020D981420744F6b0FedD22bB67cd37Ce18a1d5",
@@ -145,11 +145,11 @@
   },
   {
     "address": "0xBe50a3013A1c94768A1ABb78c3cB79AB28fc1aCE",
-    "name": "Optics v1 WBTC",
-    "symbol": "WBTCxV1",
-    "decimals": 8,
     "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WBTC.png"
+    "name": "Optics WBTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_WBTC.png"
   },
   {
     "name": "Beefy Finance",
@@ -169,26 +169,26 @@
   },
   {
     "address": "0x29dFce9c22003A4999930382Fd00f9Fd6133Acd1",
+    "chainId": 42220,
     "name": "Optics v2 SUSHI",
     "symbol": "SUSHI",
-    "chainId": 42220,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SUSHI.png"
   },
   {
     "address": "0x122013fd7dF1C6F636a5bb8f03108E876548b455",
-    "name": "Optics v2 WETH",
-    "symbol": "WETH",
     "chainId": 42220,
+    "name": "Optics v2 WETH",
+    "symbol": "WETHv2",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WETH.png"
   },
   {
     "address": "0xBAAB46E28388d2779e6E31Fd00cF0e5Ad95E327B",
-    "name": "Optics v2 WBTC",
-    "symbol": "WBTC",
-    "decimals": 8,
     "chainId": 42220,
+    "name": "Optics v2 WBTC",
+    "symbol": "WBTCv2",
+    "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WBTC.png"
   },
   {
@@ -225,19 +225,19 @@
   },
   {
     "address": "0x73a210637f6F6B7005512677Ba6B3C96bb4AA44B",
+    "chainId": 42220,
     "name": "Mobius DAO Token",
     "symbol": "MOBI",
-    "chainId": 42220,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_MOBI.png"
+    "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_MOBI.png"
   },
   {
     "address": "0x46c9757C5497c5B1f2eb73aE79b6B67D119B0B58",
+    "chainId": 42220,
     "name": "impactMarket",
     "symbol": "PACT",
-    "chainId": 42220,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_PACT.png"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16260.png"
   },
   {
     "address": "0x74c0C58B99b68cF16A717279AC2d056A34ba2bFe",
@@ -249,11 +249,11 @@
   },
   {
     "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
-    "name": "Poof",
-    "symbol": "POOF",
     "chainId": 42220,
+    "name": "PoofCash",
+    "symbol": "POOF",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_POOF.png"
+    "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_POOF.png"
   },
   {
     "address": "0x0a60c25Ef6021fC3B479914E6bcA7C03c18A97f1",
@@ -281,17 +281,17 @@
   },
   {
     "address": "0x17700282592D6917F6A73D0bF8AcCf4D578c131e",
+    "chainId": 42220,
     "name": "Moola",
     "symbol": "MOO",
-    "chainId": 42220,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_MOO.png"
+    "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_MOO.png"
   },
   {
     "address": "0x20677d4f3d0F08e735aB512393524A3CfCEb250C",
+    "chainId": 42220,
     "name": "Ariswap",
     "symbol": "ARI",
-    "chainId": 42220,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_ARI.png"
   },
@@ -328,6 +328,14 @@
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SBR.png"
   },
   {
+    "address": "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207",
+    "name": "Portal Ether",
+    "symbol": "ETH",
+    "chainId": 42220,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_ETH.png"
+  },
+  {
     "address": "0x6e512BFC33be36F2666754E996ff103AD1680Cc9",
     "name": "Allbridge",
     "symbol": "ABR",
@@ -353,11 +361,11 @@
   },
   {
     "address": "0x8427bD503dd3169cCC9aFF7326c15258Bc305478",
-    "name": "Symmetric",
-    "symbol": "SYMM",
     "chainId": 42220,
+    "name": "Symmetric Optics v2",
+    "symbol": "SYMMv2",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SYMM.png"
+    "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x57dB3FfCa78dBbE0eFa0EC745D55f62aa0Cbd345/logo.png"
   },
   {
     "address": "0x8E3670FD7B0935d3FE832711deBFE13BB689b690",
@@ -369,11 +377,11 @@
   },
   {
     "address": "0x918146359264C492BD6934071c6Bd31C854EDBc3",
-    "name": "Moola cUSD",
-    "symbol": "mcUSD",
     "chainId": 42220,
+    "name": "Moola interest bearing CUSD",
+    "symbol": "mCUSD",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcUSD.png"
+    "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_mcUSD.png"
   },
   {
     "address": "0x94140c2eA9D208D8476cA4E3045254169791C59e",
@@ -385,11 +393,19 @@
   },
   {
     "address": "0x9802d866fdE4563d088a6619F7CeF82C0B991A55",
-    "name": "Moola cREAL",
-    "symbol": "mcREAL",
+    "chainId": 42220,
+    "name": "Moola interest bearing CREAL",
+    "symbol": "mCREAL",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13021.png"
+  },
+  {
+    "address": "0xA287A3722c367849eFA5c76e96BE36efd65C290e",
+    "name": "Celo DeFi Index",
+    "symbol": "cDEFI",
     "chainId": 42220,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcREAL.png"
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cDEFI.png"
   },
   {
     "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
@@ -401,11 +417,11 @@
   },
   {
     "address": "0xa81D9a2d29373777E4082d588958678a6Df5645c",
+    "chainId": 42220,
     "name": "KnoxEdge",
     "symbol": "KNX",
-    "chainId": 42220,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_KNX.png"
+    "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_KNX.png"
   },
   {
     "address": "0xbDd31EFfb9E9f7509fEaAc5B4091b31645A47e4b",
@@ -425,9 +441,9 @@
   },
   {
     "address": "0xE273Ad7ee11dCfAA87383aD5977EE1504aC07568",
+    "chainId": 42220,
     "name": "Moola cEUR",
     "symbol": "mcEUR",
-    "chainId": 42220,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcEUR.png"
   },
@@ -441,9 +457,9 @@
   },
   {
     "address": "0xe8537a3d056DA446677B9E9d6c5dB704EaAb4787",
+    "chainId": 42220,
     "name": "Celo Real",
     "symbol": "cREAL",
-    "chainId": 42220,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cREAL.png"
   },
@@ -505,11 +521,11 @@
   },
   {
     "address": "0x7c64aD5F9804458B8c9F93f7300c15D55956Ac2a",
-    "name": "Symmetric DEPRECATED",
-    "symbol": "SYMMxOLD",
     "chainId": 42220,
+    "name": "Symmetric Optics v1",
+    "symbol": "SYMMv1",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SYMMxOLD.png"
+    "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x57dB3FfCa78dBbE0eFa0EC745D55f62aa0Cbd345/logo.png"
   },
   {
     "address": "0x93DB49bE12B864019dA9Cb147ba75cDC0506190e",
@@ -566,6 +582,22 @@
     "chainId": 42220,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pCELO.png"
+  },
+  {
+    "address": "0x5d6b088DadD5DA64B7CDBE44340f0dD72364d7a1",
+    "chainId": 42220,
+    "name": "Wrapped Ether",
+    "symbol": "wEth",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_cETH.svg"
+  },
+  {
+    "address": "0x2C98Ebada737f6f75B410c0eaa66A19B110796b5",
+    "chainId": 42220,
+    "name": "Prime",
+    "symbol": "D2D",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/celo/assets/0x2C98Ebada737f6f75B410c0eaa66A19B110796b5/logo.png"
   },
   {
     "address": "0xC7144Fa865c9f3a6836167A51531A2CC8b0ab5fD",

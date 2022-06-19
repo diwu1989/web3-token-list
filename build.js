@@ -18,6 +18,7 @@ const TOKEN_LIST = {
         'https://raw.githubusercontent.com/sushiswap/default-token-list/master/tokens/celo.json',
         'https://raw.githubusercontent.com/Ubeswap/default-token-list/master/ubeswap.token-list.json',
         'https://raw.githubusercontent.com/Ubeswap/default-token-list/master/ubeswap-experimental.token-list.json',
+        'https://raw.githubusercontent.com/centfinance/Symmetric.WebInterface-v2/symmetric-v2/src/data/listed.tokenlist.json',
     ],
     44787: [
         'https://raw.githubusercontent.com/Ubeswap/default-token-list/master/ubeswap-experimental.token-list.json',
@@ -36,6 +37,7 @@ const TOKEN_LIST = {
         'https://raw.githubusercontent.com/sushiswap/default-token-list/master/tokens/xdai.json',
         'https://raw.githubusercontent.com/baofinance/tokenlists/main/xdai.json',
         'https://ipfs.io/ipfs/QmUWnK6AFHZ3S1hR7Up1h3Ntax3fP1ZyiTptDNG2cWLTeK', // DXSwap
+        'https://raw.githubusercontent.com/centfinance/Symmetric.WebInterface-v2/symmetric-v2/src/data/listed.tokenlist.json',
     ],
     // optimism
     10: [
