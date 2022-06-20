@@ -8,14 +8,6 @@
       "logoURI": ""
    },
    {
-      "address": "0x6e512BFC33be36F2666754E996ff103AD1680Cc9",
-      "name": "Allbridge",
-      "symbol": "ABR",
-      "chainId": 42220,
-      "decimals": 18,
-      "logoURI": ""
-   },
-   {
       "address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
       "name": "Avalanche",
       "symbol": "AVAX",
@@ -48,25 +40,9 @@
       "logoURI": "https://raw.githubusercontent.com/kyscott18/default-token-list/master/assets/asset_UST.png"
    },
    {
-      "address": "0x8427bD503dd3169cCC9aFF7326c15258Bc305478",
-      "name": "Symmetric V2",
-      "symbol": "SYMMv2",
-      "chainId": 42220,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SYMM.png"
-   },
-   {
       "address": "0x37191488FbEe23652eC7794Cfb81020528968C7d",
       "name": "cTOKEN",
       "symbol": "cTOKEN",
-      "chainId": 42220,
-      "decimals": 18,
-      "logoURI": ""
-   },
-   {
-      "address": "0x503681c68f03bbbCe48005DCD7b83ae8D4fD745C",
-      "name": "Aave Token",
-      "symbol": "AAVE",
       "chainId": 42220,
       "decimals": 18,
       "logoURI": ""
@@ -102,5 +78,13 @@
       "symbol": "wUSDC",
       "name": "USD Coin (Wormhole)",
       "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.svg?v=013"
+   },
+   {
+      "address": "0x2A3684e9Dc20B857375EA04235F2F7edBe818FA7",
+      "chainId": 42220,
+      "name": "Optics USDC",
+      "symbol": "USDCxV1",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_USDC.png"
    }
 ]

@@ -152,9 +152,7 @@ async function generate(chainId) {
 
     for (const token of additions) {
         token.address = utils.toChecksumAddress(token.address)
-        if (!seen[token.address]) {
-            seen[token.address] = token
-        }
+        seen[token.address] = token
     }
 
     for (const token of removals) {

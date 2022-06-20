@@ -131,8 +131,8 @@
     "address": "0x2A3684e9Dc20B857375EA04235F2F7edBe818FA7",
     "chainId": 42220,
     "name": "Optics USDC",
-    "symbol": "USDC",
-    "decimals": 18,
+    "symbol": "USDCxV1",
+    "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_USDC.png"
   },
   {
