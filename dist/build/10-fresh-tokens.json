@@ -136,14 +136,6 @@
         "symbol": "rETH"
     },
     {
-        "address": "0x00F932F0FE257456b32dedA4758922E56A4F4b42",
-        "chainId": 10,
-        "decimals": 18,
-        "logoURI": "https://ethereum-optimism.github.io/logos/PAPER.svg",
-        "name": "Paper",
-        "symbol": "PAPER"
-    },
-    {
         "address": "0x5029C236320b8f15eF0a657054B84d90bfBEDED3",
         "chainId": 10,
         "decimals": 18,
@@ -158,14 +150,6 @@
         "logoURI": "https://ethereum-optimism.github.io/logos/LYRA.png",
         "name": "Lyra",
         "symbol": "LYRA"
-    },
-    {
-        "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
-        "chainId": 10,
-        "decimals": 18,
-        "logoURI": "https://ethereum-optimism.github.io/logos/UMA.png",
-        "name": "UMA Voting Token v1",
-        "symbol": "UMA"
     },
     {
         "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
@@ -284,12 +268,12 @@
         }
     },
     {
-        "chainId": 10,
         "address": "0x4200000000000000000000000000000000000042",
         "name": "Optimism",
         "symbol": "OP",
+        "chainId": 10,
         "decimals": 18,
-        "logoURI": "https://ethereum-optimism.github.io/logos/optimism.svg"
+        "logoURI": "https://optimistic.etherscan.io/token/images/optimism_32.png"
     },
     {
         "chainId": 10,

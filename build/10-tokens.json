@@ -372,12 +372,12 @@
     }
   },
   {
-    "chainId": 10,
     "address": "0x4200000000000000000000000000000000000042",
     "name": "Optimism",
     "symbol": "OP",
+    "chainId": 10,
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/optimism.svg"
+    "logoURI": "https://optimistic.etherscan.io/token/images/optimism_32.png"
   },
   {
     "chainId": 10,

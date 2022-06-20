@@ -35,7 +35,7 @@
         "address": "0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75",
         "chainId": 100,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/xdai/0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75.jpg",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75/logo.png",
         "name": "Giveth from Mainnet",
         "symbol": "GIV"
     },
@@ -279,12 +279,12 @@
         "logoURI": "https://assets.coingecko.com/coins/images/12407/small/Unknown-5.png"
     },
     {
-        "address": "0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9",
-        "chainId": 100,
         "name": "Honey",
+        "address": "0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9",
         "symbol": "HNY",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/xdai/assets/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png"
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png"
     },
     {
         "name": "Huobi USD",
@@ -527,11 +527,11 @@
         "logoURI": "https://etherscan.io/token/images/zrx_28.png?v=3"
     },
     {
-        "chainId": 100,
+        "name": "BUSD Token from BSC",
         "address": "0xdd96B45877d0E8361a4DDb732da741e97f3191Ff",
-        "name": "BUSD Token on xDai",
-        "decimals": 18,
         "symbol": "BUSD",
+        "decimals": 18,
+        "chainId": 100,
         "logoURI": "https://bscscan.com/token/images/busd_32.png"
     },
     {
@@ -607,12 +607,12 @@
         "logoURI": "ipfs://QmWF6nPb4y2DehfGRzKGaekXQzShSQ11uzMNmxsLJQxBUQ"
     },
     {
-        "chainId": 100,
         "address": "0x0116e28B43A358162B96f70B4De14C98A4465f25",
-        "name": "UniCrypt on xDai",
+        "chainId": 100,
         "decimals": 18,
-        "symbol": "UNCX",
-        "logoURI": "https://etherscan.io/token/images/UniCrypt_32.png"
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x0116e28B43A358162B96f70B4De14C98A4465f25/logo.png",
+        "name": "UniCrypt on xDai",
+        "symbol": "UNCX"
     },
     {
         "address": "0x2bF2ba13735160624a0fEaE98f6aC8F70885eA61",
@@ -631,12 +631,12 @@
         "logoURI": "https://minerva.digital/i/MIVA-Token.svg"
     },
     {
-        "address": "0xC45b3C1c24d5F54E7a2cF288ac668c74Dd507a84",
-        "chainId": 100,
         "name": "Symmetric",
+        "address": "0xC45b3C1c24d5F54E7a2cF288ac668c74Dd507a84",
         "symbol": "SYMM",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x57dB3FfCa78dBbE0eFa0EC745D55f62aa0Cbd345/logo.png"
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/symmetricfinance_32.png"
     },
     {
         "address": "0x1698cD22278ef6E7c0DF45a8dEA72EDbeA9E42aa",
