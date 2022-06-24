@@ -264,14 +264,6 @@
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_stabilUSD.png"
   },
   {
-    "address": "0x123ED050805E0998EBEf43671327139224218e50",
-    "name": "NetM Token",
-    "symbol": "NTMX",
-    "chainId": 42220,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_NTMX.png"
-  },
-  {
     "address": "0x173234922eB27d5138c5e481be9dF5261fAeD450",
     "name": "Allbridge SOL",
     "symbol": "SOL",
@@ -401,11 +393,11 @@
   },
   {
     "address": "0xA287A3722c367849eFA5c76e96BE36efd65C290e",
-    "name": "Celo DeFi Index",
-    "symbol": "cDEFI",
     "chainId": 42220,
+    "name": "Celo Defi Index",
+    "symbol": "cDEFI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cDEFI.png"
+    "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/celo/assets/0xA287A3722c367849eFA5c76e96BE36efd65C290e/logo.png"
   },
   {
     "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
@@ -512,14 +504,6 @@
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_AAVE.png"
   },
   {
-    "address": "0x56072D4832642dB29225dA12d6Fd1290E4744682",
-    "name": "Poof v1 EUR",
-    "symbol": "pEURxV1",
-    "chainId": 42220,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pEUR.png"
-  },
-  {
     "address": "0x7c64aD5F9804458B8c9F93f7300c15D55956Ac2a",
     "chainId": 42220,
     "name": "Symmetric Optics v1",
@@ -584,6 +568,14 @@
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pCELO.png"
   },
   {
+    "address": "0x2C98Ebada737f6f75B410c0eaa66A19B110796b5",
+    "chainId": 42220,
+    "name": "Prime",
+    "symbol": "D2D",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/celo/assets/0x2C98Ebada737f6f75B410c0eaa66A19B110796b5/logo.png"
+  },
+  {
     "address": "0xC7144Fa865c9f3a6836167A51531A2CC8b0ab5fD",
     "name": "CeloDex.org",
     "symbol": "CLX",
@@ -627,6 +619,14 @@
     "address": "0x091733f0245A4395d8BfE42C74A619328269F12F",
     "name": "KnoxDAO",
     "symbol": "KNOX",
+    "chainId": 42220,
+    "decimals": 18,
+    "logoURI": ""
+  },
+  {
+    "address": "0x0631DD22cd83508f50ea11e1CAE82801Bb9904aC",
+    "name": "Cellular Finance Token",
+    "symbol": "CELL",
     "chainId": 42220,
     "decimals": 18,
     "logoURI": ""

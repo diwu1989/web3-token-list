@@ -401,11 +401,11 @@
     },
     {
         "address": "0xA287A3722c367849eFA5c76e96BE36efd65C290e",
-        "name": "Celo DeFi Index",
-        "symbol": "cDEFI",
         "chainId": 42220,
+        "name": "Celo Defi Index",
+        "symbol": "cDEFI",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cDEFI.png"
+        "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/celo/assets/0xA287A3722c367849eFA5c76e96BE36efd65C290e/logo.png"
     },
     {
         "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",

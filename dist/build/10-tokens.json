@@ -267,6 +267,14 @@
         "symbol": "LIZ"
     },
     {
+        "chainId": 10,
+        "address": "0x61BAADcF22d2565B0F471b291C475db5555e0b76",
+        "name": "Aelin Protocol",
+        "symbol": "AELIN",
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/logos/AELIN.png"
+    },
+    {
         "address": "0x3390108E913824B8eaD638444cc52B9aBdF63798",
         "chainId": 10,
         "decimals": 18,
@@ -385,7 +393,7 @@
         "name": "Dola USD Stablecoin",
         "symbol": "DOLA",
         "decimals": 18,
-        "logoURI": ""
+        "logoURI": "https://docs.velodrome.finance/tokens/DOLA.png"
     },
     {
         "chainId": 10,

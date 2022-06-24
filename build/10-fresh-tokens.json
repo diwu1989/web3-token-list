@@ -136,12 +136,28 @@
     "symbol": "rETH"
   },
   {
+    "address": "0x00F932F0FE257456b32dedA4758922E56A4F4b42",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/PAPER.svg",
+    "name": "Paper",
+    "symbol": "PAPER"
+  },
+  {
     "address": "0x5029C236320b8f15eF0a657054B84d90bfBEDED3",
     "chainId": 10,
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/logos/BitANT.png",
     "name": "BitANT",
     "symbol": "BitANT"
+  },
+  {
+    "address": "0xc98B98d17435AA00830c87eA02474C5007E1f272",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/BitBTC.png",
+    "name": "BitBTC",
+    "symbol": "BitBTC"
   },
   {
     "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
@@ -185,14 +201,11 @@
   },
   {
     "chainId": 10,
-    "address": "0xab7bAdEF82E9Fe11f6f33f87BC9bC2AA27F2fCB5",
-    "name": "Maker",
-    "symbol": "MKR",
+    "address": "0x61BAADcF22d2565B0F471b291C475db5555e0b76",
+    "name": "Aelin Protocol",
+    "symbol": "AELIN",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/MKR.png",
-    "extensions": {
-      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-    }
+    "logoURI": "https://ethereum-optimism.github.io/logos/AELIN.png"
   },
   {
     "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
@@ -236,17 +249,6 @@
   },
   {
     "chainId": 10,
-    "address": "0x117cFd9060525452db4A34d51c0b3b7599087f05",
-    "name": "Geyser",
-    "symbol": "GYSR",
-    "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/GYSR.png",
-    "extensions": {
-      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-    }
-  },
-  {
-    "chainId": 10,
     "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
     "name": "Balancer",
     "symbol": "BAL",
@@ -281,7 +283,7 @@
     "name": "Dola USD Stablecoin",
     "symbol": "DOLA",
     "decimals": 18,
-    "logoURI": ""
+    "logoURI": "https://docs.velodrome.finance/tokens/DOLA.png"
   },
   {
     "chainId": 10,
@@ -322,14 +324,6 @@
     "symbol": "gOHM",
     "decimals": 18,
     "logoURI": "https://data.zipswap.fi/logos/gOHM.jpg"
-  },
-  {
-    "chainId": 10,
-    "address": "0x18607aDc70d68E196D12019d49b0607b99312853",
-    "name": "Pegasus Token",
-    "symbol": "PEGA",
-    "decimals": 9,
-    "logoURI": "https://data.zipswap.fi/logos/PEGA.jpg"
   },
   {
     "chainId": 10,
