@@ -136,6 +136,14 @@
     "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/xdai/assets/0x3a97704a1b25f08aa230ae53b352e2e72ef52843/logo.png"
   },
   {
+    "name": "Axie Infinity",
+    "address": "0xBDE011911128F6bD4ABb1d18F39fdc3614Ca2cfe",
+    "symbol": "AXS",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/13029/small/axie_infinity_logo.png"
+  },
+  {
     "name": "Badger on xDai",
     "address": "0xdfc20AE04ED70bd9c7D720F449eEDAe19F659D65",
     "symbol": "BADGER",
@@ -176,12 +184,12 @@
     "logoURI": "https://etherscan.io/token/images/bat.png"
   },
   {
-    "name": "Bancor Network Token on xDai",
-    "address": "0x9a495a281D959192343B0e007284bf130bd05F86",
-    "symbol": "BNT",
-    "decimals": 18,
+    "name": "Celsius on xDai",
+    "address": "0x0aCD91f92Fe07606ab51EA97d8521E29D110fD09",
+    "symbol": "CEL",
+    "decimals": 4,
     "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/bancor_32.png"
+    "logoURI": "https://etherscan.io/token/images/celsiustoken1_28.png"
   },
   {
     "chainId": 100,
@@ -311,14 +319,6 @@
     "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/wiki/master/images/Particle.png"
   },
   {
-    "name": "Rarible on xDai",
-    "address": "0x4bE85ACC1cd711F403dC7BdE9e6caDfC5A94744b",
-    "symbol": "RARI",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/rarible_32.png"
-  },
-  {
     "chainId": 100,
     "address": "0x4A88248BAa5b39bB4A9CAa697Fb7f8ae0C3f0ddB",
     "name": "renBTC on xDai",
@@ -327,12 +327,12 @@
     "logoURI": "https://etherscan.io/token/images/renbtc_32.png"
   },
   {
-    "name": "Rocket Pool on xDai",
-    "address": "0x2F0E755Efe6b58238A67DB420Ff3513Ec1fb31eF",
-    "symbol": "RPL",
-    "decimals": 18,
+    "name": "renZEC on xDai",
+    "address": "0x5F2852AFd20C39849f6f56F4102b8c29Ee141ADD",
+    "symbol": "renZEC",
+    "decimals": 8,
     "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/Rocketpool_32.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1C5db575E2Ff833E46a2E9864C22F4B22E0B37C2/logo.png"
   },
   {
     "name": "Synth sETH on xDai",

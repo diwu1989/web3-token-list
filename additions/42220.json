@@ -86,5 +86,13 @@
       "symbol": "USDCxV1",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/centfinance/Symmetric.Assets/master/assets/asset_USDC.png"
+   },
+   {
+      "address": "0xb59b1c36e4466F19c84dD2aeCCace718b32C4B61",
+      "chainId": 42220,
+      "name": "Staked CELO",
+      "symbol": "stCELO",
+      "decimals": 18,
+      "logoURI": ""
    }
 ]

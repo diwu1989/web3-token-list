@@ -508,6 +508,14 @@
     "logoURI": "https://docs.velodrome.finance/tokens/HND.png"
   },
   {
+    "chainId": 10,
+    "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+    "name": "Mai Stablecoin",
+    "symbol": "MAI",
+    "decimals": 18,
+    "logoURI": "https://docs.velodrome.finance/tokens/MAI.svg"
+  },
+  {
     "address": "0x6F620EC89B8479e97A6985792d0c64F237566746",
     "name": "WePiggy Coin",
     "symbol": "WPC",
