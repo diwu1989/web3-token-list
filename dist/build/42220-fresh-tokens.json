@@ -552,6 +552,14 @@
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pUSD.png"
     },
     {
+        "address": "0xcFFfE0c89a779c09Df3DF5624f54cDf7EF5fDd5D",
+        "name": "Moss USDT DEPRECATED",
+        "symbol": "cUSDT",
+        "chainId": 42220,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cUSDT.png"
+    },
+    {
         "address": "0xDB452CC669D3Ae454226AbF232Fe211bAfF2a1F9",
         "name": "Duino-Coin on Celo",
         "symbol": "celoDUCO",
@@ -566,14 +574,6 @@
         "chainId": 42220,
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pCELO.png"
-    },
-    {
-        "address": "0x2C98Ebada737f6f75B410c0eaa66A19B110796b5",
-        "chainId": 42220,
-        "name": "Prime",
-        "symbol": "D2D",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/celo/assets/0x2C98Ebada737f6f75B410c0eaa66A19B110796b5/logo.png"
     },
     {
         "address": "0xC7144Fa865c9f3a6836167A51531A2CC8b0ab5fD",
@@ -619,6 +619,14 @@
         "address": "0x091733f0245A4395d8BfE42C74A619328269F12F",
         "name": "KnoxDAO",
         "symbol": "KNOX",
+        "chainId": 42220,
+        "decimals": 18,
+        "logoURI": ""
+    },
+    {
+        "address": "0x0631DD22cd83508f50ea11e1CAE82801Bb9904aC",
+        "name": "Cellular Finance Token",
+        "symbol": "CELL",
         "chainId": 42220,
         "decimals": 18,
         "logoURI": ""

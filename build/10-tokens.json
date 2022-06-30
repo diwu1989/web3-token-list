@@ -397,6 +397,17 @@
   },
   {
     "chainId": 10,
+    "address": "0xd8f365c2c85648f9B89D9f1BF72C0aE4b1C36cFD",
+    "name": "TheDAO",
+    "symbol": "TheDAO",
+    "decimals": 16,
+    "logoURI": "https://ethereum-optimism.github.io/logos/theDAO.svg",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0xb54fa166d4b88B0478f299D5854aD9B94b3fefF3",
     "name": "Arbinyan",
     "symbol": "NYAN",

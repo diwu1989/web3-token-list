@@ -48,14 +48,6 @@
         "symbol": "WBTC"
     },
     {
-        "address": "0xe0BB0D3DE8c10976511e5030cA403dBf4c25165B",
-        "chainId": 10,
-        "decimals": 8,
-        "logoURI": "https://ethereum-optimism.github.io/logos/0xBTC.png",
-        "name": "0xBitcoin",
-        "symbol": "0xBTC"
-    },
-    {
         "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
         "chainId": 10,
         "decimals": 18,
@@ -303,14 +295,6 @@
         "symbol": "ZIP",
         "decimals": 18,
         "logoURI": "https://gist.githubusercontent.com/NoNameFits/a53cb0c7b328440886cc89088bfb547a/raw/6edd2abb129fb5169c042d27f968c24470827275/favicon.png"
-    },
-    {
-        "chainId": 10,
-        "address": "0x78b1Bd624791eB8AFf5F0724Ac2c3539142108BF",
-        "name": "Zippy Inu",
-        "symbol": "ZINU",
-        "decimals": 18,
-        "logoURI": "https://zipswap.fi/data/logos/inu_icon.png"
     },
     {
         "chainId": 10,

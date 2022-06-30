@@ -327,14 +327,6 @@
         "logoURI": "https://etherscan.io/token/images/renbtc_32.png"
     },
     {
-        "name": "renZEC on xDai",
-        "address": "0x5F2852AFd20C39849f6f56F4102b8c29Ee141ADD",
-        "symbol": "renZEC",
-        "decimals": 8,
-        "chainId": 100,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1C5db575E2Ff833E46a2E9864C22F4B22E0B37C2/logo.png"
-    },
-    {
         "name": "Synth sETH on xDai",
         "address": "0x8F365b41B98Fe84aCB287540b4B4AB633e07EDb2",
         "symbol": "SETH",
