@@ -4,6 +4,7 @@ const axios = require('axios').default
 const utils = require('web3-utils')
 const { createAlchemyWeb3 } = require('@alch/alchemy-web3')
 const Promise = require('bluebird')
+const TronWeb = require('tronweb');
 const ERC20 = require('./erc20.json')
 
 const TOKEN_LIST = {
@@ -46,6 +47,10 @@ const TOKEN_LIST = {
         'https://data.zipswap.fi/tokenlist.json',
         'https://raw.githubusercontent.com/elkfinance/tokens/main/all.tokenlist.json',
         'https://docs.velodrome.finance/tokenlist.json',
+    ],
+    // tron
+    728126428: [
+        'https://list.justswap.link/justswap.json'
     ]
 }
 
@@ -141,6 +146,11 @@ async function generate(chainId) {
         }
 
         for (const token of rawTokens) {
+            if (token.address.startsWith('T')) {
+                // Deal with Tron token
+                token.address = TronWeb.address.toHex(token.address).replace('41', '0x')
+                token.chainId = parseInt(chainId)
+            }
             if (!validateToken(chainId, token)) {
                 continue
             }

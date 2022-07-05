@@ -9,6 +9,7 @@ import GnosisTokens from "./build/100-tokens.json";
 import GnosisFreshTokens from "./build/100-fresh-tokens.json";
 import OptimismTokens from "./build/10-tokens.json";
 import OptimismFreshTokens from "./build/10-fresh-tokens.json";
+import TronTokens from "./build/728126428-tokens.json";
 
 export type Token = {
     chainId: number;
@@ -38,6 +39,9 @@ export const TOKEN_LIST: Record<number | string, Token[]> = {
     // optimism
     10: OptimismTokens,
     optimism: OptimismTokens,
+    // tron
+    728126428: TronTokens,
+    tron: TronTokens,
 };
 
 export const FRESH_TOKEN_LIST: Record<number | string, Token[]> = {

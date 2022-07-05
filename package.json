@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/diwu1989/web3-token-list/issues"
   },
-  "homepage": "https://github.com/diwu1989/web3-token-list#readme"
+  "homepage": "https://github.com/diwu1989/web3-token-list#readme",
+  "dependencies": {
+    "tronweb": "^4.2.0"
+  }
 }
