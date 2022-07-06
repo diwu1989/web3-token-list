@@ -4,7 +4,7 @@ const axios = require('axios').default
 const utils = require('web3-utils')
 const { createAlchemyWeb3 } = require('@alch/alchemy-web3')
 const Promise = require('bluebird')
-const TronWeb = require('tronweb');
+const TronWeb = require('tronweb')
 const ERC20 = require('./erc20.json')
 
 const TOKEN_LIST = {
@@ -49,8 +49,9 @@ const TOKEN_LIST = {
         'https://docs.velodrome.finance/tokenlist.json',
     ],
     // tron
-    728126428: [
-        'https://list.justswap.link/justswap.json'
+    11111: [
+        'https://list.justswap.link/justswap.json',
+        'https://list.tronalliance.cc/tronalliance.json'
     ]
 }
 
