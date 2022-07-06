@@ -49,7 +49,7 @@ const TOKEN_LIST = {
         'https://docs.velodrome.finance/tokenlist.json',
     ],
     // tron
-    11111: [
+    728126428: [
         'https://list.justswap.link/justswap.json',
         'https://list.tronalliance.cc/tronalliance.json'
     ]
@@ -147,7 +147,7 @@ async function generate(chainId) {
         }
 
         for (const token of rawTokens) {
-            if (token.address.startsWith('T')) {
+            if (token.address.startsWith('T') && token.chainId == 1) {
                 // Deal with Tron token
                 token.address = TronWeb.address.toHex(token.address).replace('41', '0x')
                 token.chainId = parseInt(chainId)
