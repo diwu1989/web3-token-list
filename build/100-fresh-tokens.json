@@ -176,12 +176,12 @@
     "logoURI": "https://etherscan.io/token/images/baseprotocol_32.png"
   },
   {
-    "name": "Basic Attention Token on xDai",
-    "address": "0xC6cC63f4AA25BBD4453eB5F3a0DfE546feF9b2f3",
-    "symbol": "BAT",
+    "name": "BarnBridge",
+    "address": "0xb31a2595E4Cf66EfBC1Fe348b1429E5730891382",
+    "symbol": "BOND",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/bat.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/12811/small/barnbridge.jpg"
   },
   {
     "name": "Celsius on xDai",
@@ -349,14 +349,6 @@
     "decimals": 18,
     "symbol": "SNX",
     "logoURI": "https://assets.coingecko.com/coins/images/3406/small/SNX.png"
-  },
-  {
-    "chainId": 100,
-    "address": "0xB1950Fb2C9C0CbC8553578c67dB52Aa110A93393",
-    "name": "Synth sUSD on xDai",
-    "decimals": 18,
-    "symbol": "sUSD",
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51/logo.png"
   },
   {
     "name": "tBTC on xDai",

@@ -48,6 +48,14 @@
         "symbol": "WBTC"
     },
     {
+        "address": "0xe0BB0D3DE8c10976511e5030cA403dBf4c25165B",
+        "chainId": 10,
+        "decimals": 8,
+        "logoURI": "https://ethereum-optimism.github.io/logos/0xBTC.png",
+        "name": "0xBitcoin",
+        "symbol": "0xBTC"
+    },
+    {
         "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
         "chainId": 10,
         "decimals": 18,
@@ -112,6 +120,14 @@
         "symbol": "LUSD"
     },
     {
+        "address": "0xB548f63D4405466B36C0c0aC3318a22fDcec711a",
+        "chainId": 10,
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/logos/RGT.png",
+        "name": "Rari Governance Token",
+        "symbol": "RGT"
+    },
+    {
         "address": "0x7FB688CCf682d58f86D7e38e03f9D22e7705448B",
         "chainId": 10,
         "decimals": 18,
@@ -142,6 +158,14 @@
         "logoURI": "https://ethereum-optimism.github.io/logos/BitANT.png",
         "name": "BitANT",
         "symbol": "BitANT"
+    },
+    {
+        "address": "0xc98B98d17435AA00830c87eA02474C5007E1f272",
+        "chainId": 10,
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/logos/BitBTC.png",
+        "name": "BitBTC",
+        "symbol": "BitBTC"
     },
     {
         "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
@@ -184,6 +208,14 @@
         "symbol": "KROM"
     },
     {
+        "address": "0xAF9fE3B5cCDAe78188B1F8b9a49Da7ae9510F151",
+        "chainId": 10,
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/logos/DHT.svg",
+        "name": "dHEDGE DAO Token",
+        "symbol": "DHT"
+    },
+    {
         "chainId": 10,
         "address": "0xab7bAdEF82E9Fe11f6f33f87BC9bC2AA27F2fCB5",
         "name": "Maker",
@@ -217,14 +249,6 @@
         "logoURI": "https://ethereum-optimism.github.io/logos/spank.png",
         "name": "SPANK",
         "symbol": "SPANK"
-    },
-    {
-        "address": "0xFEaA9194F9F8c1B65429E31341a103071464907E",
-        "chainId": 10,
-        "decimals": 18,
-        "logoURI": "https://ethereum-optimism.github.io/logos/LRC.png",
-        "name": "LoopringCoin V2",
-        "symbol": "LRC"
     },
     {
         "address": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
@@ -290,19 +314,30 @@
     },
     {
         "chainId": 10,
+        "address": "0xd8f365c2c85648f9B89D9f1BF72C0aE4b1C36cFD",
+        "name": "TheDAO",
+        "symbol": "TheDAO",
+        "decimals": 16,
+        "logoURI": "https://ethereum-optimism.github.io/logos/theDAO.svg",
+        "extensions": {
+            "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+        }
+    },
+    {
+        "chainId": 10,
+        "address": "0xb54fa166d4b88B0478f299D5854aD9B94b3fefF3",
+        "name": "Arbinyan",
+        "symbol": "NYAN",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xeD3fB761414DA74b74F33e5c5a1f78104b188DfC/logo.png"
+    },
+    {
+        "chainId": 10,
         "address": "0xFA436399d0458Dbe8aB890c3441256E3E09022a8",
         "name": "Zip Token",
         "symbol": "ZIP",
         "decimals": 18,
         "logoURI": "https://gist.githubusercontent.com/NoNameFits/a53cb0c7b328440886cc89088bfb547a/raw/6edd2abb129fb5169c042d27f968c24470827275/favicon.png"
-    },
-    {
-        "chainId": 10,
-        "address": "0x18172F6604136041F603270790A437342B9ba57F",
-        "name": "Kratos",
-        "symbol": "Kratos",
-        "decimals": 9,
-        "logoURI": "https://zipswap.fi/data/logos/kratos.webp"
     },
     {
         "chainId": 10,
@@ -391,6 +426,14 @@
         "symbol": "MAI",
         "decimals": 18,
         "logoURI": "https://docs.velodrome.finance/tokens/MAI.svg"
+    },
+    {
+        "chainId": 10,
+        "address": "0x85f6583762Bc76d775eAB9A7456db344f12409F7",
+        "name": "renBTC",
+        "symbol": "RENBTC",
+        "decimals": 8,
+        "logoURI": "https://docs.velodrome.finance/tokens/renBTC.svg"
     },
     {
         "address": "0x6F620EC89B8479e97A6985792d0c64F237566746",
