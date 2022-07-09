@@ -234,189 +234,189 @@
   {
     "address": "0xa614f803B6FD780986A42c78Ec9c7f77e6DeD13C",
     "chainId": 728126428,
-    "decimals": "6",
+    "decimals": 6,
     "name": "Tether USD",
     "symbol": "USDT"
   },
   {
     "address": "0x74472E7D35395A6b5add427EEcB7F4B62AD2b071",
     "chainId": 728126428,
-    "decimals": "6",
+    "decimals": 6,
     "name": "WINK",
     "symbol": "WIN"
   },
   {
     "address": "0x834295921A488D9d42b4b3021ED1a3C39fB0f03e",
     "chainId": 728126428,
-    "decimals": "18",
+    "decimals": 18,
     "name": "JUST Stablecoin v1.0",
     "symbol": "USDJ"
   },
   {
     "address": "0x18FD0626DAF3Af02389AEf3ED87dB9C33F638ffa",
     "chainId": 728126428,
-    "decimals": "18",
+    "decimals": 18,
     "name": "JUST GOV v1.0",
     "symbol": "JST"
   },
   {
     "address": "0x6A6337aE47A09AeA0BBd4FaeB23cA94349c7b774",
     "chainId": 728126428,
-    "decimals": "6",
+    "decimals": 6,
     "name": "Wrapped BitTorrent",
     "symbol": "WBTT"
   },
   {
     "address": "0x6f0942727063149Ed97C85d7D763387658A94Fbd",
     "chainId": 728126428,
-    "decimals": "6",
+    "decimals": 6,
     "name": "FistToken",
     "symbol": "FIST"
   },
   {
     "address": "0x2967C318a01cb50EB1F5bB99943b01012AD758f1",
     "chainId": 728126428,
-    "decimals": "18",
+    "decimals": 18,
     "name": "OSK",
     "symbol": "OSK"
   },
   {
     "address": "0xcEbDE71077b830B958C8da17bcddeeB85D0BCf25",
     "chainId": 728126428,
-    "decimals": "18",
+    "decimals": 18,
     "name": "TrueUSD",
     "symbol": "TUSD"
   },
   {
     "address": "0x3Dfe637B2b9aE4190A458B5F3EfC1969afE27819",
     "chainId": 728126428,
-    "decimals": "6",
+    "decimals": 6,
     "name": "APENFT",
     "symbol": "NFT"
   },
   {
     "address": "0xb4A428ab7092c2f1395f376cE297033B3bB446C1",
     "chainId": 728126428,
-    "decimals": "18",
+    "decimals": 18,
     "name": "SUN TOKEN",
     "symbol": "SUN"
   },
   {
     "address": "0x3487b63D30B5B2C87fb7fFa8bcfADE38EAaC1abe",
     "chainId": 728126428,
-    "decimals": "6",
+    "decimals": 6,
     "name": "USD Coin",
     "symbol": "USDC"
   },
   {
     "address": "0x46a74A5874D648948BF16eC3D4F818BaeEf24217",
     "chainId": 728126428,
-    "decimals": "6",
+    "decimals": 6,
     "name": "BINLI",
     "symbol": "BINLI"
   },
   {
     "address": "0xfe4318670A089F4E17ee266653440449F01Aa481",
     "chainId": 728126428,
-    "decimals": "8",
+    "decimals": 8,
     "name": "CAVA TOKEN",
     "symbol": "CAVA"
   },
   {
     "address": "0x4f145686692a1359947FeD4A0cF7cFe2FFa13E75",
     "chainId": 728126428,
-    "decimals": "18",
+    "decimals": 18,
     "name": "Yuan Ling Coin",
     "symbol": "YLC"
   },
   {
     "address": "0x58d2dA0FfAcbbD7EEa19574ff0fC1c7A542060F9",
     "chainId": 728126428,
-    "decimals": "6",
+    "decimals": 6,
     "name": "YZS",
     "symbol": "YZS"
   },
   {
     "address": "0x608BF648C4693052b4F1f5a0C1Fe4A6B50773c08",
     "chainId": 728126428,
-    "decimals": "6",
+    "decimals": 6,
     "name": "LianGoToken",
     "symbol": "LGT"
   },
   {
     "address": "0x017C2467ed7ecB9E1DfEC1Fe03B556f9507Bb389",
     "chainId": 728126428,
-    "decimals": "18",
+    "decimals": 18,
     "name": "StarCoin",
     "symbol": "STAR"
   },
   {
     "address": "0xF2841CCCA3Ef713D8c0c64fd1B77a7B19c11D144",
     "chainId": 728126428,
-    "decimals": "18",
+    "decimals": 18,
     "name": "META Token",
     "symbol": "META"
   },
   {
     "address": "0xEc23Af8Dce5ed71aC10A25cb9372e147A2d03BBB",
     "chainId": 728126428,
-    "decimals": "18",
+    "decimals": 18,
     "name": "FST",
     "symbol": "FST"
   },
   {
     "address": "0xd3CDdbcB5d3B06e6247028f13d0344153E32c844",
     "chainId": 728126428,
-    "decimals": "6",
+    "decimals": 6,
     "name": "Noah's Ark Coin",
     "symbol": "NAC"
   },
   {
     "address": "0xe3C1C702621F4ada34Cadd9397f023CEf5510b5d",
     "chainId": 728126428,
-    "decimals": "18",
+    "decimals": 18,
     "name": "FHT",
     "symbol": "FHT"
   },
   {
     "address": "0x032017411f4663B317fE77C257d28D5cD1b26e3D",
     "chainId": 728126428,
-    "decimals": "18",
+    "decimals": 18,
     "name": "BitTorrent",
     "symbol": "BTT"
   },
   {
     "address": "0xe212e643811a260eA06237334c2Ed2f704F69FA8",
     "chainId": 728126428,
-    "decimals": "6",
+    "decimals": 6,
     "name": "Revolution",
     "symbol": "RON"
   },
   {
     "address": "0xbf44d8763c558acbae46eF5b2B23421474Dde234",
     "chainId": 728126428,
-    "decimals": "18",
+    "decimals": 18,
     "name": "FTD",
     "symbol": "FTD"
   },
   {
     "address": "0x56486760888C2769F3C4EDAC07d466036930ae3C",
     "chainId": 728126428,
-    "decimals": "6",
+    "decimals": 6,
     "name": "HX",
     "symbol": "HX"
   },
   {
     "address": "0xcDe7ee6F9eFc555532192421157a5f746BEe4F12",
     "chainId": 728126428,
-    "decimals": "14",
+    "decimals": 14,
     "name": "MCS-P",
     "symbol": "MCS-P"
   },
   {
     "address": "0xee1EfE131Ae27EA9b09c8CD4CaA17b9Ee81AF763",
     "chainId": 728126428,
-    "decimals": "6",
+    "decimals": 6,
     "name": "HCommunity",
     "symbol": "HC"
   }

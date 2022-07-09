@@ -64,14 +64,6 @@
         "logoURI": "https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
     },
     {
-        "symbol": "WETH",
-        "name": "Wrapped ETH",
-        "address": "0xeC51bAF14488eC651270ccc409Afda2818AF74F2",
-        "chainId": 728126428,
-        "decimals": 18,
-        "logoURI": "https://coin.top/production/logo/TXWkP3jLBqRGojUih1ShzNyDaN5Csnebok.png"
-    },
-    {
         "symbol": "WBTT",
         "name": "Wrapped BTT",
         "address": "0x6A6337aE47A09AeA0BBd4FaeB23cA94349c7b774",

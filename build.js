@@ -209,7 +209,7 @@ async function getTokenInfos(
         .then(({returnData}) => returnData)
     const tokenInfos = []
     for (let i = 0; i < res.length - 3; i += 3) {
-        const decimals = web3.eth.abi.decodeParameter('uint8', res[i])
+        const decimals = Number(web3.eth.abi.decodeParameter('uint8', res[i]))
         const name = web3.eth.abi.decodeParameter('string', res[i + 1])
         const symbol = web3.eth.abi.decodeParameter('string', res[i + 2])
         tokenInfos.push({
@@ -323,12 +323,13 @@ async function run(networkId) {
             continue
         }
         const tokens = await generate(chainId)
+        if (chainId === '728126428') {
+            const tronScannedTokens = await tronUniV1Scan()
+            console.log(`Fetched ${tronScannedTokens.length} tokens from Tron UniV1`)
+            tokens.push(...tronScannedTokens)
+        } 
         const outputFile = `./build/${chainId}-tokens.json`
         fs.writeFileSync(outputFile, JSON.stringify(tokens, null, 2))
-
-        if (chainId === '728126428') {
-            tokens.push(...await tronUniV1Scan())
-        } 
 
         const freshTokens = await filterFreshTokens(chainId, tokens)
         if (freshTokens.length) {
