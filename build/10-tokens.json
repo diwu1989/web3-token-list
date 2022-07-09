@@ -408,6 +408,17 @@
   },
   {
     "chainId": 10,
+    "address": "0xcB59a0A753fDB7491d5F3D794316F1adE197B21E",
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/TUSD.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0xb54fa166d4b88B0478f299D5854aD9B94b3fefF3",
     "name": "Arbinyan",
     "symbol": "NYAN",
