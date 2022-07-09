@@ -303,14 +303,6 @@
         "logoURI": "https://assets.coingecko.com/coins/images/12381/large/token_2000x2000.png?1615791204"
     },
     {
-        "name": "POA20 on xDai",
-        "address": "0x985e144EB355273c4B4D51E448B68b657F482E26",
-        "symbol": "POA20",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://1inch.exchange/assets/tokens/0x6758b7d441a9739b98552b373703d8d3d14f9e62.png"
-    },
-    {
         "name": "Particle",
         "address": "0xB5d592f85ab2D955c25720EbE6FF8D4d1E1Be300",
         "symbol": "PRTCLE",
@@ -325,6 +317,14 @@
         "decimals": 8,
         "symbol": "renBTC",
         "logoURI": "https://etherscan.io/token/images/renbtc_32.png"
+    },
+    {
+        "name": "Rocket Pool on xDai",
+        "address": "0x2F0E755Efe6b58238A67DB420Ff3513Ec1fb31eF",
+        "symbol": "RPL",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://etherscan.io/token/images/Rocketpool_32.png"
     },
     {
         "name": "Synth sETH on xDai",
@@ -349,6 +349,14 @@
         "decimals": 18,
         "symbol": "SNX",
         "logoURI": "https://assets.coingecko.com/coins/images/3406/small/SNX.png"
+    },
+    {
+        "chainId": 100,
+        "address": "0xB1950Fb2C9C0CbC8553578c67dB52Aa110A93393",
+        "name": "Synth sUSD on xDai",
+        "decimals": 18,
+        "symbol": "sUSD",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51/logo.png"
     },
     {
         "name": "tBTC on xDai",
