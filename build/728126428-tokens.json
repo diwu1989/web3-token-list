@@ -216,14 +216,6 @@
     "logoURI": "https://coin.top/production/upload/logo/TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3.png?t=1615834953601"
   },
   {
-    "symbol": "OXYZ",
-    "name": "OXYZ Token",
-    "address": "0xA186209e3719cB51Ba0bc80494374D1f4534511b",
-    "chainId": 728126428,
-    "decimals": 6,
-    "logoURI": "https://coin.top/production/upload/logo/TQhGUHBYToUuYUMXR4EiPU5BhoxS1NrSKW.png?t=1638775002366"
-  },
-  {
     "symbol": "REA",
     "name": "REA Token",
     "address": "0x4E10A065096311D6370E13aa0870534d76EF0DfC",
