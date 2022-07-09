@@ -276,6 +276,17 @@
   },
   {
     "chainId": 10,
+    "address": "0x117cFd9060525452db4A34d51c0b3b7599087f05",
+    "name": "Geyser",
+    "symbol": "GYSR",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/GYSR.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
     "name": "Balancer",
     "symbol": "BAL",
@@ -314,17 +325,6 @@
   },
   {
     "chainId": 10,
-    "address": "0xd8f365c2c85648f9B89D9f1BF72C0aE4b1C36cFD",
-    "name": "TheDAO",
-    "symbol": "TheDAO",
-    "decimals": 16,
-    "logoURI": "https://ethereum-optimism.github.io/logos/theDAO.svg",
-    "extensions": {
-      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
-    }
-  },
-  {
-    "chainId": 10,
     "address": "0xb54fa166d4b88B0478f299D5854aD9B94b3fefF3",
     "name": "Arbinyan",
     "symbol": "NYAN",
@@ -338,6 +338,14 @@
     "symbol": "ZIP",
     "decimals": 18,
     "logoURI": "https://gist.githubusercontent.com/NoNameFits/a53cb0c7b328440886cc89088bfb547a/raw/6edd2abb129fb5169c042d27f968c24470827275/favicon.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x78b1Bd624791eB8AFf5F0724Ac2c3539142108BF",
+    "name": "Zippy Inu",
+    "symbol": "ZINU",
+    "decimals": 18,
+    "logoURI": "https://zipswap.fi/data/logos/inu_icon.png"
   },
   {
     "chainId": 10,
