@@ -204,7 +204,6 @@ async function getTokenInfos(
         const decimals = web3.eth.abi.decodeParameter('uint8', res[i])
         const name = web3.eth.abi.decodeParameter('string', res[i + 1])
         const symbol = web3.eth.abi.decodeParameter('string', res[i + 2])
-        console.log(decimals, name, symbol)
         tokenInfos.push({
             address: tokenAddrs[i / 3],
             chainId,
@@ -320,7 +319,7 @@ async function run(networkId) {
         fs.writeFileSync(outputFile, JSON.stringify(tokens, null, 2))
 
         let freshTokens;
-        if (chainId === 728126428) {
+        if (chainId === '728126428') {
             freshTokens = await tronUniV1Scan()
         } else {
             freshTokens = await filterFreshTokens(chainId, tokens)
