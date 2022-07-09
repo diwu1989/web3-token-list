@@ -70,6 +70,8 @@ const RPC_URL = {
     43114: 'https://rpc.ankr.com/avalanche',
     // optimism
     10: 'https://rpc.ankr.com/optimism',
+    // tron
+    728126428: process.env.TRON_JSONRPC_URL,
 }
 
 function validateToken(chainId, token) {
@@ -84,13 +86,19 @@ async function isTokenFresh(erc20Contract, latestBlock, lookBackBlocks) {
     for (let fromBlock = latestBlock - blockIncrement;
         fromBlock > latestBlock - lookBackBlocks;
         fromBlock -= blockIncrement) {
-        const toBlock = Math.min(latestBlock, fromBlock + blockIncrement)
-        const pastTransfers = await erc20Contract.getPastEvents("Transfer", {
-            fromBlock, toBlock
-        })
-        if (pastTransfers.length) {
-            // found transfers, token is fresh enough
-            return true
+        try {
+            const toBlock = Math.min(latestBlock, fromBlock + blockIncrement)
+            const pastTransfers = await erc20Contract.getPastEvents("Transfer", {
+                fromBlock, toBlock
+            })
+            if (pastTransfers.length) {
+                // found transfers, token is fresh enough
+                return true
+            }
+        } catch (e) {
+            if (e.message.includes('query returned more than 10000 results'))
+                return true
+            throw e
         }
     }
     return false
@@ -318,13 +326,11 @@ async function run(networkId) {
         const outputFile = `./build/${chainId}-tokens.json`
         fs.writeFileSync(outputFile, JSON.stringify(tokens, null, 2))
 
-        let freshTokens;
         if (chainId === '728126428') {
-            freshTokens = await tronUniV1Scan()
-        } else {
-            freshTokens = await filterFreshTokens(chainId, tokens)
-        }
+            tokens.push(...await tronUniV1Scan())
+        } 
 
+        const freshTokens = await filterFreshTokens(chainId, tokens)
         if (freshTokens.length) {
             fs.writeFileSync(`./build/${chainId}-fresh-tokens.json`, JSON.stringify(freshTokens, null, 2))
         }
