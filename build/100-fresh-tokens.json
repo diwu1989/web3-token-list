@@ -176,20 +176,12 @@
     "logoURI": "https://etherscan.io/token/images/baseprotocol_32.png"
   },
   {
-    "name": "BarnBridge",
-    "address": "0xb31a2595E4Cf66EfBC1Fe348b1429E5730891382",
-    "symbol": "BOND",
+    "name": "Basic Attention Token on xDai",
+    "address": "0xC6cC63f4AA25BBD4453eB5F3a0DfE546feF9b2f3",
+    "symbol": "BAT",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://assets.coingecko.com/coins/images/12811/small/barnbridge.jpg"
-  },
-  {
-    "name": "Celsius on xDai",
-    "address": "0x0aCD91f92Fe07606ab51EA97d8521E29D110fD09",
-    "symbol": "CEL",
-    "decimals": 4,
-    "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/celsiustoken1_28.png"
+    "logoURI": "https://etherscan.io/token/images/bat.png"
   },
   {
     "chainId": 100,
@@ -301,6 +293,14 @@
     "decimals": 18,
     "symbol": "PERP",
     "logoURI": "https://assets.coingecko.com/coins/images/12381/large/token_2000x2000.png?1615791204"
+  },
+  {
+    "name": "POA20 on xDai",
+    "address": "0x985e144EB355273c4B4D51E448B68b657F482E26",
+    "symbol": "POA20",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://1inch.exchange/assets/tokens/0x6758b7d441a9739b98552b373703d8d3d14f9e62.png"
   },
   {
     "name": "Particle",

@@ -3,7 +3,7 @@
     "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
     "chainId": 10,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x7F5c764cBc14f9669B88837ca1490cCa17c31607/logo.png",
+    "logoURI": "https://elk.finance/tokens/logos/optimism/0x7F5c764cBc14f9669B88837ca1490cCa17c31607/logo.png",
     "name": "USD Coin",
     "symbol": "USDC"
   },
@@ -11,7 +11,7 @@
     "address": "0x4200000000000000000000000000000000000006",
     "chainId": 10,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x4200000000000000000000000000000000000006/logo.png",
+    "logoURI": "https://elk.finance/tokens/logos/optimism/0x4200000000000000000000000000000000000006/logo.png",
     "name": "Wrapped Ethereum",
     "symbol": "WETH"
   },
@@ -27,7 +27,7 @@
     "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
     "chainId": 10,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png",
+    "logoURI": "https://elk.finance/tokens/logos/optimism/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png",
     "name": "Dai stable coin",
     "symbol": "DAI"
   },
@@ -35,7 +35,7 @@
     "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
     "chainId": 10,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x94b008aA00579c1307B0EF2c499aD98a8ce58e58/logo.png",
+    "logoURI": "https://elk.finance/tokens/logos/optimism/0x94b008aA00579c1307B0EF2c499aD98a8ce58e58/logo.png",
     "name": "Tether USD",
     "symbol": "USDT"
   },
@@ -43,7 +43,7 @@
     "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
     "chainId": 10,
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x68f180fcCe6836688e9084f035309E29Bf0A2095/logo.png",
+    "logoURI": "https://elk.finance/tokens/logos/optimism/0x68f180fcCe6836688e9084f035309E29Bf0A2095/logo.png",
     "name": "Wrapped Bitcoin",
     "symbol": "WBTC"
   },
@@ -286,7 +286,7 @@
     "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
     "chainId": 10,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x0994206dfe8de6ec6920ff4d779b0d950605fb53/logo.png",
+    "logoURI": "https://elk.finance/tokens/logos/optimism/0x0994206dfe8de6ec6920ff4d779b0d950605fb53/logo.png",
     "name": "Curve DAO Token",
     "symbol": "CRV"
   },
@@ -477,7 +477,7 @@
     "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
     "chainId": 10,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+    "logoURI": "https://elk.finance/tokens/logos/optimism/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
     "name": "Elk",
     "symbol": "ELK"
   },
@@ -544,6 +544,22 @@
     "symbol": "RENBTC",
     "decimals": 8,
     "logoURI": "https://docs.velodrome.finance/tokens/renBTC.svg"
+  },
+  {
+    "chainId": 10,
+    "address": "0xd52f94DF742a6F4B4C8b033369fE13A41782Bf44",
+    "name": "Layer2DAO",
+    "symbol": "L2DAO",
+    "decimals": 18,
+    "logoURI": "https://docs.velodrome.finance/tokens/L2DAO.svg"
+  },
+  {
+    "chainId": 10,
+    "address": "0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED",
+    "name": "Angle EURO",
+    "symbol": "agEUR",
+    "decimals": 18,
+    "logoURI": "https://docs.velodrome.finance/tokens/agEUR.svg"
   },
   {
     "address": "0x6F620EC89B8479e97A6985792d0c64F237566746",

@@ -536,6 +536,14 @@
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cUSDC.png"
   },
   {
+    "address": "0x9995cc8F20Db5896943Afc8eE0ba463259c931ed",
+    "chainId": 42220,
+    "name": "ETHIX",
+    "symbol": "ETHIX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/3031/small/ETHIX_icon_256x256-256.png?1622195164"
+  },
+  {
     "address": "0x9Ee153D4Fdf0E3222eFD092c442ebB21DFd346AC",
     "name": "Marzipan Finance",
     "symbol": "MZPN",
@@ -598,14 +606,6 @@
     "symbol": "D2D",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/celo/assets/0x2C98Ebada737f6f75B410c0eaa66A19B110796b5/logo.png"
-  },
-  {
-    "address": "0x9995cc8F20Db5896943Afc8eE0ba463259c931ed",
-    "chainId": 42220,
-    "name": "ETHIX",
-    "symbol": "ETHIX",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/3031/small/ETHIX_icon_256x256-256.png?1622195164"
   },
   {
     "address": "0xC7144Fa865c9f3a6836167A51531A2CC8b0ab5fD",
