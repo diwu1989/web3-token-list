@@ -246,14 +246,14 @@ async function tronUniV1Scan() {
     const tokens = await Promise.all(tokenCalls.map((tokenCall) => {
         return multicall.methods.aggregate(tokenCall)
             .call()
-            .then(({returnData}) => 
+            .then(({returnData}) =>
                 returnData.map(
                     (data) => web3.eth.abi.decodeParameter('address', data)
                 )
             )
     })).then((arr) => arr.flat());
     console.info(`Fetched ${tokens.length} tokens`);
-    
+
     // Fetch exchanges
     const exchangeCalls = []
     for (let i = 0; i < tokens.length; i += batchSize) {
@@ -270,7 +270,7 @@ async function tronUniV1Scan() {
     const exchanges = await Promise.all(exchangeCalls.map((exchangeCall) => {
         return multicall.methods.aggregate(exchangeCall)
             .call()
-            .then(({returnData}) => 
+            .then(({returnData}) =>
                 returnData.map(
                     (data) => web3.eth.abi.decodeParameter('address', data)
                 )
@@ -327,7 +327,7 @@ async function run(networkId) {
             const tronScannedTokens = await tronUniV1Scan()
             console.log(`Fetched ${tronScannedTokens.length} tokens from Tron UniV1`)
             tokens.push(...tronScannedTokens)
-        } 
+        }
         const outputFile = `./build/${chainId}-tokens.json`
         fs.writeFileSync(outputFile, JSON.stringify(tokens, null, 2))
 

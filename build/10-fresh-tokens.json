@@ -136,20 +136,20 @@
     "symbol": "rETH"
   },
   {
+    "address": "0x00F932F0FE257456b32dedA4758922E56A4F4b42",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/PAPER.svg",
+    "name": "Paper",
+    "symbol": "PAPER"
+  },
+  {
     "address": "0x5029C236320b8f15eF0a657054B84d90bfBEDED3",
     "chainId": 10,
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/logos/BitANT.png",
     "name": "BitANT",
     "symbol": "BitANT"
-  },
-  {
-    "address": "0xc98B98d17435AA00830c87eA02474C5007E1f272",
-    "chainId": 10,
-    "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/BitBTC.png",
-    "name": "BitBTC",
-    "symbol": "BitBTC"
   },
   {
     "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
@@ -184,12 +184,12 @@
     "symbol": "USX"
   },
   {
-    "address": "0x7b0bcC23851bBF7601efC9E9FE532Bf5284F65d3",
+    "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
     "chainId": 10,
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/logos/EST.png",
-    "name": "Erica Social Token",
-    "symbol": "EST"
+    "logoURI": "https://ethereum-optimism.github.io/logos/BOND.svg",
+    "name": "BarnBridge Governance Token",
+    "symbol": "BOND"
   },
   {
     "address": "0xF98dCd95217E15E05d8638da4c91125E59590B07",
@@ -198,6 +198,17 @@
     "logoURI": "https://ethereum-optimism.github.io/logos/KROM.png",
     "name": "Kromatika",
     "symbol": "KROM"
+  },
+  {
+    "chainId": 10,
+    "address": "0xab7bAdEF82E9Fe11f6f33f87BC9bC2AA27F2fCB5",
+    "name": "Maker",
+    "symbol": "MKR",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/MKR.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
   },
   {
     "chainId": 10,
@@ -230,14 +241,6 @@
     "logoURI": "https://ethereum-optimism.github.io/logos/THALES.png",
     "name": "Optimistic Thales Token",
     "symbol": "THALES"
-  },
-  {
-    "address": "0xBA28feb4b6A6b81e3F26F08b83a19E715C4294fd",
-    "chainId": 10,
-    "decimals": 6,
-    "logoURI": "https://ethereum-optimism.github.io/logos/UST.png",
-    "name": "UST (Wormhole)",
-    "symbol": "UST"
   },
   {
     "address": "0xE4F27b04cC7729901876B44f4EAA5102EC150265",
@@ -306,6 +309,17 @@
   },
   {
     "chainId": 10,
+    "address": "0x7113370218f31764C1B6353BDF6004d86fF6B9cc",
+    "name": "Decentralized USD",
+    "symbol": "USDD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/USDD.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0xb54fa166d4b88B0478f299D5854aD9B94b3fefF3",
     "name": "Arbinyan",
     "symbol": "NYAN",
@@ -322,19 +336,19 @@
   },
   {
     "chainId": 10,
+    "address": "0x78b1Bd624791eB8AFf5F0724Ac2c3539142108BF",
+    "name": "Zippy Inu",
+    "symbol": "ZINU",
+    "decimals": 18,
+    "logoURI": "https://zipswap.fi/data/logos/inu_icon.png"
+  },
+  {
+    "chainId": 10,
     "address": "0x0b5740c6b4a97f90eF2F0220651Cca420B868FfB",
     "name": "Governance OHM",
     "symbol": "gOHM",
     "decimals": 18,
     "logoURI": "https://data.zipswap.fi/logos/gOHM.jpg"
-  },
-  {
-    "chainId": 10,
-    "address": "0x18607aDc70d68E196D12019d49b0607b99312853",
-    "name": "Pegasus Token",
-    "symbol": "PEGA",
-    "decimals": 9,
-    "logoURI": "https://data.zipswap.fi/logos/PEGA.jpg"
   },
   {
     "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",

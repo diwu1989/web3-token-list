@@ -3,7 +3,7 @@
         "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
         "chainId": 10,
         "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x7F5c764cBc14f9669B88837ca1490cCa17c31607/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/optimism/0x7F5c764cBc14f9669B88837ca1490cCa17c31607/logo.png",
         "name": "USD Coin",
         "symbol": "USDC"
     },
@@ -11,7 +11,7 @@
         "address": "0x4200000000000000000000000000000000000006",
         "chainId": 10,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x4200000000000000000000000000000000000006/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/optimism/0x4200000000000000000000000000000000000006/logo.png",
         "name": "Wrapped Ethereum",
         "symbol": "WETH"
     },
@@ -27,7 +27,7 @@
         "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
         "chainId": 10,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/optimism/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png",
         "name": "Dai stable coin",
         "symbol": "DAI"
     },
@@ -35,7 +35,7 @@
         "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
         "chainId": 10,
         "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x94b008aA00579c1307B0EF2c499aD98a8ce58e58/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/optimism/0x94b008aA00579c1307B0EF2c499aD98a8ce58e58/logo.png",
         "name": "Tether USD",
         "symbol": "USDT"
     },
@@ -43,7 +43,7 @@
         "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
         "chainId": 10,
         "decimals": 8,
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x68f180fcCe6836688e9084f035309E29Bf0A2095/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/optimism/0x68f180fcCe6836688e9084f035309E29Bf0A2095/logo.png",
         "name": "Wrapped Bitcoin",
         "symbol": "WBTC"
     },
@@ -120,14 +120,6 @@
         "symbol": "LUSD"
     },
     {
-        "address": "0xB548f63D4405466B36C0c0aC3318a22fDcec711a",
-        "chainId": 10,
-        "decimals": 18,
-        "logoURI": "https://ethereum-optimism.github.io/logos/RGT.png",
-        "name": "Rari Governance Token",
-        "symbol": "RGT"
-    },
-    {
         "address": "0x7FB688CCf682d58f86D7e38e03f9D22e7705448B",
         "chainId": 10,
         "decimals": 18,
@@ -160,14 +152,6 @@
         "symbol": "BitANT"
     },
     {
-        "address": "0xc98B98d17435AA00830c87eA02474C5007E1f272",
-        "chainId": 10,
-        "decimals": 18,
-        "logoURI": "https://ethereum-optimism.github.io/logos/BitBTC.png",
-        "name": "BitBTC",
-        "symbol": "BitBTC"
-    },
-    {
         "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
         "chainId": 10,
         "decimals": 18,
@@ -192,12 +176,20 @@
         "symbol": "DF"
     },
     {
-        "address": "0x7b0bcC23851bBF7601efC9E9FE532Bf5284F65d3",
+        "address": "0xbfD291DA8A403DAAF7e5E9DC1ec0aCEaCd4848B9",
         "chainId": 10,
         "decimals": 18,
-        "logoURI": "https://ethereum-optimism.github.io/logos/EST.png",
-        "name": "Erica Social Token",
-        "symbol": "EST"
+        "logoURI": "https://ethereum-optimism.github.io/logos/USX.svg",
+        "name": "dForce USD",
+        "symbol": "USX"
+    },
+    {
+        "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
+        "chainId": 10,
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/logos/BOND.svg",
+        "name": "BarnBridge Governance Token",
+        "symbol": "BOND"
     },
     {
         "address": "0xF98dCd95217E15E05d8638da4c91125E59590B07",
@@ -206,14 +198,6 @@
         "logoURI": "https://ethereum-optimism.github.io/logos/KROM.png",
         "name": "Kromatika",
         "symbol": "KROM"
-    },
-    {
-        "address": "0xAF9fE3B5cCDAe78188B1F8b9a49Da7ae9510F151",
-        "chainId": 10,
-        "decimals": 18,
-        "logoURI": "https://ethereum-optimism.github.io/logos/DHT.svg",
-        "name": "dHEDGE DAO Token",
-        "symbol": "DHT"
     },
     {
         "chainId": 10,
@@ -238,7 +222,7 @@
         "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
         "chainId": 10,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x0994206dfe8de6ec6920ff4d779b0d950605fb53/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/optimism/0x0994206dfe8de6ec6920ff4d779b0d950605fb53/logo.png",
         "name": "Curve DAO Token",
         "symbol": "CRV"
     },
@@ -325,6 +309,17 @@
     },
     {
         "chainId": 10,
+        "address": "0x7113370218f31764C1B6353BDF6004d86fF6B9cc",
+        "name": "Decentralized USD",
+        "symbol": "USDD",
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/logos/USDD.png",
+        "extensions": {
+            "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+        }
+    },
+    {
+        "chainId": 10,
         "address": "0xb54fa166d4b88B0478f299D5854aD9B94b3fefF3",
         "name": "Arbinyan",
         "symbol": "NYAN",
@@ -356,26 +351,10 @@
         "logoURI": "https://data.zipswap.fi/logos/gOHM.jpg"
     },
     {
-        "chainId": 10,
-        "address": "0x18607aDc70d68E196D12019d49b0607b99312853",
-        "name": "Pegasus Token",
-        "symbol": "PEGA",
-        "decimals": 9,
-        "logoURI": "https://data.zipswap.fi/logos/PEGA.jpg"
-    },
-    {
-        "chainId": 10,
-        "address": "0x4d23960E3b3275FB95C8cCA2D781E40d4B39449d",
-        "name": "OpCorgi",
-        "symbol": "CORG",
-        "decimals": 18,
-        "logoURI": "https://data.zipswap.fi/logos/opcorgi.jpg"
-    },
-    {
         "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
         "chainId": 10,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
+        "logoURI": "https://elk.finance/tokens/logos/optimism/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
         "name": "Elk",
         "symbol": "ELK"
     },
@@ -442,6 +421,22 @@
         "symbol": "RENBTC",
         "decimals": 8,
         "logoURI": "https://docs.velodrome.finance/tokens/renBTC.svg"
+    },
+    {
+        "chainId": 10,
+        "address": "0xd52f94DF742a6F4B4C8b033369fE13A41782Bf44",
+        "name": "Layer2DAO",
+        "symbol": "L2DAO",
+        "decimals": 18,
+        "logoURI": "https://docs.velodrome.finance/tokens/L2DAO.svg"
+    },
+    {
+        "chainId": 10,
+        "address": "0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED",
+        "name": "Angle EURO",
+        "symbol": "agEUR",
+        "decimals": 18,
+        "logoURI": "https://docs.velodrome.finance/tokens/agEUR.svg"
     },
     {
         "address": "0x6F620EC89B8479e97A6985792d0c64F237566746",

@@ -400,6 +400,14 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13021.png"
   },
   {
+    "address": "0x9995cc8F20Db5896943Afc8eE0ba463259c931ed",
+    "chainId": 42220,
+    "name": "ETHIX",
+    "symbol": "ETHIX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/3031/small/ETHIX_icon_256x256-256.png?1622195164"
+  },
+  {
     "address": "0xA287A3722c367849eFA5c76e96BE36efd65C290e",
     "chainId": 42220,
     "name": "Celo Defi Index",
@@ -534,14 +542,6 @@
     "chainId": 42220,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cUSDC.png"
-  },
-  {
-    "address": "0x9995cc8F20Db5896943Afc8eE0ba463259c931ed",
-    "chainId": 42220,
-    "name": "ETHIX",
-    "symbol": "ETHIX",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/3031/small/ETHIX_icon_256x256-256.png?1622195164"
   },
   {
     "address": "0x9Ee153D4Fdf0E3222eFD092c442ebB21DFd346AC",

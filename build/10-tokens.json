@@ -419,6 +419,17 @@
   },
   {
     "chainId": 10,
+    "address": "0x7113370218f31764C1B6353BDF6004d86fF6B9cc",
+    "name": "Decentralized USD",
+    "symbol": "USDD",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/logos/USDD.png",
+    "extensions": {
+      "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+    }
+  },
+  {
+    "chainId": 10,
     "address": "0xb54fa166d4b88B0478f299D5854aD9B94b3fefF3",
     "name": "Arbinyan",
     "symbol": "NYAN",
