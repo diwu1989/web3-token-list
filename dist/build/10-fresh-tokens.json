@@ -48,14 +48,6 @@
         "symbol": "WBTC"
     },
     {
-        "address": "0xe0BB0D3DE8c10976511e5030cA403dBf4c25165B",
-        "chainId": 10,
-        "decimals": 8,
-        "logoURI": "https://ethereum-optimism.github.io/logos/0xBTC.png",
-        "name": "0xBitcoin",
-        "symbol": "0xBTC"
-    },
-    {
         "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
         "chainId": 10,
         "decimals": 18,
@@ -184,14 +176,6 @@
         "symbol": "USX"
     },
     {
-        "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
-        "chainId": 10,
-        "decimals": 18,
-        "logoURI": "https://ethereum-optimism.github.io/logos/BOND.svg",
-        "name": "BarnBridge Governance Token",
-        "symbol": "BOND"
-    },
-    {
         "address": "0xF98dCd95217E15E05d8638da4c91125E59590B07",
         "chainId": 10,
         "decimals": 18,
@@ -309,22 +293,25 @@
     },
     {
         "chainId": 10,
-        "address": "0x7113370218f31764C1B6353BDF6004d86fF6B9cc",
-        "name": "Decentralized USD",
-        "symbol": "USDD",
+        "address": "0x395Ae52bB17aef68C2888d941736A71dC6d4e125",
+        "name": "PoolTogether",
+        "symbol": "POOL",
         "decimals": 18,
-        "logoURI": "https://ethereum-optimism.github.io/logos/USDD.png",
+        "logoURI": "https://ethereum-optimism.github.io/logos/pool.svg",
         "extensions": {
             "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
         }
     },
     {
         "chainId": 10,
-        "address": "0xb54fa166d4b88B0478f299D5854aD9B94b3fefF3",
-        "name": "Arbinyan",
-        "symbol": "NYAN",
+        "address": "0x374Ad0f47F4ca39c78E5Cc54f1C9e426FF8f231A",
+        "name": "Premia",
+        "symbol": "PREMIA",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xeD3fB761414DA74b74F33e5c5a1f78104b188DfC/logo.png"
+        "logoURI": "https://ethereum-optimism.github.io/logos/PREMIA.svg",
+        "extensions": {
+            "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+        }
     },
     {
         "chainId": 10,
@@ -344,11 +331,27 @@
     },
     {
         "chainId": 10,
+        "address": "0x18172F6604136041F603270790A437342B9ba57F",
+        "name": "Kratos",
+        "symbol": "Kratos",
+        "decimals": 9,
+        "logoURI": "https://zipswap.fi/data/logos/kratos.webp"
+    },
+    {
+        "chainId": 10,
         "address": "0x0b5740c6b4a97f90eF2F0220651Cca420B868FfB",
         "name": "Governance OHM",
         "symbol": "gOHM",
         "decimals": 18,
         "logoURI": "https://data.zipswap.fi/logos/gOHM.jpg"
+    },
+    {
+        "chainId": 10,
+        "address": "0x18607aDc70d68E196D12019d49b0607b99312853",
+        "name": "Pegasus Token",
+        "symbol": "PEGA",
+        "decimals": 9,
+        "logoURI": "https://data.zipswap.fi/logos/PEGA.jpg"
     },
     {
         "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -437,6 +440,46 @@
         "symbol": "agEUR",
         "decimals": 18,
         "logoURI": "https://docs.velodrome.finance/tokens/agEUR.svg"
+    },
+    {
+        "chainId": 10,
+        "address": "0x375488F097176507e39B9653b88FDc52cDE736Bf",
+        "name": "Tarot Protocol",
+        "symbol": "TAROT",
+        "decimals": 18,
+        "logoURI": "https://docs.velodrome.finance/tokens/TAROT.png"
+    },
+    {
+        "chainId": 10,
+        "address": "0x5A5fFf6F753d7C11A56A52FE47a177a87e431655",
+        "name": "Synapse Protocol",
+        "symbol": "SYN",
+        "decimals": 18,
+        "logoURI": "https://docs.velodrome.finance/tokens/SYN.png"
+    },
+    {
+        "chainId": 10,
+        "address": "0x6ca558bd3eaB53DA1B25aB97916dd14bf6CFEe4E",
+        "name": "Ripae Pegged ETH",
+        "symbol": "pETHo",
+        "decimals": 18,
+        "logoURI": "https://docs.velodrome.finance/tokens/pETHo.svg"
+    },
+    {
+        "chainId": 10,
+        "address": "0x09448876068907827ec15F49A8F1a58C70b04d45",
+        "name": "Ripae Share ETH",
+        "symbol": "sETHo",
+        "decimals": 18,
+        "logoURI": "https://docs.velodrome.finance/tokens/sETHo.svg"
+    },
+    {
+        "chainId": 10,
+        "address": "0x676f784d19c7F1Ac6C6BeaeaaC78B02a73427852",
+        "name": "OPP",
+        "symbol": "Optimism Prime",
+        "decimals": 18,
+        "logoURI": "https://docs.velodrome.finance/tokens/OPP.svg"
     },
     {
         "address": "0x6F620EC89B8479e97A6985792d0c64F237566746",
