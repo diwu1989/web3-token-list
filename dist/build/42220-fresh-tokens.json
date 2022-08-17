@@ -344,14 +344,6 @@
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_ABR.png"
     },
     {
-        "address": "0x788BA01f8E2b87c08B142DB46F82094e0bdCad4F",
-        "name": "Staked Allbridge",
-        "symbol": "xABR",
-        "chainId": 42220,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_xABR.png"
-    },
-    {
         "address": "0x7D00cd74FF385c955EA3d79e47BF06bD7386387D",
         "name": "Moola CELO",
         "symbol": "mCELO",
@@ -398,6 +390,14 @@
         "symbol": "mCREAL",
         "decimals": 18,
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13021.png"
+    },
+    {
+        "address": "0x9995cc8F20Db5896943Afc8eE0ba463259c931ed",
+        "chainId": 42220,
+        "name": "ETHIX",
+        "symbol": "ETHIX",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/3031/small/ETHIX_icon_256x256-256.png?1622195164"
     },
     {
         "address": "0xA287A3722c367849eFA5c76e96BE36efd65C290e",
@@ -464,6 +464,22 @@
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cREAL.png"
     },
     {
+        "address": "0xEadf4A7168A82D30Ba0619e64d5BCf5B30B45226",
+        "name": "Poof USD",
+        "symbol": "pUSD",
+        "chainId": 42220,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pUSD.png"
+    },
+    {
+        "address": "0xEe9801669C6138E84bD50dEB500827b776777d28",
+        "name": "O3 Swap Token",
+        "symbol": "O3",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_O3.png"
+    },
+    {
         "address": "0x035eE610693a29Cb77fD6eFBEb9d9d278703e145",
         "name": "TrueFeedBack DEPRECATED",
         "symbol": "TFBXxOLD",
@@ -504,6 +520,14 @@
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_AAVE.png"
     },
     {
+        "address": "0x56072D4832642dB29225dA12d6Fd1290E4744682",
+        "name": "Poof v1 EUR",
+        "symbol": "pEURxV1",
+        "chainId": 42220,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pEUR.png"
+    },
+    {
         "address": "0x7c64aD5F9804458B8c9F93f7300c15D55956Ac2a",
         "chainId": 42220,
         "name": "Symmetric Optics v1",
@@ -518,14 +542,6 @@
         "chainId": 42220,
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cUSDC.png"
-    },
-    {
-        "address": "0x9995cc8F20Db5896943Afc8eE0ba463259c931ed",
-        "chainId": 42220,
-        "name": "ETHIX",
-        "symbol": "ETHIX",
-        "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/3031/small/ETHIX_icon_256x256-256.png?1622195164"
     },
     {
         "address": "0x9Ee153D4Fdf0E3222eFD092c442ebB21DFd346AC",
@@ -544,6 +560,14 @@
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pUSD.png"
     },
     {
+        "address": "0xd954C4c006189d967507b8ba758605364eB660D2",
+        "name": "Sky Portal",
+        "symbol": "LAPIS",
+        "chainId": 42220,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_LAPIS.png"
+    },
+    {
         "address": "0xDB452CC669D3Ae454226AbF232Fe211bAfF2a1F9",
         "name": "Duino-Coin on Celo",
         "symbol": "celoDUCO",
@@ -558,14 +582,6 @@
         "chainId": 42220,
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pCELO.png"
-    },
-    {
-        "address": "0x2C98Ebada737f6f75B410c0eaa66A19B110796b5",
-        "chainId": 42220,
-        "name": "Prime",
-        "symbol": "D2D",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/celo/assets/0x2C98Ebada737f6f75B410c0eaa66A19B110796b5/logo.png"
     },
     {
         "address": "0xC7144Fa865c9f3a6836167A51531A2CC8b0ab5fD",
@@ -611,14 +627,6 @@
         "address": "0x091733f0245A4395d8BfE42C74A619328269F12F",
         "name": "KnoxDAO",
         "symbol": "KNOX",
-        "chainId": 42220,
-        "decimals": 18,
-        "logoURI": ""
-    },
-    {
-        "address": "0x0631DD22cd83508f50ea11e1CAE82801Bb9904aC",
-        "name": "Cellular Finance Token",
-        "symbol": "CELL",
         "chainId": 42220,
         "decimals": 18,
         "logoURI": ""
