@@ -24,6 +24,7 @@ const TOKEN_LIST = {
         'https://raw.githubusercontent.com/Ubeswap/default-token-list/master/ubeswap.token-list.json',
         'https://raw.githubusercontent.com/Ubeswap/default-token-list/master/ubeswap-experimental.token-list.json',
         'https://raw.githubusercontent.com/centfinance/Symmetric.WebInterface-v2/symmetric-v2/src/data/listed.tokenlist.json',
+        'https://celo-org.github.io/celo-token-list/celo.tokenlist.json',
     ],
     44787: [
         'https://raw.githubusercontent.com/Ubeswap/default-token-list/master/ubeswap-experimental.token-list.json',

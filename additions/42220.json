@@ -16,30 +16,6 @@
       "logoURI": ""
    },
    {
-      "address": "0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
-      "name": "Binance-Peg BUSD Token",
-      "symbol": "BUSD",
-      "chainId": 42220,
-      "decimals": 18,
-      "logoURI": ""
-   },
-   {
-      "address": "0xCD7D7Ff64746C1909E44Db8e95331F9316478817",
-      "name": "asUSDC",
-      "symbol": "asUSDC",
-      "chainId": 42220,
-      "decimals": 18,
-      "logoURI": ""
-   },
-   {
-      "address": "0xEd193C4E69F591E42398eF54DEa65aa1bb02835c",
-      "name": "UST Terra",
-      "symbol": "atUST",
-      "chainId": 42220,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/kyscott18/default-token-list/master/assets/asset_UST.png"
-   },
-   {
       "address": "0x37191488FbEe23652eC7794Cfb81020528968C7d",
       "name": "cTOKEN",
       "symbol": "cTOKEN",
@@ -70,14 +46,6 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": ""
-   },
-   {
-      "address": "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd",
-      "chainId": 42220,
-      "decimals": 6,
-      "symbol": "wUSDC",
-      "name": "USD Coin (Wormhole)",
-      "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.svg?v=013"
    },
    {
       "address": "0x2A3684e9Dc20B857375EA04235F2F7edBe818FA7",

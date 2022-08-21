@@ -38,5 +38,13 @@
     "chainId": 42220,
     "decimals": 18,
     "logoURI": ""
+  },
+  {
+    "address": "0xEd193C4E69F591E42398eF54DEa65aa1bb02835c",
+    "name": "UST Terra",
+    "symbol": "atUST",
+    "chainId": 42220,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kyscott18/default-token-list/master/assets/asset_UST.png"
   }
 ]
