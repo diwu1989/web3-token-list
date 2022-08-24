@@ -176,12 +176,20 @@
     "logoURI": "https://etherscan.io/token/images/baseprotocol_32.png"
   },
   {
-    "name": "Basic Attention Token on xDai",
-    "address": "0xC6cC63f4AA25BBD4453eB5F3a0DfE546feF9b2f3",
-    "symbol": "BAT",
+    "name": "BarnBridge",
+    "address": "0xb31a2595E4Cf66EfBC1Fe348b1429E5730891382",
+    "symbol": "BOND",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/bat.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/12811/small/barnbridge.jpg"
+  },
+  {
+    "name": "Bancor Network Token on xDai",
+    "address": "0x9a495a281D959192343B0e007284bf130bd05F86",
+    "symbol": "BNT",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/bancor_32.png"
   },
   {
     "name": "Celsius on xDai",
@@ -247,6 +255,14 @@
     "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png"
   },
   {
+    "name": "Huobi USD",
+    "address": "0x1e37E5b504F7773460d6eB0e24D2e7C223B66EC7",
+    "symbol": "HUSD",
+    "decimals": 8,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/9567/small/HUSD.jpg"
+  },
+  {
     "name": "Kyber Network Crystal on xDai",
     "address": "0x1534fB3E82849314360C267FE20Df3901A2ED3f9",
     "symbol": "KNC",
@@ -295,12 +311,28 @@
     "logoURI": "https://assets.coingecko.com/coins/images/12381/large/token_2000x2000.png?1615791204"
   },
   {
+    "name": "POA20 on xDai",
+    "address": "0x985e144EB355273c4B4D51E448B68b657F482E26",
+    "symbol": "POA20",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://1inch.exchange/assets/tokens/0x6758b7d441a9739b98552b373703d8d3d14f9e62.png"
+  },
+  {
     "name": "Particle",
     "address": "0xB5d592f85ab2D955c25720EbE6FF8D4d1E1Be300",
     "symbol": "PRTCLE",
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/wiki/master/images/Particle.png"
+  },
+  {
+    "name": "Rarible on xDai",
+    "address": "0x4bE85ACC1cd711F403dC7BdE9e6caDfC5A94744b",
+    "symbol": "RARI",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/rarible_32.png"
   },
   {
     "chainId": 100,
@@ -311,6 +343,14 @@
     "logoURI": "https://etherscan.io/token/images/renbtc_32.png"
   },
   {
+    "name": "Rocket Pool on xDai",
+    "address": "0x2F0E755Efe6b58238A67DB420Ff3513Ec1fb31eF",
+    "symbol": "RPL",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/Rocketpool_32.png"
+  },
+  {
     "name": "Synth sETH on xDai",
     "address": "0x8F365b41B98Fe84aCB287540b4B4AB633e07EDb2",
     "symbol": "SETH",
@@ -319,20 +359,20 @@
     "logoURI": "https://etherscan.io/token/images/SynthetixsETH_32.png"
   },
   {
+    "name": "Unisocks",
+    "address": "0x35f346Cb4149746272974a92d719Fd48ae2F72FA",
+    "symbol": "SOCKS",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/10717/small/qFrcoiM.png"
+  },
+  {
     "chainId": 100,
     "address": "0x3A00E08544d589E19a8e7D97D0294331341cdBF6",
     "name": "Synthetix Network Token on xDai",
     "decimals": 18,
     "symbol": "SNX",
     "logoURI": "https://assets.coingecko.com/coins/images/3406/small/SNX.png"
-  },
-  {
-    "chainId": 100,
-    "address": "0xB1950Fb2C9C0CbC8553578c67dB52Aa110A93393",
-    "name": "Synth sUSD on xDai",
-    "decimals": 18,
-    "symbol": "sUSD",
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51/logo.png"
   },
   {
     "name": "tBTC on xDai",
