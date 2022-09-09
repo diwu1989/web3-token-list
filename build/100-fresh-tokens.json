@@ -136,14 +136,6 @@
     "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/xdai/assets/0x3a97704a1b25f08aa230ae53b352e2e72ef52843/logo.png"
   },
   {
-    "name": "Axie Infinity",
-    "address": "0xBDE011911128F6bD4ABb1d18F39fdc3614Ca2cfe",
-    "symbol": "AXS",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://assets.coingecko.com/coins/images/13029/small/axie_infinity_logo.png"
-  },
-  {
     "name": "Badger on xDai",
     "address": "0xdfc20AE04ED70bd9c7D720F449eEDAe19F659D65",
     "symbol": "BADGER",
@@ -176,20 +168,20 @@
     "logoURI": "https://etherscan.io/token/images/baseprotocol_32.png"
   },
   {
+    "name": "Basic Attention Token on xDai",
+    "address": "0xC6cC63f4AA25BBD4453eB5F3a0DfE546feF9b2f3",
+    "symbol": "BAT",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/bat.png"
+  },
+  {
     "name": "BarnBridge",
     "address": "0xb31a2595E4Cf66EfBC1Fe348b1429E5730891382",
     "symbol": "BOND",
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://assets.coingecko.com/coins/images/12811/small/barnbridge.jpg"
-  },
-  {
-    "name": "Bancor Network Token on xDai",
-    "address": "0x9a495a281D959192343B0e007284bf130bd05F86",
-    "symbol": "BNT",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/bancor_32.png"
   },
   {
     "name": "Celsius on xDai",
@@ -311,28 +303,12 @@
     "logoURI": "https://assets.coingecko.com/coins/images/12381/large/token_2000x2000.png?1615791204"
   },
   {
-    "name": "POA20 on xDai",
-    "address": "0x985e144EB355273c4B4D51E448B68b657F482E26",
-    "symbol": "POA20",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://1inch.exchange/assets/tokens/0x6758b7d441a9739b98552b373703d8d3d14f9e62.png"
-  },
-  {
     "name": "Particle",
     "address": "0xB5d592f85ab2D955c25720EbE6FF8D4d1E1Be300",
     "symbol": "PRTCLE",
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/wiki/master/images/Particle.png"
-  },
-  {
-    "name": "Rarible on xDai",
-    "address": "0x4bE85ACC1cd711F403dC7BdE9e6caDfC5A94744b",
-    "symbol": "RARI",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/rarible_32.png"
   },
   {
     "chainId": 100,

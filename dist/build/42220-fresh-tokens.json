@@ -272,14 +272,6 @@
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_stabilUSD.png"
     },
     {
-        "address": "0x123ED050805E0998EBEf43671327139224218e50",
-        "name": "NetM Token",
-        "symbol": "NTMX",
-        "chainId": 42220,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_NTMX.png"
-    },
-    {
         "name": "Allbridge SOL",
         "address": "0x173234922eB27d5138c5e481be9dF5261fAeD450",
         "symbol": "SOL",
@@ -480,14 +472,6 @@
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cREAL.png"
     },
     {
-        "name": "Poof USD",
-        "address": "0xEadf4A7168A82D30Ba0619e64d5BCf5B30B45226",
-        "symbol": "pUSD",
-        "decimals": 18,
-        "chainId": 42220,
-        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pUSD.png"
-    },
-    {
         "address": "0xEe9801669C6138E84bD50dEB500827b776777d28",
         "name": "O3 Swap Token",
         "symbol": "O3",
@@ -536,14 +520,6 @@
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_AAVE.png"
     },
     {
-        "name": "Poof v1 EUR",
-        "address": "0x56072D4832642dB29225dA12d6Fd1290E4744682",
-        "symbol": "pEURxV1",
-        "decimals": 18,
-        "chainId": 42220,
-        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pEUR.png"
-    },
-    {
         "address": "0x7c64aD5F9804458B8c9F93f7300c15D55956Ac2a",
         "chainId": 42220,
         "name": "Symmetric Optics v1",
@@ -552,36 +528,12 @@
         "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/ethereum/assets/0x57dB3FfCa78dBbE0eFa0EC745D55f62aa0Cbd345/logo.png"
     },
     {
-        "address": "0x93DB49bE12B864019dA9Cb147ba75cDC0506190e",
-        "name": "Moss USDC DEPRECATED",
-        "symbol": "cUSDC",
-        "chainId": 42220,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cUSDC.png"
-    },
-    {
         "name": "Marzipan Finance",
         "address": "0x9Ee153D4Fdf0E3222eFD092c442ebB21DFd346AC",
         "symbol": "MZPN",
         "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_MZPN.png"
-    },
-    {
-        "name": "Poof v1 USD",
-        "address": "0xB4aa2986622249B1F45eb93F28Cfca2b2606d809",
-        "symbol": "pUSDxV1",
-        "decimals": 18,
-        "chainId": 42220,
-        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pUSD.png"
-    },
-    {
-        "address": "0xd954C4c006189d967507b8ba758605364eB660D2",
-        "name": "Sky Portal",
-        "symbol": "LAPIS",
-        "chainId": 42220,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_LAPIS.png"
     },
     {
         "name": "Duino-Coin on Celo",
@@ -598,6 +550,22 @@
         "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pCELO.png"
+    },
+    {
+        "address": "0xBc440BB632ac311F8877dEE23e77ddb1065703B7",
+        "chainId": 42220,
+        "name": "Prime (Wormhole)",
+        "symbol": "D2D",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/21609/small/RJD82RrV_400x400.jpg?1639559164"
+    },
+    {
+        "name": "cRecy",
+        "address": "0x34C11A932853Ae24E845Ad4B633E3cEf91afE583",
+        "symbol": "cRecy",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://user-images.githubusercontent.com/101748448/187026740-27f51d9d-e60d-48e9-b378-416c1eda0cb1.svg"
     },
     {
         "name": "Staked Celo",
@@ -619,14 +587,6 @@
         "address": "0xC7144Fa865c9f3a6836167A51531A2CC8b0ab5fD",
         "name": "CeloDex.org",
         "symbol": "CLX",
-        "chainId": 42220,
-        "decimals": 18,
-        "logoURI": ""
-    },
-    {
-        "address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
-        "name": "Avalanche",
-        "symbol": "AVAX",
         "chainId": 42220,
         "decimals": 18,
         "logoURI": ""
