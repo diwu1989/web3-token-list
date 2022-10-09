@@ -136,6 +136,22 @@
     "logoURI": "https://raw.githubusercontent.com/centfinance/assets/master/blockchains/xdai/assets/0x3a97704a1b25f08aa230ae53b352e2e72ef52843/logo.png"
   },
   {
+    "name": "Ampleforth on xDai",
+    "address": "0xC84DD5B971521B6C9fA5E10d25E6428b19710e05",
+    "symbol": "AMPL",
+    "decimals": 9,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/ampleforth_32.png"
+  },
+  {
+    "name": "Axie Infinity",
+    "address": "0xBDE011911128F6bD4ABb1d18F39fdc3614Ca2cfe",
+    "symbol": "AXS",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/13029/small/axie_infinity_logo.png"
+  },
+  {
     "name": "Badger on xDai",
     "address": "0xdfc20AE04ED70bd9c7D720F449eEDAe19F659D65",
     "symbol": "BADGER",
@@ -160,14 +176,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/13547/small/BAO.png"
   },
   {
-    "name": "Base Protocol on xDai",
-    "address": "0x699D001ef13B15335193bC5FAd6CFC6747eeE8BE",
-    "symbol": "BASE",
-    "decimals": 9,
-    "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/baseprotocol_32.png"
-  },
-  {
     "name": "Basic Attention Token on xDai",
     "address": "0xC6cC63f4AA25BBD4453eB5F3a0DfE546feF9b2f3",
     "symbol": "BAT",
@@ -176,12 +184,12 @@
     "logoURI": "https://etherscan.io/token/images/bat.png"
   },
   {
-    "name": "BarnBridge",
-    "address": "0xb31a2595E4Cf66EfBC1Fe348b1429E5730891382",
-    "symbol": "BOND",
+    "name": "Bancor Network Token on xDai",
+    "address": "0x9a495a281D959192343B0e007284bf130bd05F86",
+    "symbol": "BNT",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://assets.coingecko.com/coins/images/12811/small/barnbridge.jpg"
+    "logoURI": "https://etherscan.io/token/images/bancor_32.png"
   },
   {
     "name": "Celsius on xDai",
@@ -279,14 +287,6 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
   },
   {
-    "name": "Ocean Token on xDai",
-    "address": "0x51732a6fC4673d1aCca4c047F5465922716508Ad",
-    "symbol": "OCEAN",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/oceantoken_28.png"
-  },
-  {
     "name": "Meta USD",
     "address": "0x7300AaFC0Ef0d47Daeb850f8b6a1931b40aCab33",
     "symbol": "mUSD",
@@ -303,12 +303,28 @@
     "logoURI": "https://assets.coingecko.com/coins/images/12381/large/token_2000x2000.png?1615791204"
   },
   {
+    "name": "POA20 on xDai",
+    "address": "0x985e144EB355273c4B4D51E448B68b657F482E26",
+    "symbol": "POA20",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://1inch.exchange/assets/tokens/0x6758b7d441a9739b98552b373703d8d3d14f9e62.png"
+  },
+  {
     "name": "Particle",
     "address": "0xB5d592f85ab2D955c25720EbE6FF8D4d1E1Be300",
     "symbol": "PRTCLE",
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/ShenaniganDApp/wiki/master/images/Particle.png"
+  },
+  {
+    "name": "Rarible on xDai",
+    "address": "0x4bE85ACC1cd711F403dC7BdE9e6caDfC5A94744b",
+    "symbol": "RARI",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://etherscan.io/token/images/rarible_32.png"
   },
   {
     "chainId": 100,
@@ -327,14 +343,6 @@
     "logoURI": "https://etherscan.io/token/images/Rocketpool_32.png"
   },
   {
-    "name": "Synth sETH on xDai",
-    "address": "0x8F365b41B98Fe84aCB287540b4B4AB633e07EDb2",
-    "symbol": "SETH",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/SynthetixsETH_32.png"
-  },
-  {
     "name": "Unisocks",
     "address": "0x35f346Cb4149746272974a92d719Fd48ae2F72FA",
     "symbol": "SOCKS",
@@ -349,6 +357,14 @@
     "decimals": 18,
     "symbol": "SNX",
     "logoURI": "https://assets.coingecko.com/coins/images/3406/small/SNX.png"
+  },
+  {
+    "chainId": 100,
+    "address": "0xB1950Fb2C9C0CbC8553578c67dB52Aa110A93393",
+    "name": "Synth sUSD on xDai",
+    "decimals": 18,
+    "symbol": "sUSD",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51/logo.png"
   },
   {
     "name": "tBTC on xDai",

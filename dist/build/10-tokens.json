@@ -194,6 +194,17 @@
         "symbol": "KROM"
     },
     {
+        "chainId": 10,
+        "address": "0xFdb794692724153d1488CcdBE0C56c252596735F",
+        "name": "Lido DAO Token",
+        "symbol": "LDO",
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/data/LDO/logo.svg",
+        "extensions": {
+            "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+        }
+    },
+    {
         "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
         "chainId": 10,
         "decimals": 18,
@@ -490,6 +501,17 @@
         "symbol": "WBTC"
     },
     {
+        "chainId": 10,
+        "address": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
+        "name": "Wrapped liquid staked Ether 2.0",
+        "symbol": "wstETH",
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
+        "extensions": {
+            "optimismBridgeAddress": "0x8E01013243a96601a86eb3153F0d9Fa4fbFb6957"
+        }
+    },
+    {
         "address": "0xE4F27b04cC7729901876B44f4EAA5102EC150265",
         "chainId": 10,
         "decimals": 18,
@@ -504,6 +526,132 @@
         "symbol": "ZRX",
         "decimals": 18,
         "logoURI": "https://ethereum-optimism.github.io/data/ZRX/logo.png",
+        "extensions": {
+            "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+        }
+    },
+    {
+        "chainId": 10,
+        "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+        "name": "FRAX",
+        "symbol": "FRAX",
+        "decimals": 18,
+        "logoURI": "https://docs.velodrome.finance/tokens/FRAX.png"
+    },
+    {
+        "chainId": 10,
+        "address": "0x67CCEA5bb16181E7b4109c9c2143c24a1c2205Be",
+        "name": "Frax Share",
+        "symbol": "FXS",
+        "decimals": 18,
+        "logoURI": "https://docs.velodrome.finance/tokens/FXS.png"
+    },
+    {
+        "chainId": 10,
+        "address": "0x764aD60e1B81F6CACfec1a2926393D688D4493E6",
+        "name": "AladdinCRV",
+        "symbol": "aCRV",
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/data/aCRV/logo.svg",
+        "extensions": {
+            "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+        }
+    },
+    {
+        "chainId": 10,
+        "address": "0xDb9888b842408B0b8eFa1f5477bD9F351754999E",
+        "name": "BAXagent Coin",
+        "symbol": "BAXA",
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/data/BAXA/logo.svg",
+        "extensions": {
+            "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+        }
+    },
+    {
+        "chainId": 10,
+        "address": "0xEc6adef5E1006bb305bB1975333e8fc4071295bf",
+        "name": "Cartesi Token",
+        "symbol": "CTSI",
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/data/CTSI/logo.svg",
+        "extensions": {
+            "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+        }
+    },
+    {
+        "chainId": 10,
+        "address": "0x0E49ca6EA763190084C846d3Fc18f28BC2aC689a",
+        "name": "Unit protocol",
+        "symbol": "DUCK",
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/data/DUCK/logo.png",
+        "extensions": {
+            "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+        }
+    },
+    {
+        "chainId": 10,
+        "address": "0x50Bce64397C75488465253c0A034b8097FeA6578",
+        "name": "HanChain",
+        "symbol": "HAN",
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/data/Han/logo.svg",
+        "extensions": {
+            "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+        }
+    },
+    {
+        "chainId": 10,
+        "address": "0x0B3e851cf6508A16266BC68A651ea68b31ef673b",
+        "name": "Loopfi",
+        "symbol": "LPF",
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/data/LPF/logo.svg",
+        "extensions": {
+            "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+        }
+    },
+    {
+        "chainId": 10,
+        "address": "0xeAeAdAC73baaF4cB8B024dE9D65B2eeFa722856C",
+        "name": "Respawn Finance Wrapped Staked Ethereum",
+        "symbol": "RFWSTETH",
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/data/RFWSTETH/logo.svg",
+        "extensions": {
+            "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+        }
+    },
+    {
+        "chainId": 10,
+        "address": "0xAe31207aC34423C41576Ff59BFB4E036150f9cF7",
+        "name": "Saddle DAO",
+        "symbol": "SDL",
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/data/SDL/logo.svg",
+        "extensions": {
+            "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+        }
+    },
+    {
+        "chainId": 10,
+        "address": "0xBb586Ed34974B15049a876fd5366A4C2d1203115",
+        "name": "Universal Basic Income",
+        "symbol": "UBI",
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/data/UBI/logo.svg",
+        "extensions": {
+            "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+        }
+    },
+    {
+        "chainId": 10,
+        "address": "0x0A9AAa1c7542b42233AC7FfdA364E97adE21f160",
+        "name": "Validator",
+        "symbol": "VALX",
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/data/VALX/logo.png",
         "extensions": {
             "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
         }
@@ -579,22 +727,6 @@
         "symbol": "VELO",
         "decimals": 18,
         "logoURI": "https://docs.velodrome.finance/velodrome.svg"
-    },
-    {
-        "chainId": 10,
-        "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
-        "name": "FRAX",
-        "symbol": "FRAX",
-        "decimals": 18,
-        "logoURI": "https://docs.velodrome.finance/tokens/FRAX.png"
-    },
-    {
-        "chainId": 10,
-        "address": "0x67CCEA5bb16181E7b4109c9c2143c24a1c2205Be",
-        "name": "Frax Share",
-        "symbol": "FXS",
-        "decimals": 18,
-        "logoURI": "https://docs.velodrome.finance/tokens/FXS.png"
     },
     {
         "chainId": 10,
@@ -743,10 +875,66 @@
     {
         "chainId": 10,
         "address": "0xB153FB3d196A8eB25522705560ac152eeEc57901",
+        "decimals": 18,
         "name": "Magic Internet Money",
         "symbol": "MIM",
+        "logoURI": "https://docs.velodrome.finance/tokens/MIM.svg"
+    },
+    {
+        "chainId": 10,
+        "address": "0x79AF5dd14e855823FA3E9ECAcdF001D99647d043",
+        "name": "Jarvis Synthetic Euro",
+        "symbol": "jEUR",
         "decimals": 18,
-        "logoURI": "https://docs.velodrome.finance/tokens/MIM.png"
+        "logoURI": "https://docs.velodrome.finance/tokens/jEUR.svg"
+    },
+    {
+        "chainId": 10,
+        "address": "0x39FdE572a18448F8139b7788099F0a0740f51205",
+        "name": "Oath Token",
+        "symbol": "OATH",
+        "decimals": 18,
+        "logoURI": "https://docs.velodrome.finance/tokens/OATH.png"
+    },
+    {
+        "chainId": 10,
+        "address": "0x4E720DD3Ac5CFe1e1fbDE4935f386Bb1C66F4642",
+        "name": "Beefy",
+        "symbol": "BIFI",
+        "decimals": 18,
+        "logoURI": "https://docs.velodrome.finance/tokens/BIFI.svg"
+    },
+    {
+        "chainId": 10,
+        "address": "0xc3864f98f2a61A7cAeb95b039D031b4E2f55e0e9",
+        "decimals": 18,
+        "name": "OpenX Project",
+        "symbol": "OPENX",
+        "logoURI": "https://docs.velodrome.finance/tokens/OPENX.png"
+    },
+    {
+        "chainId": 10,
+        "address": "0x1DB2466d9F5e10D7090E7152B68d62703a2245F0",
+        "decimals": 18,
+        "name": "Sonne Finance",
+        "symbol": "SONNE",
+        "logoURI": "https://docs.velodrome.finance/tokens/SONNE.png"
+    },
+    {
+        "chainId": 10,
+        "address": "0x2513486f18eeE1498D7b6281f668B955181Dd0D9",
+        "decimals": 18,
+        "name": "OpenXSwap Gov Token",
+        "symbol": "xOpenX",
+        "logoURI": "https://docs.velodrome.finance/tokens/xOPENX.png"
+    },
+    {
+        "chainId": 10,
+        "address": "0xE3AB61371ECc88534C522922a026f2296116C109",
+        "decimals": 18,
+        "name": "Spell Token",
+        "symbol": "SPELL",
+        "logoURI": "https://docs.velodrome.finance/tokens/SPELL.svg"
     },
     {
         "address": "0x6F620EC89B8479e97A6985792d0c64F237566746",
