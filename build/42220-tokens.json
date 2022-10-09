@@ -320,6 +320,14 @@
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pCELO.png"
   },
   {
+    "name": "USDC (Portal from Ethereum)",
+    "address": "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd",
+    "symbol": "USDCet",
+    "decimals": 6,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCet_wh_small.png"
+  },
+  {
     "name": "CeloStarter",
     "address": "0x452EF5a4bD00796e62E5e5758548e0dA6e8CCDF3",
     "symbol": "cStar",
@@ -646,14 +654,6 @@
     "decimals": 18,
     "chainId": 42220,
     "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/token-stcelo.svg"
-  },
-  {
-    "name": "USDC (Portal from Ethereum)",
-    "address": "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd",
-    "symbol": "USDCet",
-    "decimals": 6,
-    "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCet_wh_small.png"
   },
   {
     "name": "DAI Stablecoin (Portal)",

@@ -16,14 +16,6 @@
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_UBE.png"
   },
   {
-    "address": "0x1a8Dbe5958c597a744Ba51763AbEBD3355996c3e",
-    "name": "Rewards CELO",
-    "symbol": "rCELO",
-    "chainId": 42220,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_rCELO.png"
-  },
-  {
     "address": "0x2879BFD5e7c4EF331384E908aaA3Bd3014b703fA",
     "name": "Savings CELO",
     "symbol": "sCELO",
@@ -70,14 +62,6 @@
     "decimals": 18,
     "chainId": 42220,
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cUSD.png"
-  },
-  {
-    "name": "Duniapay West African CFA franc",
-    "address": "0x832F03bCeE999a577cb592948983E35C048B5Aa4",
-    "symbol": "cXOF",
-    "decimals": 18,
-    "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cXOF.png"
   },
   {
     "address": "0xa8d0E6799FF3Fd19c6459bf02689aE09c4d78Ba7",
@@ -312,6 +296,14 @@
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pCELO.png"
   },
   {
+    "name": "USDC (Portal from Ethereum)",
+    "address": "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd",
+    "symbol": "USDCet",
+    "decimals": 6,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCet_wh_small.png"
+  },
+  {
     "name": "CeloStarter",
     "address": "0x452EF5a4bD00796e62E5e5758548e0dA6e8CCDF3",
     "symbol": "cStar",
@@ -472,6 +464,14 @@
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cREAL.png"
   },
   {
+    "name": "Poof USD",
+    "address": "0xEadf4A7168A82D30Ba0619e64d5BCf5B30B45226",
+    "symbol": "pUSD",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pUSD.png"
+  },
+  {
     "address": "0xEe9801669C6138E84bD50dEB500827b776777d28",
     "name": "O3 Swap Token",
     "symbol": "O3",
@@ -552,14 +552,6 @@
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pCELO.png"
   },
   {
-    "address": "0xBc440BB632ac311F8877dEE23e77ddb1065703B7",
-    "chainId": 42220,
-    "name": "Prime (Wormhole)",
-    "symbol": "D2D",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/21609/small/RJD82RrV_400x400.jpg?1639559164"
-  },
-  {
     "name": "cRecy",
     "address": "0x34C11A932853Ae24E845Ad4B633E3cEf91afE583",
     "symbol": "cRecy",
@@ -574,14 +566,6 @@
     "decimals": 18,
     "chainId": 42220,
     "logoURI": "https://raw.githubusercontent.com/jesse-sawa/celo-token-list/master/assets/token-stcelo.svg"
-  },
-  {
-    "name": "USDC (Portal from Ethereum)",
-    "address": "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd",
-    "symbol": "USDCet",
-    "decimals": 6,
-    "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCet_wh_small.png"
   },
   {
     "address": "0xC7144Fa865c9f3a6836167A51531A2CC8b0ab5fD",
@@ -603,22 +587,6 @@
     "address": "0x266C13DeD5A1d636E502fd56B3F76d38c3107EC2",
     "name": "kUSD",
     "symbol": "kUSD",
-    "chainId": 42220,
-    "decimals": 18,
-    "logoURI": ""
-  },
-  {
-    "address": "0x091733f0245A4395d8BfE42C74A619328269F12F",
-    "name": "KnoxDAO",
-    "symbol": "KNOX",
-    "chainId": 42220,
-    "decimals": 18,
-    "logoURI": ""
-  },
-  {
-    "address": "0x0631DD22cd83508f50ea11e1CAE82801Bb9904aC",
-    "name": "Cellular Finance Token",
-    "symbol": "CELL",
     "chainId": 42220,
     "decimals": 18,
     "logoURI": ""
